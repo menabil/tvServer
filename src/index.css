@@ -1,6 +1,76 @@
 @import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap");
 
-/* @theme {
-    --font-openSans: "Open Sans", sans-serif; 
-    --shadow-newMade: 0 28px 30px rgba(99, 122, 166, 0.05);
-} */
+/* Manual dark mode toggle: add/remove the .dark class on <html> */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-display: "Space Grotesk", "Inter", sans-serif;
+}
+
+/* ---- Light theme (default) ---- */
+:root {
+  --bg: #f2f3f6;
+  --surface: #ffffff;
+  --surface-2: #eef0f4;
+  --border: #e2e5ec;
+  --text: #161922;
+  --text-muted: #6b7280;
+  --accent: #e6483f;
+  --accent-soft: #fbe7e5;
+  --accent-2: #0d9488;
+}
+
+/* ---- Dark theme ---- */
+.dark {
+  --bg: #0d1016;
+  --surface: #161a23;
+  --surface-2: #1e232d;
+  --border: #2a313d;
+  --text: #eef1f6;
+  --text-muted: #8a93a6;
+  --accent: #ff6b5e;
+  --accent-soft: rgba(255, 107, 94, 0.12);
+  --accent-2: #2dd4bf;
+}
+
+html {
+  background-color: var(--bg);
+  color-scheme: light dark;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+/* Signature "on-air" pulse used for the live indicator */
+@keyframes pulse-live {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(0.7);
+    opacity: 0.55;
+  }
+}
+
+.live-dot {
+  animation: pulse-live 1.6s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .live-dot {
+    animation: none;
+  }
+}
+
+/* Slim scrollbars for chip rows */
+.chip-row::-webkit-scrollbar {
+  height: 0;
+}
+.chip-row {
+  scrollbar-width: none;
+}
