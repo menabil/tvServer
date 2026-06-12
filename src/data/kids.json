@@ -1,0 +1,1306 @@
+[
+  {
+    "name": "Cartoon Network",
+    "logo": "https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",
+    "group": "Kids",
+    "url": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1779283917&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6f8487c9adac23cedcbca869d7d7a595",
+    "status": "live",
+    "id": "cartoon-network-114"
+  },
+  {
+    "name": "Disney JR",
+    "logo": "https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6",
+    "group": "Kids",
+    "url": "https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1779283918&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5269dc1176c26984cb3eff6a2c891c14",
+    "status": "live",
+    "id": "disney-jr-115"
+  },
+  {
+    "name": "3ABN Kids",
+    "logo": "https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814",
+    "group": "Kids",
+    "url": "https://tvsen6.aynaott.com/3abnkids/index.m3u8?e=1779283920&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2032eede500d4def7448a9c0d71103e1",
+    "status": "live",
+    "id": "3abn-kids-120"
+  },
+  {
+    "name": "Nicktoons",
+    "logo": "https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e",
+    "group": "Kids",
+    "url": "https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1779283918&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bbed6be573aa4a90a753bfb8fc060038",
+    "status": "live",
+    "id": "nicktoons-121"
+  },
+  {
+    "name": "Nickjr",
+    "logo": "https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e",
+    "group": "Kids",
+    "url": "https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1779283919&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4708f179311f53518e4b1a8b697c8c1e",
+    "status": "live",
+    "id": "nickjr-122"
+  },
+  {
+    "name": "Moonbug Kids",
+    "logo": "https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d",
+    "group": "Kids",
+    "url": "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8?e=1779283923&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=52145358ed3be27c1e34ba90b246262a",
+    "status": "live",
+    "id": "moonbug-kids-124"
+  },
+  {
+    "name": "Disney Channel",
+    "logo": "https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1",
+    "group": "Kids",
+    "url": "https://tvsen7.aynaott.com/disney/index.m3u8?e=1779283925&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=edae9ca94bed2313e48e56a9085b496d",
+    "status": "live",
+    "id": "disney-channel-125"
+  },
+  {
+    "name": "Disney XD",
+    "logo": "https://s3.aynaott.com/storage/f9b945284524683f1de8beb07ded8989",
+    "group": "Kids",
+    "url": "https://tvsen5.aynaott.com/disneyxd/index.m3u8?e=1779283925&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ffdc9b78c58295f55906f225a10a425c",
+    "status": "live",
+    "id": "disney-xd-127"
+  },
+  {
+    "name": "Teen Nick",
+    "logo": "https://s3.aynaott.com/storage/5739277278d596533abbacc60ea694be",
+    "group": "Kids",
+    "url": "https://tvsen7.aynaott.com/teennick/index.m3u8?e=1779283927&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3404b7a0258a1438c3f8204f2df21ddc",
+    "status": "live",
+    "id": "teen-nick-130"
+  },
+  {
+    "name": "Nickelodeon",
+    "logo": "https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541",
+    "group": "Kids",
+    "url": "https://tvsen7.aynaott.com/nicklodean/index.m3u8?e=1779283926&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6cbf077eae56bf7598b035f3c466d2b1",
+    "status": "live",
+    "id": "nickelodeon-131"
+  },
+  {
+    "name": "YTV",
+    "logo": "https://s3.aynaott.com/storage/d79d89851faee0823a1f2bed1a96e84d",
+    "group": "Kids",
+    "url": "https://tvsen6.aynaott.com/ytv/index.m3u8?e=1779283928&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=da75648d71ae8bd710a9bb53e62ce4c0",
+    "status": "live",
+    "id": "ytv-132"
+  },
+  {
+    "name": "0. Kids Pang TV",
+    "logo": "https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf",
+    "group": "Kids",
+    "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8",
+    "status": "live",
+    "id": "0kidspangtv-419"
+  },
+  {
+    "name": "0. TVCARiB Kids & Teens",
+    "logo": "https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6",
+    "group": "Kids",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+    "status": "live",
+    "id": "0tvcaribkidsteens-448"
+  },
+  {
+    "name": "1. Dios Te Ve Kids",
+    "logo": "https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67",
+    "group": "Kids",
+    "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "status": "live",
+    "id": "1diostevekids-436"
+  },
+  {
+    "name": "Duronto TV",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ10o12m5_heYW_O1b71UxtR_ZtpK9dmjzwh1XaPs3lfC8Ev4CweSEOam1lCJ5Tf0V59Yyba60h-UPffxAIMj78BM-qvY5ZMeEAVJYfJ1lOzP0gQn3zX5_iduoCgPb7y-d2NB6NgJ0Ck7vTkwg9VxjNTtmSs4yHN3SHIyxGoZe00djFk5vh95PuCrF/s600/Nur_20251103_211727_0000.png",
+    "group": "Kids",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/playlist.m3u8",
+    "id": "duronto-tv-1061"
+  },
+  {
+    "name": "AMC Anime",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu_yHwHmpErn40B0lBW41JKAQNuWkNnNZzoJL5QBkU-9_QPVT5jQhL4yMzM2XBPBX3CorKWC0c8gbR-swf_VwYELCjTYKgZSxahvm1CTDjRUCxZXqET4QiYVZ3Ht8Uwaf69Xf7zBQrCWdeaSaEDZhyphenhyphenF1F83RSIqUxtXhbcbP2eyQUD-muEcp5Prq1R/s600/Nur_20251103_234937_0000.png",
+    "group": "Kids",
+    "url": "https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/amc_anime_x_hidive_1/lg_us/latest/main/hls/playlist.m3u8",
+    "id": "amc-anime-1079"
+  },
+  {
+    "name": "Oggy & Cockroaches",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRB4drGtiLC7n-WUv1Whw5zivy-mXgxQ_x3sidxEBL5bItoFPLDbbYPZ7IQ1yyk0xNc8Qz_E05I0CppL3bpp4iB2YvDvTPb9GAjmEbOwTJFBCTxOpQhlBIltjIPsbqloBL0Ah-4lSLtDCoQj6cQpmkkp082IQvRYN9bHTmEQIdkOkcKaB30168kd0qmw/s600/Nur_20251227_140437_0000.png",
+    "group": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8",
+    "id": "oggy-cockroaches-1080"
+  },
+  {
+    "name": "Motu Patlu",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg21ZAgQbK7cWgg1jsBXguoD2T4TNjPxPDY0-fhefmIhX6SucV6RmhP_GbxvUTc3zUBCyuCVPM2Aylb_NbFqTDrIvMYhMGYO3iYMNDKvIWFF9MgSV3sTe2zPxHGnXQYvu9wbPUNxRgQz8Y_3V7Skc-vHbqSpEe-5J-G_NuBGAUrCtqWaplTaubIbpzsKw/s600/Nur_20251216_230424_0000.png",
+    "group": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8",
+    "id": "motu-patlu-1081"
+  },
+  {
+    "name": "Batul the Great",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMOfC7NSiiuVI790ObTRdMxvxQxJKZ6txYs_yi2i8TyD49hKqiKe_B4Imw8apKnzx_4wYwLXrHaqTs8xHuFwasDJXtpwoYF_wIF9PaOwNPAzebYJNudCeSBFVLr_29AFty7aRMPu_GXn57d5ClKabsMZFDVwwWHE7EQhWnmuGaNBUvlaHArQNNarK14A/s1080/1000057901.png",
+    "group": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8",
+    "id": "batul-the-great-1082"
+  },
+  {
+    "name": "Gopal Bhar",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWh27tjd1FNVAOPSX0USYijfaEyINTkfaG0cPk8rzg61aDbyXSp2tBqxIb84p8UyhJLLNiDNC59fZD90u2gn52piHfUmy-ULyeZbf_mkRGvJKVKdwLYSOPiLEQJV2p8uvgVK-PB8ADIGcGotQOnNqrp4gTasKVqoxJ3sbt-77SeKqG-0frt2nLktDXlw/s600/Nur_20251216_230322_0000.png",
+    "group": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
+    "id": "gopal-bhar-1083"
+  },
+  {
+    "name": "Cartoon Network PK",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2_Oo4wyPeRJLk6Qx2LR-qkU7yUMefWJePaqWug6mf0BpN9c-JOnMtXrlahIdhb20vUfRAVmne71FSD3RUY_is9kr7fWe5K0Yd33IDt-mAC75fv7cfe49rOlV-a-JF5T1_7XV16ayq1hf2yg018vibmqvuCTigY3ZQn0G00e_Dxl7gZy8a1LZ6C-SAvg/s600/Nur_20251222_155548_0000.png",
+    "group": "Kids",
+    "url": "https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8",
+    "id": "cartoon-network-pk-1084"
+  },
+  {
+    "name": "BuddyStar HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
+    "group": "Kids",
+    "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8",
+    "id": "buddystarhd-646"
+  },
+  {
+    "name": "Joy",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
+    "group": "Kids",
+    "url": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8",
+    "id": "joy-647"
+  },
+  {
+    "name": "Funny Junior HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",
+    "group": "Kids",
+    "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8",
+    "id": "funnyjuniorhd-652"
+  },
+  {
+    "name": "Smarty",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
+    "group": "Kids",
+    "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8",
+    "id": "smarty-669"
+  },
+  {
+    "name": "Lucky Family",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",
+    "group": "Kids",
+    "url": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8",
+    "id": "luckyfamily-673"
+  },
+  {
+    "name": "Kids Stars",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",
+    "group": "Kids",
+    "url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8",
+    "id": "kidsstars-671"
+  },
+  {
+    "name": "Nikki",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png",
+    "group": "Kids",
+    "url": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8",
+    "id": "nikki-661"
+  },
+  {
+    "name": "1. Rongeen TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg",
+    "group": "Kids",
+    "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+    "id": "1rongeentv-427"
+  },
+  {
+    "name": "Disney Channel HD",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/11/Disney_Channel_India_HD.png",
+    "group": "Kids",
+    "url": "https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://t.freetv.fun/live/disney-channel.m3u8",
+    "id": "disney-channel-hd-1180"
+  },
+  {
+    "name": "0. Tom and Jerry 2",
+    "logo": "https://gia.tv/streams/pptv/208314.jpg?1750373428",
+    "group": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+    "tvg_id": "TomAndJerry.do@HD",
+    "status": "live",
+    "id": "0tomandjerry2-428"
+  },
+  {
+    "name": "Knowledge Network",
+    "logo": "https://i.imgur.com/wtuoS93.png",
+    "group": "Kids",
+    "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index_2.m3u8",
+    "id": "knowledge-network-1182"
+  },
+  {
+    "name": "PBS Kids",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png",
+    "group": "Kids",
+    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR",
+    "id": "pbs-kids-1183"
+  },
+  {
+    "name": "Tiny Pop",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/Tiny_Pop_2018.svg",
+    "group": "Kids",
+    "url": "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8",
+    "id": "tiny-pop-1184"
+  },
+  {
+    "name": "4 Fun Kids (576i) [[Not 24/7]]",
+    "logo": "https://i.imgur.com/2JO5Y8c.png",
+    "group": "Kids",
+    "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
+    "tvg_id": "4FunKids.pl@SD",
+    "status": "live",
+    "id": "4-fun-kids-576i-not-24-7-1272"
+  },
+  {
+    "name": "ABC Kids",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+    "group": "Kids",
+    "url": "https://c.mjh.nz/abc-kids.m3u8",
+    "tvg_id": "ABCKids.au@Sydney",
+    "status": "live",
+    "id": "abc-kids-1402"
+  },
+  {
+    "name": "Afarin TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/6MnXD7g.png",
+    "group": "Kids",
+    "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+    "tvg_id": "AfarinTV.iq@SD",
+    "status": "live",
+    "id": "afarin-tv-720p-not-24-7-1463"
+  },
+  {
+    "name": "Afarin Baxcha (1080p)",
+    "logo": "https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png",
+    "group": "Kids",
+    "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+    "tvg_id": "AfarinBaxcha.iq@SD",
+    "status": "live",
+    "id": "afarin-baxcha-1080p-1464"
+  },
+  {
+    "name": "ADN TV+",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/73/ADN40_2022.svg",
+    "group": "Kids",
+    "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+    "tvg_id": "ADNTVPlus.fr@SD",
+    "status": "live",
+    "id": "adntv-468"
+  },
+  {
+    "name": "Aghapy Kids (1080p)",
+    "logo": "https://i.imgur.com/8ariztD.png",
+    "group": "Kids",
+    "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
+    "tvg_id": "AghapyKids.us@SD",
+    "status": "live",
+    "id": "aghapy-kids-1080p-1504"
+  },
+  {
+    "name": "Amou Yazid TV (576p)",
+    "logo": "https://i.imgur.com/L8UPGPC.png",
+    "group": "Kids",
+    "url": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
+    "tvg_id": "AmouYazidTV.dz@SD",
+    "status": "live",
+    "id": "amou-yazid-tv-576p-1677"
+  },
+  {
+    "name": "Ani (576p)",
+    "logo": "https://i.imgur.com/i2AP0hp.png",
+    "group": "Kids",
+    "url": "http://31.148.48.15/Ani/index.m3u8",
+    "tvg_id": "Ani.ru@SD",
+    "status": "live",
+    "id": "ani-576p-1699"
+  },
+  {
+    "name": "ARB Gunes",
+    "logo": "https://i.imgur.com/dSg7KUK.png",
+    "group": "Kids",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8",
+    "tvg_id": "ARBGunes.az@SD",
+    "status": "live",
+    "id": "arb-gunes-1742"
+  },
+  {
+    "name": "Atfal & Mawaheb TV (1080p)",
+    "logo": "https://i.imgur.com/Y2BqP9m.png",
+    "group": "Kids",
+    "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+    "tvg_id": "AtfalMawahebTV.sa@SD",
+    "status": "live",
+    "id": "atfal-mawaheb-tv-1080p-1793"
+  },
+  {
+    "name": "Baby Shark TV (1080p)",
+    "logo": "https://i.imgur.com/SbBKr8L.png",
+    "group": "Kids",
+    "url": "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8",
+    "tvg_id": "BabySharkTV.us@SD",
+    "status": "live",
+    "id": "baby-shark-tv-1080p-1857"
+  },
+  {
+    "name": "Baby Shark TV",
+    "logo": "https://i.imgur.com/SbBKr8L.png",
+    "group": "Kids",
+    "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8",
+    "tvg_id": "BabySharkTV.us@Poland",
+    "status": "live",
+    "id": "baby-shark-tv-1859"
+  },
+  {
+    "name": "BabyTV Spain (1080p)",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "group": "Kids",
+    "url": "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8",
+    "tvg_id": "BabyTV.uk@Spain",
+    "status": "live",
+    "id": "babytv-spain-1080p-1883"
+  },
+  {
+    "name": "Balapan TV (1080p)",
+    "logo": "https://i.imgur.com/2o5T0gi.png",
+    "group": "Kids",
+    "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+    "tvg_id": "Balapan.kz@SD",
+    "status": "live",
+    "id": "balapan-tv-1080p-1884"
+  },
+  {
+    "name": "Biznet Kids (1080p)",
+    "logo": "https://i.imgur.com/J5QNqJ0.png",
+    "group": "Kids",
+    "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
+    "tvg_id": "BiznetKids.id@SD",
+    "status": "live",
+    "id": "biznet-kids-1080p-1996"
+  },
+  {
+    "name": "Bolajon (576p)",
+    "logo": "https://i.imgur.com/s7o0ifu.png",
+    "group": "Kids",
+    "url": "https://stream8.cinerama.uz/1007/playlist.m3u8",
+    "tvg_id": "Bolajon.uz@SD",
+    "status": "live",
+    "id": "bolajon-576p-2037"
+  },
+  {
+    "name": "Brat TV (1080p)",
+    "logo": "https://i.imgur.com/Kkcp9Bk.png",
+    "group": "Kids",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8",
+    "tvg_id": "BratTV.us@SD",
+    "status": "live",
+    "id": "brat-tv-1080p-2049"
+  },
+  {
+    "name": "Bravo! Kids TV (1080p)",
+    "logo": "https://i.imgur.com/JcJ6fQ9.png",
+    "group": "Kids",
+    "url": "https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8",
+    "tvg_id": "BravoKidsTV.hr@SD",
+    "status": "live",
+    "id": "bravo-kids-tv-1080p-2094"
+  },
+  {
+    "name": "1. Camp Spoopy",
+    "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png",
+    "group": "Kids",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
+    "tvg_id": "CampSpoopy.us@SD",
+    "status": "live",
+    "id": "1campspoopy-450"
+  },
+  {
+    "name": "Carousel (1080p)",
+    "logo": "https://i.imgur.com/4wmnx1W.png",
+    "group": "Kids",
+    "url": "http://31.148.48.15/Karusel_HD/index.m3u8",
+    "tvg_id": "Carousel.ru@SD",
+    "status": "live",
+    "id": "carousel-1080p-2287"
+  },
+  {
+    "name": "Chithiram (576p)",
+    "logo": "https://i.imgur.com/xv9cWSh.png",
+    "group": "Kids",
+    "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
+    "tvg_id": "Chithiram.in@SD",
+    "status": "live",
+    "id": "chithiram-576p-2434"
+  },
+  {
+    "name": "Chinola TV (480p)",
+    "logo": "https://i.imgur.com/ybud4dI.png",
+    "group": "Kids",
+    "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
+    "tvg_id": "ChinolaTV.do@SD",
+    "status": "live",
+    "id": "chinola-tv-480p-2440"
+  },
+  {
+    "name": "ČT:D/ČT art (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
+    "group": "Kids",
+    "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+    "tvg_id": "CTDecko.cz@SD",
+    "status": "live",
+    "id": "t-d-t-art-1080p-2593"
+  },
+  {
+    "name": "Disney Channel (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "group": "Kids",
+    "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
+    "tvg_id": "DisneyChannel.pt@SD",
+    "status": "live",
+    "id": "disney-channel-1080p-2727"
+  },
+  {
+    "name": "Disney Channel Japan (544p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "group": "Kids",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24",
+    "tvg_id": "DisneyChannel.jp@SD",
+    "status": "live",
+    "id": "disney-channel-japan-544p-2731"
+  },
+  {
+    "name": "Disney Jr. (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
+    "group": "Kids",
+    "url": "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8",
+    "tvg_id": "DisneyJr.fr@SD",
+    "status": "live",
+    "id": "disney-jr-1080p-2733"
+  },
+  {
+    "name": "Disney Junior (1080i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "group": "Kids",
+    "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
+    "tvg_id": "DisneyJunior.us@East",
+    "status": "live",
+    "id": "disney-junior-1080i-2735"
+  },
+  {
+    "name": "Disney XD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
+    "group": "Kids",
+    "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+    "tvg_id": "DisneyXD.us@East",
+    "status": "live",
+    "id": "disney-xd-720p-2736"
+  },
+  {
+    "name": "ducktv (720p)",
+    "logo": "https://i.imgur.com/gRFQ35W.png",
+    "group": "Kids",
+    "url": "https://jmp2.uk/stvp-ESBC4700001GR",
+    "tvg_id": "ducktv.sk@SD",
+    "status": "live",
+    "id": "ducktv-720p-2816"
+  },
+  {
+    "name": "El Chavo TV (720p)",
+    "logo": "https://gia.tv/streams/pptv/211465.png",
+    "group": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+    "tvg_id": "ElChavoTV.mx@HD",
+    "status": "live",
+    "id": "el-chavo-tv-720p-2855"
+  },
+  {
+    "name": "GEM Junior",
+    "logo": "https://i.imgur.com/jK8yzj2.png",
+    "group": "Kids",
+    "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202",
+    "tvg_id": "GEMJunior.tr@SD",
+    "status": "live",
+    "id": "gem-junior-3182"
+  },
+  {
+    "name": "GEM Kids",
+    "logo": "https://i.imgur.com/ArkjaFk.png",
+    "group": "Kids",
+    "url": "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202",
+    "tvg_id": "GEMKids.tr@SD",
+    "status": "live",
+    "id": "gem-kids-3183"
+  },
+  {
+    "name": "Gulli Girl (720p)",
+    "logo": "https://i.imgur.com/lbViDuC.png",
+    "group": "Kids",
+    "url": "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
+    "tvg_id": "GulliGirl.ru@SD",
+    "status": "live",
+    "id": "gulli-girl-720p-3328"
+  },
+  {
+    "name": "HappyKids (1080p)",
+    "logo": "https://i.imgur.com/cPrUCFw.png",
+    "group": "Kids",
+    "url": "https://dil9xdvretp0f.cloudfront.net/index.m3u8",
+    "tvg_id": "HappyKids.us@SD",
+    "status": "live",
+    "id": "happykids-1080p-3361"
+  },
+  {
+    "name": "1. Hi Dost!",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Hi_dostv2.png",
+    "group": "Kids",
+    "url": "https://cdn-1.pishow.tv/live/224/master.m3u8",
+    "tvg_id": "HiDost.in@SD",
+    "status": "live",
+    "id": "1hidost-418"
+  },
+  {
+    "name": "HodHod Farsi TV (1080p)",
+    "logo": "https://i.imgur.com/l8XMKTT.png",
+    "group": "Kids",
+    "url": "https://northtelecom.b-cdn.net/hodhodtv.m3u8",
+    "tvg_id": "HodHodFarsiTV.ir@SD",
+    "status": "live",
+    "id": "hodhod-farsi-tv-1080p-3438"
+  },
+  {
+    "name": "Iunior TV (1080p)",
+    "logo": "https://i.imgur.com/FBOJnfT.png",
+    "group": "Kids",
+    "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8",
+    "tvg_id": "IuniorTV.it@SD",
+    "status": "live",
+    "id": "iunior-tv-1080p-3585"
+  },
+  {
+    "name": "JimJam Europe (576p)",
+    "logo": "https://i.imgur.com/ODhkYyx.png",
+    "group": "Kids",
+    "url": "http://158.160.149.81:8080/269/index.m3u8",
+    "tvg_id": "JimJamEurope.uk@SD",
+    "status": "live",
+    "id": "jimjam-europe-576p-3623"
+  },
+  {
+    "name": "Kartoon Channel (1080p)",
+    "logo": "https://i.imgur.com/1luzP3T.png",
+    "group": "Kids",
+    "url": "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
+    "tvg_id": "KartoonChannel.us@SD",
+    "status": "live",
+    "id": "kartoon-channel-1080p-3715"
+  },
+  {
+    "name": "Kids Station (544p)",
+    "logo": "https://i.imgur.com/Z2HEh0A.jpeg",
+    "group": "Kids",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07",
+    "tvg_id": "KidsStation.jp@SD",
+    "status": "live",
+    "id": "kids-station-544p-3741"
+  },
+  {
+    "name": "KiKA (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/vZdNp5S.png",
+    "group": "Kids",
+    "url": "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
+    "tvg_id": "KiKA.de@SD",
+    "status": "live",
+    "id": "kika-1080p-not-24-7-3744"
+  },
+  {
+    "name": "1. KIDS FLIX",
+    "logo": "https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png",
+    "group": "Kids",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
+    "tvg_id": "KidsFlix.us@SD",
+    "status": "live",
+    "id": "1kidsflix-439"
+  },
+  {
+    "name": "0. Knowledge Network",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/knowledge-network-ca.png",
+    "group": "Kids",
+    "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8",
+    "tvg_id": "KnowledgeNetwork.ca@SD",
+    "status": "live",
+    "id": "0knowledgenetwork-423"
+  },
+  {
+    "name": "Lale",
+    "logo": "https://i.imgur.com/CNhqVHd.png",
+    "group": "Kids",
+    "url": "https://iptv.prosto.tv/ch77/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783084689&st=rPsumttSTQSUM-5DQx9lzw",
+    "tvg_id": "Lale.ua@SD",
+    "status": "live",
+    "id": "lale-3865"
+  },
+  {
+    "name": "M2 Petofi (720 p)",
+    "logo": "https://i.imgur.com/N7fc9X6.png",
+    "group": "Kids",
+    "url": "http://46.149.191.217:9005/play/a016",
+    "tvg_id": "M2Petofi.hu@SD",
+    "status": "live",
+    "id": "m2-petofi-720-p-4014"
+  },
+  {
+    "name": "MAX Kids",
+    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/landscape_carousel_xxhdpi.webp",
+    "group": "Kids",
+    "url": "https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd",
+    "tvg_id": "MAXKids.id@SD",
+    "status": "live",
+    "id": "max-kids-4097"
+  },
+  {
+    "name": "MBC 3 USA (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/PVt8OPN.png",
+    "group": "Kids",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+    "tvg_id": "MBC3USA.us@SD",
+    "status": "live",
+    "id": "mbc-3-usa-1080p-geo-blocked-4114"
+  },
+  {
+    "name": "Memorias TV Toons (480p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/2fiiNCz.png",
+    "group": "Kids",
+    "url": "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8",
+    "tvg_id": "MemoriasTVToons.co@SD",
+    "status": "live",
+    "id": "memorias-tv-toons-480p-geo-blocked-4180"
+  },
+  {
+    "name": "Minimax (576p) (576p)",
+    "logo": "https://i.imgur.com/WWOlm1x.png",
+    "group": "Kids",
+    "url": "http://88.212.15.19/live/test_minimax/playlist.m3u8",
+    "tvg_id": "MinimaxCEE.cz@SD",
+    "status": "live",
+    "id": "minimax-576p-576p-4228"
+  },
+  {
+    "name": "Minimax (360p)",
+    "logo": "https://i.imgur.com/TJvf8vd.png",
+    "group": "Kids",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
+    "tvg_id": "Minimax.pk@SD",
+    "status": "live",
+    "id": "minimax-360p-4232"
+  },
+  {
+    "name": "Moonbug Kids (1080p)",
+    "logo": "https://i.imgur.com/vZHtxQb.png",
+    "group": "Kids",
+    "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+    "tvg_id": "MoonbugKids.uk@SD",
+    "status": "live",
+    "id": "moonbug-kids-1080p-4287"
+  },
+  {
+    "name": "Nickelodeon (1080p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "group": "Kids",
+    "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
+    "tvg_id": "Nickelodeon.fr@SD",
+    "status": "live",
+    "id": "nickelodeon-1080p-4514"
+  },
+  {
+    "name": "Nickelodeon (1080p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "group": "Kids",
+    "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
+    "tvg_id": "Nickelodeon.es@SD",
+    "status": "live",
+    "id": "nickelodeon-1080p-4515"
+  },
+  {
+    "name": "1. Nickelodeon",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_%28formerly_Noggin%29_New_Logo.jpg",
+    "group": "Kids",
+    "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+    "tvg_id": "Nickelodeon.us@East",
+    "status": "live",
+    "id": "1nickelodeon-432"
+  },
+  {
+    "name": "Nickelodeon Junior (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
+    "group": "Kids",
+    "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8",
+    "tvg_id": "NickelodeonJunior.fr@SD",
+    "status": "live",
+    "id": "nickelodeon-junior-1080p-4518"
+  },
+  {
+    "name": "Nickelodeon Global (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+    "group": "Kids",
+    "url": "http://46.149.191.217:9011/play/a018",
+    "tvg_id": "NickelodeonGlobal.uk@SD",
+    "status": "live",
+    "id": "nickelodeon-global-576p-4519"
+  },
+  {
+    "name": "Nickelodeon Asia Indonesia (720p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "group": "Kids",
+    "url": "http://202.169.224.202:8800/udp/239.9.1.17:1234",
+    "tvg_id": "NickelodeonAsia.sg@Indonesia",
+    "status": "live",
+    "id": "nickelodeon-asia-indonesia-720p-4520"
+  },
+  {
+    "name": "Omid",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png",
+    "group": "Kids",
+    "url": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8",
+    "tvg_id": "IRIBOmid.ir@SD",
+    "status": "live",
+    "id": "omid-4654"
+  },
+  {
+    "name": "0. PBS Kids",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bb/PBS_Kids_%282022%29.svg",
+    "group": "Kids",
+    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+    "tvg_id": "PBSKidsEasternCentral.us@SD",
+    "status": "live",
+    "id": "0pbskids-408"
+  },
+  {
+    "name": "PBS Kids (Eastern Feed)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png",
+    "group": "Kids",
+    "url": "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8",
+    "tvg_id": "PBSKids.us@SD",
+    "status": "live",
+    "id": "pbskidseasternfeed-454"
+  },
+  {
+    "name": "PBS Kids (Hawaii Feed)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png",
+    "group": "Kids",
+    "url": "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8",
+    "tvg_id": "PBSKidsHawaii.us@SD",
+    "status": "live",
+    "id": "pbskidshawaiifeed-463"
+  },
+  {
+    "name": "Persiana Junior",
+    "logo": "https://i.imgur.com/zeKHZYG.png",
+    "group": "Kids",
+    "url": "https://junhls.persiana.live/hls/stream.m3u8",
+    "tvg_id": "PersianaJunior.fr@SD",
+    "status": "live",
+    "id": "persiana-junior-4795"
+  },
+  {
+    "name": "pocket.watch Game On (1080p)",
+    "logo": "https://i.imgur.com/T0V90Lz.png",
+    "group": "Kids",
+    "url": "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8",
+    "tvg_id": "pocketwatch.us@SD",
+    "status": "live",
+    "id": "pocket-watch-game-on-1080p-4837"
+  },
+  {
+    "name": "Pooya & Nahal",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
+    "group": "Kids",
+    "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
+    "tvg_id": "PooyaTV.ir@SD",
+    "status": "live",
+    "id": "pooya-nahal-4858"
+  },
+  {
+    "name": "Pooya TV Plus",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
+    "group": "Kids",
+    "url": "https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8",
+    "tvg_id": "PooyaTVPlus.ir@SD",
+    "status": "live",
+    "id": "pooya-tv-plus-4859"
+  },
+  {
+    "name": "Rai YoYo (576p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/9gCxiDy.png",
+    "group": "Kids",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
+    "tvg_id": "RaiYoyo.it@SD",
+    "status": "live",
+    "id": "rai-yoyo-576p-geo-blocked-5073"
+  },
+  {
+    "name": "Roya Kids",
+    "logo": "https://i.imgur.com/acuCGF8.png",
+    "group": "Kids",
+    "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
+    "tvg_id": "RoyaKids.jo@SD",
+    "status": "live",
+    "id": "roya-kids-5287"
+  },
+  {
+    "name": "Roya Kids Originals (1080p)",
+    "logo": "https://i.imgur.com/acuCGF8.png",
+    "group": "Kids",
+    "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8",
+    "tvg_id": "RoyaKidsOriginals.jo@SD",
+    "status": "live",
+    "id": "roya-kids-originals-1080p-5289"
+  },
+  {
+    "name": "Ryzhiy (576i)",
+    "logo": "https://i.imgur.com/acrU2IE.png",
+    "group": "Kids",
+    "url": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+    "tvg_id": "Ryzhiy.ru@SD",
+    "status": "live",
+    "id": "ryzhiy-576i-5392"
+  },
+  {
+    "name": "Ryan and Friends (1080p)",
+    "logo": "https://i.imgur.com/jcIprmt.png",
+    "group": "Kids",
+    "url": "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
+    "tvg_id": "RyanandFriends.us@SD",
+    "status": "live",
+    "id": "ryan-and-friends-1080p-5420"
+  },
+  {
+    "name": "SKWAD (1080p)",
+    "logo": "https://i.imgur.com/cP56PrG.png",
+    "group": "Kids",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71",
+    "tvg_id": "SkwadPlay.us@SD",
+    "status": "live",
+    "id": "skwad-1080p-5596"
+  },
+  {
+    "name": "STS kids (1080p)",
+    "logo": "https://i.imgur.com/o9kLpAL.png",
+    "group": "Kids",
+    "url": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
+    "tvg_id": "STSkids.ru@SD",
+    "status": "live",
+    "id": "sts-kids-1080p-5758"
+  },
+  {
+    "name": "Super Simple Songs (1080p)",
+    "logo": "https://i.imgur.com/3k4F7O9.png",
+    "group": "Kids",
+    "url": "https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8",
+    "tvg_id": "SuperSimpleSongs.us@SD",
+    "status": "live",
+    "id": "super-simple-songs-1080p-5800"
+  },
+  {
+    "name": "Taha TV (576p)",
+    "logo": "https://i.imgur.com/hdsrxvX.png",
+    "group": "Kids",
+    "url": "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8",
+    "tvg_id": "TahaTV.lb@SD",
+    "status": "live",
+    "id": "taha-tv-576p-5854"
+  },
+  {
+    "name": "Teletubbies (720p)",
+    "logo": "https://i.imgur.com/J9iWjWL.png",
+    "group": "Kids",
+    "url": "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8",
+    "tvg_id": "Teletubbies.uk@SD",
+    "status": "live",
+    "id": "teletubbies-720p-6008"
+  },
+  {
+    "name": "The LEGO Channel (1080p)",
+    "logo": "https://i.imgur.com/xePwW13.png",
+    "group": "Kids",
+    "url": "https://dltiqboxjw21d.cloudfront.net/index.m3u8",
+    "tvg_id": "LegoChannel.us@SD",
+    "status": "live",
+    "id": "the-lego-channel-1080p-6087"
+  },
+  {
+    "name": "TiJi (576p)",
+    "logo": "https://i.imgur.com/QCOUJ30.png",
+    "group": "Kids",
+    "url": "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8",
+    "tvg_id": "TiJi.ru@SD",
+    "status": "live",
+    "id": "tiji-576p-6124"
+  },
+  {
+    "name": "ToonGoggles (720p)",
+    "logo": "https://i.imgur.com/JMnxswq.png",
+    "group": "Kids",
+    "url": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
+    "tvg_id": "ToonGoggles.us@SD",
+    "status": "live",
+    "id": "toongoggles-720p-6159"
+  },
+  {
+    "name": "Toonami Aftermath East",
+    "logo": "https://i.pinimg.com/564x/e5/65/b0/e565b090b34dc756072aff0584f6cbab.jpg",
+    "group": "Kids",
+    "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+    "tvg_id": "ToonamiAftermath.us@East",
+    "status": "live",
+    "id": "toonamiaftermatheast-466"
+  },
+  {
+    "name": "Toon Goggles Junior (720p)",
+    "logo": "https://i.imgur.com/aqane40.png",
+    "group": "Kids",
+    "url": "https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8",
+    "tvg_id": "TGJunior.us@SD",
+    "status": "live",
+    "id": "toon-goggles-junior-720p-6164"
+  },
+  {
+    "name": "TRT Diyanet Çocuk (720p)",
+    "logo": "https://i.imgur.com/8PmXz9t.png",
+    "group": "Kids",
+    "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+    "tvg_id": "TRTDiyanetCocuk.tr@SD",
+    "status": "live",
+    "id": "trt-diyanet-ocuk-720p-6221"
+  },
+  {
+    "name": "TV Bahoriston (1080p)",
+    "logo": "https://i.imgur.com/Dacai5z.png",
+    "group": "Kids",
+    "url": "https://live.teleradiocom.tj/3/3m.m3u8",
+    "tvg_id": "TVBahoriston.tj@SD",
+    "status": "live",
+    "id": "tv-bahoriston-1080p-6296"
+  },
+  {
+    "name": "TV Sul de Minas",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k6BzhoO6x2b6h6L7aw5tfSWZLwzwnlAPhhQ1hHCPEEOYA=s72-c-k-c0x00ffffff-no-rj",
+    "group": "Kids",
+    "url": "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8",
+    "tvg_id": "TVSuldeMinas.br@SD",
+    "status": "live",
+    "id": "tvsuldeminas-483"
+  },
+  {
+    "name": "TVS Hi Tops (720p)",
+    "logo": "https://i.imgur.com/RiWg1IA.png",
+    "group": "Kids",
+    "url": "https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8",
+    "tvg_id": "TVSHiTops.us@SD",
+    "status": "live",
+    "id": "tvs-hi-tops-720p-6565"
+  },
+  {
+    "name": "TVS Pinball Network (480p)",
+    "logo": "https://i.imgur.com/HHmc14i.png",
+    "group": "Kids",
+    "url": "https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8",
+    "tvg_id": "TVSPinballNetwork.us@SD",
+    "status": "live",
+    "id": "tvs-pinball-network-480p-6574"
+  },
+  {
+    "name": "Xtrema Cartoons",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e5/Pinoyextremechannel.png",
+    "group": "Kids",
+    "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
+    "tvg_id": "XtremaCartoons.ar@SD",
+    "status": "live",
+    "id": "xtremacartoons-481"
+  },
+  {
+    "name": "Карусель International (720p)",
+    "logo": "https://i.imgur.com/DnlngRZ.png",
+    "group": "Kids",
+    "url": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8",
+    "tvg_id": "CarouselInternational.ru@SD",
+    "status": "live",
+    "id": "international-720p-6998"
+  },
+  {
+    "name": "Мама (576p)",
+    "logo": "https://i.imgur.com/kmMIjjf.png",
+    "group": "Kids",
+    "url": "http://31.148.48.15/Mama/index.m3u8",
+    "tvg_id": "Mama.ru@SD",
+    "status": "live",
+    "id": "576p-7009"
+  },
+  {
+    "name": "Мульт (1080p)",
+    "logo": "https://i.imgur.com/xi351Fx.png",
+    "group": "Kids",
+    "url": "http://31.148.48.15/Mult_HD/index.m3u8",
+    "tvg_id": "Mult.ru@SD",
+    "status": "live",
+    "id": "1080p-7017"
+  },
+  {
+    "name": "Мульт и Музыка (576p)",
+    "logo": "https://i.imgur.com/SYt6BZP.png",
+    "group": "Kids",
+    "url": "http://31.148.48.15/Multimuzika/index.m3u8",
+    "tvg_id": "Multimuzyka.ru@SD",
+    "status": "live",
+    "id": "576p-7019"
+  },
+  {
+    "name": "Мультиландия (576p)",
+    "logo": "https://i.imgur.com/ccwijY0.png",
+    "group": "Kids",
+    "url": "http://31.148.48.15/Multilandiya/index.m3u8",
+    "tvg_id": "Multilandia.ru@SD",
+    "status": "live",
+    "id": "576p-7020"
+  },
+  {
+    "name": "0. Tiny POP",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png",
+    "group": "Kids",
+    "url": "https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8",
+    "id": "0tinypop-404"
+  },
+  {
+    "name": "0. Baby Shark TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg",
+    "group": "Kids",
+    "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "id": "0babysharktv-405"
+  },
+  {
+    "name": "0. Hooray Rhymes",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20250122T004830SQUARE.png",
+    "group": "Kids",
+    "url": "https://cc-hqignh3tex8xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hqignh3tex8xc/OTM/OTM_KidsToonsHindi-SCTE_SAMSUNG/playlist.m3u8",
+    "id": "0hoorayrhymes-406"
+  },
+  {
+    "name": "0. Duronto TV",
+    "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png",
+    "group": "Kids",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8",
+    "id": "0durontotv-414"
+  },
+  {
+    "name": "0. Doraemon",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg",
+    "group": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+    "id": "0doraemon-421"
+  },
+  {
+    "name": "1. KidDo MATIX",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20250122T004833SQUARE.png",
+    "group": "Kids",
+    "url": "https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8",
+    "id": "1kiddomatix-426"
+  },
+  {
+    "name": "1. Hooray Kids",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20250122T004827SQUARE.png",
+    "group": "Kids",
+    "url": "https://cc-hcf2o1ghsvvdu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hcf2o1ghsvvdu/OTM/OTM_HoorayKids-SCTE_SAMSUNG/playlist.m3u8",
+    "id": "1hooraykids-429"
+  },
+  {
+    "name": "2. POP",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20250107T030729SQUARE.png",
+    "group": "Kids",
+    "url": "https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8",
+    "id": "2pop-431"
+  },
+  {
+    "name": "2. The Jungle Book",
+    "logo": "https://pash.ink/storage/uploads/JungleBook_Logo.png",
+    "group": "Kids",
+    "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
+    "id": "2thejunglebook-433"
+  },
+  {
+    "name": "0. SuperToons TV",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20250729T045852SQUARE.png",
+    "group": "Kids",
+    "url": "https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD5100001HL",
+    "id": "0supertoonstv-434"
+  },
+  {
+    "name": "0. WowKidz (Motu Patlu)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png",
+    "group": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
+    "id": "0wowkidzmotupatlu-435"
+  },
+  {
+    "name": "1. Cartoon Network USA",
+    "logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png",
+    "group": "Kids",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
+    "id": "1cartoonnetworkusa-437"
+  },
+  {
+    "name": "2. Powerkids Kartoon Channel",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png",
+    "group": "Kids",
+    "url": "https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8",
+    "id": "2powerkidskartoonchannel-438"
+  },
+  {
+    "name": "1. ZOO MOO",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/44/ZooMoo_Kids_2020.svg",
+    "group": "Kids",
+    "url": "https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8",
+    "id": "1zoomoo-442"
+  },
+  {
+    "name": "0. Moonbug",
+    "logo": "https://yt3.googleusercontent.com/3fWnBPeggOeAwIiDTKowTUF-Va2gqE8j0yn0dTObXYliN7rlVloY4CAoqiqbo7FIIHLzFrjjbg=s72-c-k-c0x00ffffff-no-rj",
+    "group": "Kids",
+    "url": "https://dq2a9ghraf7sw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxq18dopv0o6q/Moonbug.m3u8",
+    "id": "0moonbug-443"
+  },
+  {
+    "name": "2. Strawberry Shortcake",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700002J0_20250819T032543SQUARE.png",
+    "group": "Kids",
+    "url": "https://d10c3fwb9yju0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5zgefp9c8p0b/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB3700002J0",
+    "id": "2strawberryshortcake-449"
+  },
+  {
+    "name": "ZB Cartoon",
+    "logo": "https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg",
+    "group": "Kids",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "id": "zbcartoon-452"
+  },
+  {
+    "name": "1. Smurf TV",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1300001WA_20250107T030751SQUARE.png",
+    "group": "Kids",
+    "url": "https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8",
+    "id": "1smurftv-453"
+  },
+  {
+    "name": "Солнце",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/49/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5.svg",
+    "group": "Kids",
+    "url": "http://tv.mediacdn.ru/live/solntse/playlist.m3u8",
+    "id": "-455"
+  },
+  {
+    "name": "1. TOON GOOGLE",
+    "logo": "https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png",
+    "group": "Kids",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36",
+    "id": "1toongoogle-456"
+  },
+  {
+    "name": "1. Ketchup TV",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3400003A9_20250107T031143SQUARE.png",
+    "group": "Kids",
+    "url": "https://d24p9tv2w5yorn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hv7b0gembp7xn/vod.m3u8",
+    "id": "1ketchuptv-457"
+  },
+  {
+    "name": "1. Duck TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg",
+    "group": "Kids",
+    "url": "https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/playlist.m3u8",
+    "id": "1ducktv-458"
+  },
+  {
+    "name": "Cartoon Anima",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/db/Motu-patlu-cover.jpg",
+    "group": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
+    "id": "cartoonanima-459"
+  },
+  {
+    "name": "Cartoon Network (Retro Blast)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",
+    "group": "Kids",
+    "url": "https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f",
+    "id": "cartoonnetworkretroblast-460"
+  },
+  {
+    "name": "2. Teletubbies",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400007FA_20250819T032541SQUARE.png",
+    "group": "Kids",
+    "url": "https://dv8lsrd8fecw9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dkls74gdpo7r0/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB2400007FA",
+    "id": "2teletubbies-461"
+  },
+  {
+    "name": "2. Sonic The Hedgehog",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB370000369_20250107T031224SQUARE.png",
+    "group": "Kids",
+    "url": "https://d2f1o3sb3u36tf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-99j9k8uxi8rc2/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB370000369",
+    "id": "2sonicthehedgehog-462"
+  },
+  {
+    "name": "2. YAAAS!",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB340000289_20250107T031304SQUARE.png",
+    "group": "Kids",
+    "url": "https://d3knqoaufvjug3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-caepqnvi5dnka/yas.m3u8",
+    "id": "2yaaas-464"
+  },
+  {
+    "name": "0. Toon Goggles",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png",
+    "group": "Kids",
+    "url": "https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8",
+    "id": "0toongoggles-465"
+  },
+  {
+    "name": "1. Hot Wheels Action",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900013AY_20241028T174226SQUARE.png",
+    "group": "Kids",
+    "url": "https://dtz4aepbew7ez.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j02089jh4uhwc/hotwh.m3u8",
+    "id": "1hotwheelsaction-473"
+  },
+  {
+    "name": "1. TG Junior",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png",
+    "group": "Kids",
+    "url": "https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8",
+    "id": "1tgjunior-475"
+  },
+  {
+    "name": "1. The LEGO Channel",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png",
+    "group": "Kids",
+    "url": "https://dh18i7whff86v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/index.m3u8",
+    "id": "1thelegochannel-476"
+  },
+  {
+    "name": "Barbie and Friends",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20241104T163538SQUARE.png",
+    "group": "Kids",
+    "url": "https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/barb.m3u8",
+    "id": "barbieandfriends-482"
+  },
+  {
+    "name": "Kartoon Channel!",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20250217T210812SQUARE.png",
+    "group": "Kids",
+    "url": "https://d2z0ysa6dgxhlc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ajxyy4yaic6nq/kchan.m3u8",
+    "id": "kartoonchannel-484"
+  }
+]

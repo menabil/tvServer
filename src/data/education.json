@@ -1,0 +1,1128 @@
+[
+  {
+    "name": "World War TV",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20250527T014801SQUARE.png",
+    "group": "Educational",
+    "url": "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
+    "status": "live",
+    "id": "worldwartv-250"
+  },
+  {
+    "name": "Adventure Earth",
+    "logo": "https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png",
+    "group": "Educational",
+    "url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "status": "live",
+    "id": "adventureearth-203"
+  },
+  {
+    "name": "Discover Pakistan TV",
+    "logo": "https://www.discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png",
+    "group": "Educational",
+    "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+    "status": "live",
+    "id": "discoverpakistantv-217"
+  },
+  {
+    "name": "Wild TV",
+    "logo": "https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892",
+    "group": "Educational",
+    "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+    "status": "live",
+    "id": "wildtv-285"
+  },
+  {
+    "name": "Al Alamiya 2",
+    "logo": "https://i.imgur.com/5FrE3Nv.png",
+    "group": "Education",
+    "url": "http://82.212.74.98:8000/live/7815.m3u8",
+    "tvg_id": "AlAlamiya2.sd@SD",
+    "status": "live",
+    "id": "al-alamiya-2-1521"
+  },
+  {
+    "name": "Alhiwar TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/UjOxwdd.png",
+    "group": "Education",
+    "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
+    "tvg_id": "AlHiwarTV.uk@SD",
+    "status": "live",
+    "id": "alhiwar-tv-1080p-not-24-7-1588"
+  },
+  {
+    "name": "Amazing Discoveries TV",
+    "logo": "https://www.adventisttv.org/assets/img/main/ADTV.png",
+    "group": "Educational",
+    "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+    "tvg_id": "AmazingDiscoveriesTV.ca@SD",
+    "status": "live",
+    "id": "amazingdiscoveriestv-234"
+  },
+  {
+    "name": "BUTV10 (Boston University) (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Iv1Fe67.png",
+    "group": "Education",
+    "url": "https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8",
+    "tvg_id": "BUTV10.us@SD",
+    "status": "live",
+    "id": "butv10-boston-university-1080p-not-24-7-2108"
+  },
+  {
+    "name": "Campus TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/E1TmADM.png",
+    "group": "Education",
+    "url": "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8",
+    "tvg_id": "CampusTV.hn@SD",
+    "status": "live",
+    "id": "campus-tv-480p-not-24-7-2174"
+  },
+  {
+    "name": "Canal 15 ILCE Summa Sabres (720p)",
+    "logo": "https://i.imgur.com/r7czgOc.png",
+    "group": "Education",
+    "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+    "tvg_id": "ILCECanal15SummaSaberes.mx@SD",
+    "status": "live",
+    "id": "canal-15-ilce-summa-sabres-720p-2209"
+  },
+  {
+    "name": "Canal Educativo (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/huBxZpP.png",
+    "group": "Education",
+    "url": "https://tv.picta.cu/educativo/educativo_0.m3u8",
+    "tvg_id": "CanalEducativo.cu@SD",
+    "status": "live",
+    "id": "canal-educativo-480p-not-24-7-2240"
+  },
+  {
+    "name": "Canal Educativo 2 (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nOl3H5X.png",
+    "group": "Education",
+    "url": "https://tv.picta.cu/educativo2/educativo2_0.m3u8",
+    "tvg_id": "CanalEducativo2.cu@SD",
+    "status": "live",
+    "id": "canal-educativo-2-480p-not-24-7-2243"
+  },
+  {
+    "name": "Canal Educação (720p)",
+    "logo": "https://i.imgur.com/OOB7nrS.png",
+    "group": "Education",
+    "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+    "tvg_id": "CanalEducacao.br@SD",
+    "status": "live",
+    "id": "canal-educa-o-720p-2245"
+  },
+  {
+    "name": "CCTV-7 (720p)",
+    "logo": "https://i.imgur.com/CKcPMQC.png",
+    "group": "Education",
+    "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+    "tvg_id": "CCTV7.cn@SD",
+    "status": "live",
+    "id": "cctv-7-720p-2359"
+  },
+  {
+    "name": "Cloudflare TV (720p)",
+    "logo": "https://i.imgur.com/l4m0is8.jpeg",
+    "group": "Education",
+    "url": "https://cloudflare.tv/hls/live.m3u8",
+    "tvg_id": "CloudflareTV.us@SD",
+    "status": "live",
+    "id": "cloudflare-tv-720p-2510"
+  },
+  {
+    "name": "Create (1080p)",
+    "logo": "https://i.imgur.com/OIJTECP.png",
+    "group": "Education",
+    "url": "https://create.lls.pbs.org/index.m3u8",
+    "tvg_id": "Create.us@SD",
+    "status": "live",
+    "id": "create-1080p-2578"
+  },
+  {
+    "name": "DLTV 8 (1080p)",
+    "logo": "https://i.imgur.com/xIwn5Ha.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8",
+    "tvg_id": "DLTV8.th@SD",
+    "status": "live",
+    "id": "dltv-8-1080p-2747"
+  },
+  {
+    "name": "DLTV 6 (1080p)",
+    "logo": "https://i.imgur.com/qeIHWC0.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
+    "tvg_id": "DLTV6.th@SD",
+    "status": "live",
+    "id": "dltv-6-1080p-2748"
+  },
+  {
+    "name": "DLTV 11 (1080p)",
+    "logo": "https://i.imgur.com/hFk2b5s.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
+    "tvg_id": "DLTV11.th@SD",
+    "status": "live",
+    "id": "dltv-11-1080p-2749"
+  },
+  {
+    "name": "DLTV 5 (1080p)",
+    "logo": "https://i.imgur.com/J1E89jX.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
+    "tvg_id": "DLTV5.th@SD",
+    "status": "live",
+    "id": "dltv-5-1080p-2750"
+  },
+  {
+    "name": "DLTV 7 (1080p)",
+    "logo": "https://i.imgur.com/OjYwMe3.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8",
+    "tvg_id": "DLTV7.th@SD",
+    "status": "live",
+    "id": "dltv-7-1080p-2751"
+  },
+  {
+    "name": "DLTV 2 (1080p)",
+    "logo": "https://i.imgur.com/lDBSTfE.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
+    "tvg_id": "DLTV2.th@SD",
+    "status": "live",
+    "id": "dltv-2-1080p-2752"
+  },
+  {
+    "name": "DLTV 9 (1080p)",
+    "logo": "https://i.imgur.com/yPeSAry.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8",
+    "tvg_id": "DLTV9.th@SD",
+    "status": "live",
+    "id": "dltv-9-1080p-2753"
+  },
+  {
+    "name": "DLTV 3 (1080p)",
+    "logo": "https://i.imgur.com/wmrxerm.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8",
+    "tvg_id": "DLTV3.th@SD",
+    "status": "live",
+    "id": "dltv-3-1080p-2754"
+  },
+  {
+    "name": "DLTV 4 (1080p)",
+    "logo": "https://i.imgur.com/WkpoQhU.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8",
+    "tvg_id": "DLTV4.th@SD",
+    "status": "live",
+    "id": "dltv-4-1080p-2755"
+  },
+  {
+    "name": "DLTV 1 (1080p)",
+    "logo": "https://i.imgur.com/nLzdGeX.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
+    "tvg_id": "DLTV1.th@SD",
+    "status": "live",
+    "id": "dltv-1-1080p-2756"
+  },
+  {
+    "name": "DLTV 10 (1080p)",
+    "logo": "https://i.imgur.com/TgN81Zr.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
+    "tvg_id": "DLTV10.th@SD",
+    "status": "live",
+    "id": "dltv-10-1080p-2757"
+  },
+  {
+    "name": "DLTV 12 (1080p)",
+    "logo": "https://i.imgur.com/ITt6lY7.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
+    "tvg_id": "DLTV12.th@SD",
+    "status": "live",
+    "id": "dltv-12-1080p-2758"
+  },
+  {
+    "name": "DLTV 13 (1080p)",
+    "logo": "https://i.imgur.com/asB5w3v.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
+    "tvg_id": "DLTV13.th@SD",
+    "status": "live",
+    "id": "dltv-13-1080p-2759"
+  },
+  {
+    "name": "DLTV 15 (1080p)",
+    "logo": "https://i.imgur.com/onJi2b6.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
+    "tvg_id": "DLTV15.th@SD",
+    "status": "live",
+    "id": "dltv-15-1080p-2760"
+  },
+  {
+    "name": "DLTV 14 (1080p)",
+    "logo": "https://i.imgur.com/HOjZRNS.png",
+    "group": "Education",
+    "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
+    "tvg_id": "DLTV14.th@SD",
+    "status": "live",
+    "id": "dltv-14-1080p-2761"
+  },
+  {
+    "name": "EBC General Education (720p) [Not 24/7]",
+    "logo": "https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png",
+    "group": "Education",
+    "url": "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8",
+    "tvg_id": "EBCGeneralEducation.kh@SD",
+    "status": "live",
+    "id": "ebc-general-education-720p-not-24-7-2827"
+  },
+  {
+    "name": "Educa TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nDRVsIc.png",
+    "group": "Education",
+    "url": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
+    "tvg_id": "EducaTV.ec@SD",
+    "status": "live",
+    "id": "educa-tv-720p-not-24-7-2849"
+  },
+  {
+    "name": "Eduvision (1080p)",
+    "logo": "https://i.imgur.com/ppBdqel.png",
+    "group": "Education",
+    "url": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
+    "tvg_id": "Eduvision.co@SD",
+    "status": "live",
+    "id": "eduvision-1080p-2851"
+  },
+  {
+    "name": "English Class HD (1080p)",
+    "logo": "https://i.imgur.com/gst7wW7.png",
+    "group": "Education",
+    "url": "http://31.148.48.15/English_club_TV_HD/index.m3u8",
+    "tvg_id": "EnglishClass.ru@SD",
+    "status": "live",
+    "id": "english-class-hd-1080p-2887"
+  },
+  {
+    "name": "English Club TV (576i)",
+    "logo": "https://i.imgur.com/9FMvaRK.png",
+    "group": "Education",
+    "url": "https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8",
+    "tvg_id": "EnglishClubTV.uk@SD",
+    "status": "live",
+    "id": "english-club-tv-576i-2888"
+  },
+  {
+    "name": "ETV (1080p)",
+    "logo": "https://i.imgur.com/HTnQGcs.png",
+    "group": "Education",
+    "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
+    "tvg_id": "ETV.th@SD",
+    "status": "live",
+    "id": "etv-1080p-2940"
+  },
+  {
+    "name": "Gyandarshan (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png",
+    "group": "Education",
+    "url": "https://cdn-6.pishow.tv/live/14/master.m3u8",
+    "tvg_id": "Gyandarshan.in@SD",
+    "status": "live",
+    "id": "gyandarshan-720p-3333"
+  },
+  {
+    "name": "Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/AYzdlMz.png",
+    "group": "Education",
+    "url": "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8",
+    "tvg_id": "HKTV.us@SD",
+    "status": "live",
+    "id": "haddam-killingworth-high-school-tv-hktv-1080p-geo-blocked-3349"
+  },
+  {
+    "name": "ISTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RUKVrOH.png",
+    "group": "Education",
+    "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+    "tvg_id": "ISTV.br@SD",
+    "status": "live",
+    "id": "istv-720p-not-24-7-3565"
+  },
+  {
+    "name": "iSTUFF (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1V3UXVb.jpg",
+    "group": "Education",
+    "url": "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8",
+    "tvg_id": "iSTUFF.de@SD",
+    "status": "live",
+    "id": "istuff-720p-not-24-7-3584"
+  },
+  {
+    "name": "JOAB-DTV",
+    "logo": "https://i.imgur.com/WxtftlO.png",
+    "group": "Education",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02",
+    "tvg_id": "JOABDTV.jp@SD",
+    "status": "live",
+    "id": "joab-dtv-3626"
+  },
+  {
+    "name": "KCAT Public Media TV (1080p)",
+    "logo": "https://i.imgur.com/ZAypRkk.png",
+    "group": "Education",
+    "url": "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8",
+    "tvg_id": "KCAT.us@SD",
+    "status": "live",
+    "id": "kcat-public-media-tv-1080p-3731"
+  },
+  {
+    "name": "KITE Victers (Kerala) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/kj4OEsb.png",
+    "group": "Education",
+    "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "tvg_id": "KiteVicters.in@SD",
+    "status": "live",
+    "id": "kite-victers-kerala-720p-not-24-7-3754"
+  },
+  {
+    "name": "Leominster TV Educational (720p)",
+    "logo": "https://i.imgur.com/Cy94oLl.png",
+    "group": "Education",
+    "url": "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "tvg_id": "LeominsterTVEducational.us@SD",
+    "status": "live",
+    "id": "leominster-tv-educational-720p-3908"
+  },
+  {
+    "name": "Los Angeles Local Television Channel 36 (1080p)",
+    "logo": "https://i.imgur.com/JxTzUEq.png",
+    "group": "Education",
+    "url": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8",
+    "tvg_id": "LA36.us@SD",
+    "status": "live",
+    "id": "los-angeles-local-television-channel-36-1080p-3994"
+  },
+  {
+    "name": "M5 (1080p)",
+    "logo": "https://i.imgur.com/y21wFd0.png",
+    "group": "Education",
+    "url": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
+    "tvg_id": "M5.hu@SD",
+    "status": "live",
+    "id": "m5-1080p-4015"
+  },
+  {
+    "name": "Manatee Schools Television MSTV (Manatee County FL) (1080p)",
+    "logo": "https://i.imgur.com/x0lJqSp.png",
+    "group": "Education",
+    "url": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8",
+    "tvg_id": "MSTV.us@SD",
+    "status": "live",
+    "id": "manatee-schools-television-mstv-manatee-county-fl-1080p-4072"
+  },
+  {
+    "name": "Midpen Media Center Youth Education and Sports Channel 28 (720p)",
+    "logo": "https://i.imgur.com/RPJiolQ.png",
+    "group": "Education",
+    "url": "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8",
+    "tvg_id": "MidpenMediaCenterChannel28.us@SD",
+    "status": "live",
+    "id": "midpen-media-center-youth-education-and-sports-channel-28-720p-4216"
+  },
+  {
+    "name": "Mobile County Public Schools TV Network (MCPSS)",
+    "logo": "https://i.imgur.com/qo5sk1g.png",
+    "group": "Education",
+    "url": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8",
+    "tvg_id": "MCPSSTV.us@SD",
+    "status": "live",
+    "id": "mobile-county-public-schools-tv-network-mcpss-4266"
+  },
+  {
+    "name": "Monroe Community Media Education Channel",
+    "logo": "https://i.imgur.com/gS4x0uX.png",
+    "group": "Education",
+    "url": "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8",
+    "tvg_id": "MonroeCommunityMediaEducationChannel.us@SD",
+    "status": "live",
+    "id": "monroe-community-media-education-channel-4309"
+  },
+  {
+    "name": "Nashua ETV Channel 22 Nashua NH (720p)",
+    "logo": "https://i.imgur.com/iv9Vfcb.png",
+    "group": "Education",
+    "url": "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "tvg_id": "NashuaETV.us@SD",
+    "status": "live",
+    "id": "nashua-etv-channel-22-nashua-nh-720p-4387"
+  },
+  {
+    "name": "Natick Education Channel (720p)",
+    "logo": "https://i.imgur.com/VKU9qwy.png",
+    "group": "Education",
+    "url": "https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "tvg_id": "NatickEducationChannel.us@SD",
+    "status": "live",
+    "id": "natick-education-channel-720p-4391"
+  },
+  {
+    "name": "NBS Korea Agricultural Broadcasting (720p)",
+    "logo": "https://i.imgur.com/pOSroOE.png",
+    "group": "Education",
+    "url": "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8",
+    "tvg_id": "NBS.kr@SD",
+    "status": "live",
+    "id": "nbs-korea-agricultural-broadcasting-720p-4446"
+  },
+  {
+    "name": "NRWision (1080p)",
+    "logo": "https://i.imgur.com/RkF2Kmx.png",
+    "group": "Education",
+    "url": "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8",
+    "tvg_id": "NRWision.de@SD",
+    "status": "live",
+    "id": "nrwision-1080p-4579"
+  },
+  {
+    "name": "Oceanside Community Television (KOCT) Education and Government Channel 19 (720p)",
+    "logo": "https://i.imgur.com/6C71KwP.png",
+    "group": "Education",
+    "url": "https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8",
+    "tvg_id": "KOCTChannel19.us@SD",
+    "status": "live",
+    "id": "oceanside-community-television-koct-education-and-government-channel-19-720p-4636"
+  },
+  {
+    "name": "One TV E-School Cambodia (1080p)",
+    "logo": "https://i.imgur.com/wLzVdeT.png",
+    "group": "Education",
+    "url": "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8",
+    "tvg_id": "OneTVESchoolCambodia.kh@SD",
+    "status": "live",
+    "id": "one-tv-e-school-cambodia-1080p-4681"
+  },
+  {
+    "name": "OUN (1080p)",
+    "logo": "https://i.imgur.com/7s6JtcU.png",
+    "group": "Education",
+    "url": "https://live.knou.ac.kr/knou1/live1/playlist.m3u8",
+    "tvg_id": "OUN.kr@SD",
+    "status": "live",
+    "id": "oun-1080p-4706"
+  },
+  {
+    "name": "Palestine Edu (1080p)",
+    "logo": "https://i.imgur.com/AwVHXyC.png",
+    "group": "Education",
+    "url": "https://pbc.furrera.ps/PalestineEDU/index.m3u8",
+    "tvg_id": "PalestineEdu.ps@SD",
+    "status": "live",
+    "id": "palestine-edu-1080p-4728"
+  },
+  {
+    "name": "Payam Javan TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/GYfsHh9.png",
+    "group": "Education",
+    "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8",
+    "tvg_id": "PayamJavanTV.us@SD",
+    "status": "live",
+    "id": "payam-javan-tv-720p-not-24-7-4754"
+  },
+  {
+    "name": "PBS KET Louisville KY (WKMJ-TV) (720p)",
+    "logo": "https://i.imgur.com/U9HFzJk.png",
+    "group": "Education",
+    "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
+    "tvg_id": "WKMJTV681.us@HD",
+    "status": "live",
+    "id": "pbs-ket-louisville-ky-wkmj-tv-720p-4762"
+  },
+  {
+    "name": "Persiana Medical",
+    "logo": "",
+    "group": "Education",
+    "url": "https://phd2hls.persiana.live/hls/stream.m3u8",
+    "tvg_id": "PersianaMedical.fr@SD",
+    "status": "live",
+    "id": "persiana-medical-4797"
+  },
+  {
+    "name": "Platzi TV (1080p)",
+    "logo": "https://i.imgur.com/vEzeqHP.png",
+    "group": "Education",
+    "url": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
+    "tvg_id": "PlatziTV.es@SD",
+    "status": "live",
+    "id": "platzi-tv-1080p-4828"
+  },
+  {
+    "name": "Poudre School District TV (PSD TV) (Fort Collins CO) (720p)",
+    "logo": "https://i.imgur.com/djT0Q8q.png",
+    "group": "Education",
+    "url": "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8",
+    "tvg_id": "PSDTV.us@SD",
+    "status": "live",
+    "id": "poudre-school-district-tv-psd-tv-fort-collins-co-720p-4867"
+  },
+  {
+    "name": "Rai Scuola (576p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
+    "group": "Education",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011",
+    "tvg_id": "RaiScuola.it@SD",
+    "status": "live",
+    "id": "rai-scuola-576p-geo-blocked-5065"
+  },
+  {
+    "name": "Rai Scuola HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
+    "group": "Education",
+    "url": "https://srv1.adriatelekom.com/RaiScuola/index.m3u8",
+    "tvg_id": "RaiScuola.it@HD",
+    "status": "live",
+    "id": "rai-scuola-hd-1080p-5072"
+  },
+  {
+    "name": "Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ICcQUCH.png",
+    "group": "Education",
+    "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8",
+    "tvg_id": "RedApple21.us@SD",
+    "status": "live",
+    "id": "red-apple-21-fairfax-county-public-schools-480p-not-24-7-5219"
+  },
+  {
+    "name": "Rinjani TV",
+    "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
+    "group": "Education",
+    "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
+    "tvg_id": "RinjaniTV.id@SD",
+    "status": "live",
+    "id": "rinjani-tv-5241"
+  },
+  {
+    "name": "Santa Maria Community Television Education Channel (720p)",
+    "logo": "https://i.imgur.com/4Autljp.png",
+    "group": "Education",
+    "url": "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "tvg_id": "SMCTVChannel24.us@SD",
+    "status": "live",
+    "id": "santa-maria-community-television-education-channel-720p-5448"
+  },
+  {
+    "name": "Safari TV Tamil",
+    "logo": "https://www.news.keralatv.in/media/2018/11/Safari-Television-Added-on-Sun-Direct-692x376.jpg",
+    "group": "Educational",
+    "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+    "tvg_id": "SafariTV.in@SD",
+    "status": "live",
+    "id": "safaritvtamil-258"
+  },
+  {
+    "name": "Señal España (XHUNES-TDT) (720p)",
+    "logo": "https://i.imgur.com/LbZkdca.png",
+    "group": "Education",
+    "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+    "tvg_id": "XHUNESTDT.mx@SD",
+    "status": "live",
+    "id": "se-al-espa-a-xhunes-tdt-720p-5510"
+  },
+  {
+    "name": "SET Televisión Canal 26.2 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/dbJKErB.png",
+    "group": "Education",
+    "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
+    "tvg_id": "XHPBZCTDT2.mx@SD",
+    "status": "live",
+    "id": "set-televisi-n-canal-26-2-720p-not-24-7-5534"
+  },
+  {
+    "name": "Shams TV",
+    "logo": "https://i.imgur.com/Lsy31iZ.jpeg",
+    "group": "Education",
+    "url": "https://fflive-darya-educationtv.b-cdn.net/master.m3u8",
+    "tvg_id": "ShamsTV.af@SD",
+    "status": "live",
+    "id": "shams-tv-5536"
+  },
+  {
+    "name": "TUTV (1080p)",
+    "logo": "https://i.imgur.com/At0BPeA.png",
+    "group": "Education",
+    "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "tvg_id": "TUTV.us@SD",
+    "status": "live",
+    "id": "tutv-1080p-6244"
+  },
+  {
+    "name": "TV BUAP (1080p)",
+    "logo": "https://i.imgur.com/hHrIn0r.png",
+    "group": "Education",
+    "url": "https://tvenvivo.buap.mx/livestream/stream/index.m3u8",
+    "tvg_id": "TVBUAP.mx@SD",
+    "status": "live",
+    "id": "tv-buap-1080p-6310"
+  },
+  {
+    "name": "TV Maya (480p)",
+    "logo": "https://i.imgur.com/BGFa4OO.png",
+    "group": "Education",
+    "url": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
+    "tvg_id": "TVMaya.gt@SD",
+    "status": "live",
+    "id": "tv-maya-480p-6368"
+  },
+  {
+    "name": "TV Nuevo León Canal 28 (XHMNL-TDT) (720p)",
+    "logo": "https://i.imgur.com/9qL4LJF.png",
+    "group": "Education",
+    "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
+    "tvg_id": "XHMNLTDT.mx@SD",
+    "status": "live",
+    "id": "tv-nuevo-le-n-canal-28-xhmnl-tdt-720p-6385"
+  },
+  {
+    "name": "TV UFG (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Yp3dbJo.png",
+    "group": "Education",
+    "url": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8",
+    "tvg_id": "TVUFG.br@SD",
+    "status": "live",
+    "id": "tv-ufg-720p-not-24-7-6430"
+  },
+  {
+    "name": "TV UG (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pxkDpTU.jpeg",
+    "group": "Education",
+    "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
+    "tvg_id": "TVUG.mx@SD",
+    "status": "live",
+    "id": "tv-ug-1080p-not-24-7-6431"
+  },
+  {
+    "name": "TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4demWOi.png",
+    "group": "Education",
+    "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",
+    "tvg_id": "TVUJAT.mx@SD",
+    "status": "live",
+    "id": "tv-ujat-xhujat-tdt-720p-not-24-7-6432"
+  },
+  {
+    "name": "TVK 2 (720p)",
+    "logo": "https://i.imgur.com/L36ptO2.png",
+    "group": "Education",
+    "url": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
+    "tvg_id": "TVK2.kh@SD",
+    "status": "live",
+    "id": "tvk-2-720p-6477"
+  },
+  {
+    "name": "UCTV University of California (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ehMz9T5.png",
+    "group": "Education",
+    "url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8",
+    "tvg_id": "UCTV.us@SD",
+    "status": "live",
+    "id": "uctv-university-of-california-720p-not-24-7-6620"
+  },
+  {
+    "name": "UNIANDES TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1rluyB7.png",
+    "group": "Education",
+    "url": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
+    "tvg_id": "UNIANDESTV.ec@SD",
+    "status": "live",
+    "id": "uniandes-tv-720p-not-24-7-6633"
+  },
+  {
+    "name": "Vyas NIC (576p)",
+    "logo": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg",
+    "group": "Education",
+    "url": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
+    "tvg_id": "VyasChannel.in@SD",
+    "status": "live",
+    "id": "vyas-nic-576p-6789"
+  },
+  {
+    "name": "Weather Spy",
+    "logo": "https://weatherspy.net/icon.png",
+    "group": "Educational",
+    "url": "https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8",
+    "tvg_id": "WeatherSpy.us@Poland",
+    "status": "live",
+    "id": "weatherspy-280"
+  },
+  {
+    "name": "WIKI TV (720p)",
+    "logo": "https://i.imgur.com/rnV0Ui1.png",
+    "group": "Education",
+    "url": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8",
+    "tvg_id": "WikiTV.kh@SD",
+    "status": "live",
+    "id": "wiki-tv-720p-6888"
+  },
+  {
+    "name": "WPS TV (360p)",
+    "logo": "https://i.imgur.com/zwzmwse.jpg",
+    "group": "Education",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8",
+    "tvg_id": "WPSTV.us@SD",
+    "status": "live",
+    "id": "wps-tv-360p-6930"
+  },
+  {
+    "name": "Ýaşlyk (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/QVWBNGM.png",
+    "group": "Education",
+    "url": "https://alpha.tv.online.tm/hls/ch002.m3u8",
+    "tvg_id": "Yaslyk.tm@SD",
+    "status": "live",
+    "id": "a-lyk-406p-not-24-7-6956"
+  },
+  {
+    "name": "Кто есть Кто (576p)",
+    "logo": "https://i.imgur.com/PmD17UQ.png",
+    "group": "Education",
+    "url": "http://31.148.48.15/Kto_est_kto/index.m3u8",
+    "tvg_id": "Ktoestkto.ru@SD",
+    "status": "live",
+    "id": "576p-7005"
+  },
+  {
+    "name": "CGTN Documentary",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg",
+    "group": "Educational",
+    "url": "https://0472.org/hls/cgtnd.m3u8",
+    "id": "cgtndocumentary-191"
+  },
+  {
+    "name": "BBC Earth US",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png",
+    "group": "Educational",
+    "url": "https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
+    "id": "bbcearthus-197"
+  },
+  {
+    "name": "Escape TV",
+    "logo": "https://media.unreel.me/prod/freelivesports/logo/5dd7d490-69f5-4e11-b524-34a02662348c",
+    "group": "Educational",
+    "url": "https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8",
+    "id": "escapetv-205"
+  },
+  {
+    "name": "History Hit",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20250107T022602SQUARE.png",
+    "group": "Educational",
+    "url": "https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/ts-eu-w1-n2/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8",
+    "id": "historyhit-206"
+  },
+  {
+    "name": "Inside Crime",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500002R4_20250107T030707SQUARE.png",
+    "group": "Educational",
+    "url": "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/ts-eu-w1-n2/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
+    "id": "insidecrime-208"
+  },
+  {
+    "name": "Crime Scene TV",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000030L_20250811T033443SQUARE.png",
+    "group": "Educational",
+    "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/89001003/hls/master.m3u8?ads.xumo_channelId=89001003&ads.xumo_streamId=89001003&ads.caid=Indigenius&ads.csid=samsungtvplus_in_indigeniuscrimescenetv_ssai&ads.sfid=&ads.afid=Indigenius&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=IN&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1101&ads.xumo_contentName=Indigenius&ads.xumo_providerId=1101&ads.xumo_providerName=Indigenius&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=indigeniuscrimescenetv_in&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D",
+    "id": "crimescenetv-210"
+  },
+  {
+    "name": "INWILD",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA220000751_20250107T022608SQUARE.png",
+    "group": "Educational",
+    "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "id": "inwild-212"
+  },
+  {
+    "name": "Love the Planet",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500001F5_20250722T005724SQUARE.png",
+    "group": "Educational",
+    "url": "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8",
+    "id": "lovetheplanet-216"
+  },
+  {
+    "name": "HGTV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/71/Home_%26_Garden_Television.svg",
+    "group": "Educational",
+    "url": "https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8",
+    "id": "hgtv-219"
+  },
+  {
+    "name": "DOCUMENT",
+    "logo": "",
+    "group": "Educational",
+    "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
+    "id": "document-220"
+  },
+  {
+    "name": "Mystery TV",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20250107T030722SQUARE.png",
+    "group": "Educational",
+    "url": "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/ts-eu-w1-n2/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
+    "id": "mysterytv-221"
+  },
+  {
+    "name": "House of Crime",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600004HW_20250416T005413SQUARE.png",
+    "group": "Educational",
+    "url": "https://cc-y2z89muounal4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y2z89muounal4/IQJW/WBD/HouseOfCrime_IN/HouseOfCrime_IN.m3u8",
+    "id": "houseofcrime-222"
+  },
+  {
+    "name": "INSIGHT",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20250513T012654SQUARE.png",
+    "group": "Educational",
+    "url": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+    "id": "insight-223"
+  },
+  {
+    "name": "Crime & Justice",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD260000189_20250107T030614SQUARE.png",
+    "group": "Educational",
+    "url": "https://d1vsdt3c2xcxl2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h309rib7av3rk/playlist.m3u8",
+    "id": "crimejustice-224"
+  },
+  {
+    "name": "Survivor",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800007BN_20250107T025810SQUARE.png",
+    "group": "Educational",
+    "url": "http://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8",
+    "id": "survivor-225"
+  },
+  {
+    "name": "Deadly Women: powered by Banijay",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4900001NW_20250811T172507SQUARE.png",
+    "group": "Educational",
+    "url": "https://d1mgh147xpmgs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c1w8i9yzp8w93/DeadlyWomen_GB.m3u8",
+    "id": "deadlywomenpoweredbybanijay-226"
+  },
+  {
+    "name": "60 Days In by A&E",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20250520T211334SQUARE.png",
+    "group": "Educational",
+    "url": "https://d2b8jic9gadlvy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kvf8znfz3byu4/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "id": "60daysinbyae-227"
+  },
+  {
+    "name": "WaterBear",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300003UQ_20250107T025835SQUARE.png",
+    "group": "Educational",
+    "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/ts-eu-w1-n2/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
+    "id": "waterbear-228"
+  },
+  {
+    "name": "WB TV Deadliest Catch",
+    "logo": "https://buddytv.netlify.app/img/no-logo.png",
+    "group": "Educational",
+    "url": "https://mediapackage-azf2-source.fullscreen.nz/index.m3u8",
+    "id": "wbtvdeadliestcatch-231"
+  },
+  {
+    "name": "Highway Thru Hell : Powered by Banijay",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500001HY_20250107T030655SQUARE.png",
+    "group": "Educational",
+    "url": "https://duplpbng64yvf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zep04k6ngk3x6/HighwayThruHell.m3u8",
+    "id": "highwaythruhellpoweredbybanijay-232"
+  },
+  {
+    "name": "REAL WILD",
+    "logo": "https://i.ibb.co/sRhcqHT/realwild.png",
+    "group": "Educational",
+    "url": "https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/playlist/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
+    "id": "realwild-233"
+  },
+  {
+    "name": "Popular Science",
+    "logo": "https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288",
+    "group": "Educational",
+    "url": "https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8",
+    "id": "popularscience-235"
+  },
+  {
+    "name": "Choppertown",
+    "logo": "https://media.unreel.me/prod/sportsplus/logo/71a84f5d-8c67-4d54-8a82-7854b9227914",
+    "group": "Educational",
+    "url": "https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8",
+    "id": "choppertown-236"
+  },
+  {
+    "name": "Sony BBC Earth HD",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",
+    "group": "Educational",
+    "url": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
+    "id": "sonybbcearthhd-237"
+  },
+  {
+    "name": "Wonder",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kpdwclVeOKtinypabEccGw0gWkzRIP38a7W2FBiHHc44k=s72-c-k-c0x00ffffff-no-rj",
+    "group": "Educational",
+    "url": "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
+    "id": "wonder-238"
+  },
+  {
+    "name": "Get.Factual",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700001R6_20250107T031122SQUARE.png",
+    "group": "Educational",
+    "url": "https://d1nhni5l2n8hjt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rzh07me7cf8x7/gf.m3u8",
+    "id": "getfactual-239"
+  },
+  {
+    "name": "WB TV House Hunters",
+    "logo": "https://buddytv.netlify.app/img/no-logo.png",
+    "group": "Educational",
+    "url": "https://mediapackage-azf6-source.fullscreen.nz/index.m3u8",
+    "id": "wbtvhousehunters-240"
+  },
+  {
+    "name": "Watch Mojo (EU)",
+    "logo": "https://www.watchmojo.com/2016/img/wm_logo3_2018.webp",
+    "group": "Educational",
+    "url": "https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+    "id": "watchmojoeu-241"
+  },
+  {
+    "name": "Ax Men",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700011DR_20250107T031058SQUARE.png",
+    "group": "Educational",
+    "url": "https://bcadcc64.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BeE1lbl9ITFM/playlist.m3u8?ads.wurl_channel=1634&ads.wurl_name=AxMen&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+    "id": "axmen-242"
+  },
+  {
+    "name": "WB TV Paranormal",
+    "logo": "https://buddytv.netlify.app/img/no-logo.png",
+    "group": "Educational",
+    "url": "https://mediapackage-azf5-source.fullscreen.nz/index.m3u8",
+    "id": "wbtvparanormal-243"
+  },
+  {
+    "name": "WB TV Motorheads",
+    "logo": "https://buddytv.netlify.app/img/no-logo.png",
+    "group": "Educational",
+    "url": "https://mediapackage-azf1-source.fullscreen.nz/index.m3u8",
+    "id": "wbtvmotorheads-244"
+  },
+  {
+    "name": "Wild Flix Hindi",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png",
+    "group": "Educational",
+    "url": "https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8",
+    "id": "wildflixhindi-245"
+  },
+  {
+    "name": "WB TV True Crime",
+    "logo": "https://buddytv.netlify.app/img/no-logo.png",
+    "group": "Educational",
+    "url": "https://mediapackage-azf4-source.fullscreen.nz/index.m3u8",
+    "id": "wbtvtruecrime-246"
+  },
+  {
+    "name": "Mythbusters",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200005LI_20250107T031155SQUARE.png",
+    "group": "Educational",
+    "url": "https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8",
+    "id": "mythbusters-247"
+  },
+  {
+    "name": "Wheel World",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000250_20250416T020410SQUARE.png",
+    "group": "Educational",
+    "url": "https://cc-ii7599ywyixac.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ii7599ywyixac/IQJW/WBD/WheelWorld_IN/WheelWorld_IN.m3u8",
+    "id": "wheelworld-248"
+  },
+  {
+    "name": "Mayday: Air Disaster",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB28000063B_20250811T172943SQUARE.png",
+    "group": "Educational",
+    "url": "https://d1vx4007e1im6x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dky7xycz2xs4b/playlist.m3u8",
+    "id": "maydayairdisaster-249"
+  },
+  {
+    "name": "Documentary+ 2",
+    "logo": "https://a.jsrdn.com/hls/22943/documentary/logo_20231219_193112_63.png",
+    "group": "Educational",
+    "url": "https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8",
+    "id": "documentary2-251"
+  },
+  {
+    "name": "Wild Earth",
+    "logo": "https://wildearth.tv/wp-content/uploads/2024/11/WE-LOGO-2025-WHITE-WEB-1.png",
+    "group": "Educational",
+    "url": "https://wildearth-plex.amagi.tv/masterR1080p.m3u8",
+    "id": "wildearth-253"
+  },
+  {
+    "name": "XXTreme Jobs Hindi",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000011Q_20250205T004626SQUARE.png",
+    "group": "Educational",
+    "url": "https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8",
+    "id": "xxtremejobshindi-254"
+  },
+  {
+    "name": "Law & Crime",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20241112T000924SQUARE.png",
+    "group": "Educational",
+    "url": "https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawandCrime&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D",
+    "id": "lawcrime-257"
+  },
+  {
+    "name": "OuterSphere",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png",
+    "group": "Educational",
+    "url": "https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8",
+    "id": "outersphere-260"
+  },
+  {
+    "name": "Wild Planet",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png",
+    "group": "Educational",
+    "url": "https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8",
+    "id": "wildplanet-263"
+  },
+  {
+    "name": "Mysteries Xplored",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200028MM_20250325T015240SQUARE.png",
+    "group": "Educational",
+    "url": "https://dwqz6akge0ila.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lw48tj5rg6t4f/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "id": "mysteriesxplored-264"
+  },
+  {
+    "name": "Unidentified",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20240520T214719SQUARE.png",
+    "group": "Educational",
+    "url": "https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8",
+    "id": "unidentified-265"
+  },
+  {
+    "name": "Robot Wars by Mech+",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500005ZG_20250107T030744SQUARE.png",
+    "group": "Educational",
+    "url": "https://0a644b20819046a0935afa1cf6debf23.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_MechPlus/playlist.m3u8?ads.wurl_channel=1413&ads.wurl_name=MechPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+    "id": "robotwarsbymech-269"
+  },
+  {
+    "name": "True Crime UK",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20250107T030816SQUARE.png",
+    "group": "Educational",
+    "url": "https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8?ads.wurl_channel=1151&ads.wurl_name=TrueCrimeUKfromCBSReality&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+    "id": "truecrimeuk-275"
+  },
+  {
+    "name": "Witness to Justice",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700010XK_20250915T233927SQUARE.png",
+    "group": "Educational",
+    "url": "https://dxwldsv8fdzik.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l2dz2a7mdvmzc/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "id": "witnesstojustice-287"
+  }
+]

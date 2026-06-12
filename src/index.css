@@ -10,28 +10,30 @@
 
 /* ---- Light theme (default) ---- */
 :root {
-  --bg: #f2f3f6;
+  --bg: #f7f5f1;
   --surface: #ffffff;
-  --surface-2: #eef0f4;
-  --border: #e2e5ec;
-  --text: #161922;
-  --text-muted: #6b7280;
-  --accent: #e6483f;
-  --accent-soft: #fbe7e5;
-  --accent-2: #0d9488;
+  --surface-2: #f1eee7;
+  --border: #e7e2d8;
+  --text: #1a1b22;
+  --text-muted: #6f7280;
+  --accent: #d97e00;
+  --accent-soft: #fbead0;
+  --accent-2: #6d4ff0;
+  --accent-2-soft: #ece6fd;
 }
 
 /* ---- Dark theme ---- */
 .dark {
-  --bg: #0d1016;
-  --surface: #161a23;
-  --surface-2: #1e232d;
-  --border: #2a313d;
-  --text: #eef1f6;
-  --text-muted: #8a93a6;
-  --accent: #ff6b5e;
-  --accent-soft: rgba(255, 107, 94, 0.12);
-  --accent-2: #2dd4bf;
+  --bg: #0b0c14;
+  --surface: #14161f;
+  --surface-2: #1c1f2b;
+  --border: #2a2d3c;
+  --text: #eef0f6;
+  --text-muted: #8c93a8;
+  --accent: #ffb020;
+  --accent-soft: rgba(255, 176, 32, 0.12);
+  --accent-2: #8b6cf6;
+  --accent-2-soft: rgba(139, 108, 246, 0.14);
 }
 
 html {
@@ -44,7 +46,7 @@ body {
   color: var(--text);
 }
 
-/* Signature "on-air" pulse used for the live indicator */
+/* ---- Keyframes ---- */
 @keyframes pulse-live {
   0%,
   100% {
@@ -57,12 +59,65 @@ body {
   }
 }
 
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
 .live-dot {
   animation: pulse-live 1.6s ease-in-out infinite;
 }
 
+.animate-fade-in-up {
+  animation: fade-in-up 0.6s ease-out both;
+}
+
+.animate-fade-in-up-1 {
+  animation: fade-in-up 0.6s ease-out 0.08s both;
+}
+
+.animate-fade-in-up-2 {
+  animation: fade-in-up 0.6s ease-out 0.16s both;
+}
+
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background-color: var(--surface-2);
+}
+
+.skeleton::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(
+    90deg,
+    transparent,
+    color-mix(in srgb, var(--text) 8%, transparent),
+    transparent
+  );
+  animation: shimmer 1.4s infinite;
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .live-dot {
+  .live-dot,
+  .animate-fade-in-up,
+  .animate-fade-in-up-1,
+  .animate-fade-in-up-2,
+  .skeleton::after {
     animation: none;
   }
 }

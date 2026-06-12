@@ -1,0 +1,4429 @@
+[
+  {
+    "name": "Eman Channel",
+    "logo": "https://s3.aynaott.com/storage/09d759c7bb93fa3fb76014c8936201ce",
+    "group": "Religious",
+    "url": "https://tvsen6.aynaott.com/eman/index.m3u8?e=1779283935&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=08f8a7c54838dd4274f8b058bbed710e",
+    "status": "live",
+    "id": "eman-channel-133"
+  },
+  {
+    "name": "Deen TV",
+    "logo": "https://s3.aynaott.com/storage/66ac3ae1e56001353b69bb5f63ebcc6e",
+    "group": "Religious",
+    "url": "https://tvsen7.aynaott.com/deen/index.m3u8?e=1779283935&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d49bc388cc0adea4907ecc83f4c83c4c",
+    "status": "live",
+    "id": "deen-tv-134"
+  },
+  {
+    "name": "MADANI TV",
+    "logo": "https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039",
+    "group": "Religious",
+    "url": "https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1779283937&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8e3699711dd88227b533acc570b06a7b",
+    "status": "live",
+    "id": "madani-tv-135"
+  },
+  {
+    "name": "Channel Win",
+    "logo": "https://s3.aynaott.com/storage/3458d0d9097a8283a94a13374bcbf5c7",
+    "group": "Religious",
+    "url": "https://cdn-4.pishow.tv/live/229/master.m3u8",
+    "status": "live",
+    "id": "channelwin-380"
+  },
+  {
+    "name": "Madina live",
+    "logo": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
+    "group": "Religious",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+    "id": "madinalive-382"
+  },
+  {
+    "name": "Peace TV Bangla",
+    "logo": "https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",
+    "group": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8",
+    "id": "peacetvbangla-420"
+  },
+  {
+    "name": "Live Quran TV",
+    "logo": " ",
+    "group": "Religious",
+    "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8",
+    "id": "livequrantv-386"
+  },
+  {
+    "name": "WAZ TV",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_ly0IzmOF1dDVnD107wCnlZdzbsOMXSSAmAOKtwyniFVg=s900-c-k-c0x00ffffff-no-rj",
+    "group": "Religious",
+    "url": "https://tplay.live/originals/ilm-tv/index.m3u8",
+    "id": "waztv-395"
+  },
+  {
+    "name": "3ABN International Network",
+    "logo": "https://i.imgur.com/IecOZHR.png",
+    "group": "Religious",
+    "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
+    "tvg_id": "3ABNInternational.us@SD",
+    "status": "live",
+    "id": "3abn-international-network-1252"
+  },
+  {
+    "name": "3ABN Dare To Dream Network",
+    "logo": "https://i.imgur.com/oNUpXA9.png",
+    "group": "Religious",
+    "url": "https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8",
+    "tvg_id": "DareToDreamNetwork.us@SD",
+    "status": "live",
+    "id": "3abn-dare-to-dream-network-1253"
+  },
+  {
+    "name": "3ABN English",
+    "logo": "https://i.imgur.com/bgJQIyW.png",
+    "group": "Religious",
+    "url": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8",
+    "tvg_id": "3ABNEnglish.us@SD",
+    "status": "live",
+    "id": "3abn-english-1255"
+  },
+  {
+    "name": "3ABN Canada (720p)",
+    "logo": "https://i.imgur.com/U99CsEc.png",
+    "group": "Religious",
+    "url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+    "tvg_id": "3ABNCanada.ca@SD",
+    "status": "live",
+    "id": "3abn-canada-720p-1256"
+  },
+  {
+    "name": "3ABN Proclaim! Network",
+    "logo": "https://i.imgur.com/zUMUNhe.png",
+    "group": "Religious",
+    "url": "https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8",
+    "tvg_id": "3ABNProclaimNetwork.us@SD",
+    "status": "live",
+    "id": "3abn-proclaim-network-1257"
+  },
+  {
+    "name": "3ABN Latino",
+    "logo": "https://i.imgur.com/Ugb4AFo.png",
+    "group": "Religious",
+    "url": "https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8",
+    "tvg_id": "3ABNLatino.us@SD",
+    "status": "live",
+    "id": "3abn-latino-1258"
+  },
+  {
+    "name": "3ABN French",
+    "logo": "https://i.imgur.com/B5gsM7m.png",
+    "group": "Religious",
+    "url": "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8",
+    "tvg_id": "3ABNFrench.us@SD",
+    "status": "live",
+    "id": "3abn-french-1261"
+  },
+  {
+    "name": "4E (1080p)",
+    "logo": "https://i.imgur.com/Na0UCV7.png",
+    "group": "Religious",
+    "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+    "tvg_id": "4E.gr@SD",
+    "status": "live",
+    "id": "4e-1080p-1287"
+  },
+  {
+    "name": "A2i Religion (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/54WrwyN.jpg",
+    "group": "Religious",
+    "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
+    "tvg_id": "A2iReligion.sn@SD",
+    "status": "live",
+    "id": "a2i-religion-720p-not-24-7-1342"
+  },
+  {
+    "name": "A&R Canal Adventista (720p)",
+    "logo": "https://i.imgur.com/ejRJqSI.png",
+    "group": "Religious",
+    "url": "http://51.222.9.192:3589/stream/play.m3u8",
+    "tvg_id": "ARCanal.pa@SD",
+    "status": "live",
+    "id": "a-r-canal-adventista-720p-1348"
+  },
+  {
+    "name": "Aaseervatham TV (576p)",
+    "logo": "https://i.imgur.com/GlfrYs7.png",
+    "group": "Religious",
+    "url": "https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8",
+    "tvg_id": "AaseervathamTV.in@SD",
+    "status": "live",
+    "id": "aaseervatham-tv-576p-1357"
+  },
+  {
+    "name": "Aastha (720p)",
+    "logo": "https://i.imgur.com/IqgrV92.png",
+    "group": "Religious",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
+    "tvg_id": "Aastha.in@SD",
+    "status": "live",
+    "id": "aastha-720p-1359"
+  },
+  {
+    "name": "Aastha Gujarati (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
+    "group": "Religious",
+    "url": "https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8",
+    "tvg_id": "AasthaGujarati.in@SD",
+    "status": "live",
+    "id": "aastha-gujarati-576p-1360"
+  },
+  {
+    "name": "Aastha Prime 1 (720p)",
+    "logo": "https://i.imgur.com/LyWSMJS.png",
+    "group": "Religious",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8",
+    "tvg_id": "AasthaPrime1.in@SD",
+    "status": "live",
+    "id": "aastha-prime-1-720p-1362"
+  },
+  {
+    "name": "Aastha Tamil (480p)",
+    "logo": "https://i.imgur.com/YQK9ewf.png",
+    "group": "Religious",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8",
+    "tvg_id": "AasthaTamil.in@SD",
+    "status": "live",
+    "id": "aastha-tamil-480p-1363"
+  },
+  {
+    "name": "Aastha Bhajan (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8",
+    "tvg_id": "AasthaBhajan.in@SD",
+    "status": "live",
+    "id": "aastha-bhajan-576p-1364"
+  },
+  {
+    "name": "Aastha Kannada (480p)",
+    "logo": "https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8",
+    "tvg_id": "AasthaKannada.in@SD",
+    "status": "live",
+    "id": "aastha-kannada-480p-1365"
+  },
+  {
+    "name": "Aastha Telugu (480p)",
+    "logo": "https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8",
+    "tvg_id": "AasthaTelugu.in@SD",
+    "status": "live",
+    "id": "aastha-telugu-480p-1367"
+  },
+  {
+    "name": "ABN Afghanistan (540p)",
+    "logo": "https://i.imgur.com/LI30mAt.png",
+    "group": "Religious",
+    "url": "https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8",
+    "tvg_id": "ABNAfghanistan.us@SD",
+    "status": "live",
+    "id": "abn-afghanistan-540p-1416"
+  },
+  {
+    "name": "ABN Africa (480p)",
+    "logo": "https://i.imgur.com/SLrX8Ef.png",
+    "group": "Religious",
+    "url": "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
+    "tvg_id": "ABNAfrica.us@SD",
+    "status": "live",
+    "id": "abn-africa-480p-1430"
+  },
+  {
+    "name": "ABN China (720p)",
+    "logo": "https://i.imgur.com/zagVLQH.png",
+    "group": "Religious",
+    "url": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8",
+    "tvg_id": "ABNChina.us@SD",
+    "status": "live",
+    "id": "abn-china-720p-1431"
+  },
+  {
+    "name": "ABNsat (720p)",
+    "logo": "https://i.imgur.com/WhPlJzh.jpeg",
+    "group": "Religious",
+    "url": "https://mediaserver.abnvideos.com/streams/abnsat.m3u8",
+    "tvg_id": "ABNsat.iq@SD",
+    "status": "live",
+    "id": "abnsat-720p-1435"
+  },
+  {
+    "name": "ABN TV India (540p)",
+    "logo": "https://i.imgur.com/VcZn60X.png",
+    "group": "Religious",
+    "url": "https://mediaserver.abnvideos.com/streams/abntvindia.m3u8",
+    "tvg_id": "ABNTVIndia.us@SD",
+    "status": "live",
+    "id": "abn-tv-india-540p-1436"
+  },
+  {
+    "name": "Adhyatm TV (720p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Adhyatam_TV.png",
+    "group": "Religious",
+    "url": "https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8",
+    "tvg_id": "AdhyatmTV.in@SD",
+    "status": "live",
+    "id": "adhyatm-tv-720p-1450"
+  },
+  {
+    "name": "Adoram TV (720p)",
+    "logo": "https://i.imgur.com/uU01KHz.png",
+    "group": "Religious",
+    "url": "https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8",
+    "tvg_id": "AdoramTV.do@SD",
+    "status": "live",
+    "id": "adoram-tv-720p-1457"
+  },
+  {
+    "name": "ACNN (480p)",
+    "logo": "https://i.imgur.com/91JLpxr.png",
+    "group": "Religious",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8",
+    "tvg_id": "ACNN.ng@SD",
+    "status": "live",
+    "id": "acnn-480p-1458"
+  },
+  {
+    "name": "ADB TV (1080p)",
+    "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
+    "group": "Religious",
+    "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
+    "tvg_id": "ADBTV.pt@SD",
+    "status": "live",
+    "id": "adb-tv-1080p-1460"
+  },
+  {
+    "name": "Akaal Channel (396p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/K81vNbk.png",
+    "group": "Religious",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
+    "tvg_id": "AkaalChannel.uk@SD",
+    "status": "live",
+    "id": "akaal-channel-396p-geo-blocked-1514"
+  },
+  {
+    "name": "Al Horreya TV (1080p)",
+    "logo": "https://i.imgur.com/EK75DMJ.png",
+    "group": "Religious",
+    "url": "http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8",
+    "tvg_id": "AlHorreyaTV.us@SD",
+    "status": "live",
+    "id": "al-horreya-tv-1080p-1538"
+  },
+  {
+    "name": "Al Resalah (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/7o4HgrP.png",
+    "group": "Religious",
+    "url": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "tvg_id": "AlResalah.sa@SD",
+    "status": "live",
+    "id": "al-resalah-1080p-geo-blocked-1547"
+  },
+  {
+    "name": "Al Quran Al Kareem TV (1080p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",
+    "group": "Religious",
+    "url": "https://aloula-redirect.vercel.app/7/playlist.m3u8",
+    "tvg_id": "AlQuranAlKareemTV.sa@SD",
+    "status": "live",
+    "id": "al-quran-al-kareem-tv-1080p-1550"
+  },
+  {
+    "name": "Al Maaref TV (1080p)",
+    "logo": "https://i.imgur.com/QFnztgo.png",
+    "group": "Religious",
+    "url": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
+    "tvg_id": "AlMaarefTV.qa@SD",
+    "status": "live",
+    "id": "al-maaref-tv-1080p-1552"
+  },
+  {
+    "name": "Al-Bahjah TV (1080p)",
+    "logo": "https://i.imgur.com/52dlDZk.png",
+    "group": "Religious",
+    "url": "http://202.150.161.117:8000/play/AlBahjahTV",
+    "tvg_id": "AlBahjahTV.id@SD",
+    "status": "live",
+    "id": "al-bahjah-tv-1080p-1555"
+  },
+  {
+    "name": "Al-Sahat TV (720p)",
+    "logo": "https://i.imgur.com/UVndAta.png",
+    "group": "Religious",
+    "url": "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8",
+    "tvg_id": "AlSahatTV.ye@SD",
+    "status": "live",
+    "id": "al-sahat-tv-720p-1561"
+  },
+  {
+    "name": "Al Sunnah Al Nabawiyah TV (1080p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",
+    "group": "Religious",
+    "url": "https://aloula-redirect.vercel.app/6/playlist.m3u8",
+    "tvg_id": "AlSunnahAlNabawiyahTV.sa@SD",
+    "status": "live",
+    "id": "al-sunnah-al-nabawiyah-tv-1080p-1562"
+  },
+  {
+    "name": "Al-Jawadain TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Eo3UYCK.png",
+    "group": "Religious",
+    "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+    "tvg_id": "AlJawadainTV.iq@SD",
+    "status": "live",
+    "id": "al-jawadain-tv-1080p-not-24-7-1565"
+  },
+  {
+    "name": "Al-Fady TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/7L0l0iY.png",
+    "group": "Religious",
+    "url": "https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8",
+    "tvg_id": "AlFadyTV.us@SD",
+    "status": "live",
+    "id": "al-fady-tv-1080p-not-24-7-1566"
+  },
+  {
+    "name": "Al-Iman TV (720p)",
+    "logo": "https://i.imgur.com/Qj1EFf1.png",
+    "group": "Religious",
+    "url": "https://tv.aliman.id/aliman/live.m3u8",
+    "tvg_id": "AlImanTV.id@SD",
+    "status": "live",
+    "id": "al-iman-tv-720p-1568"
+  },
+  {
+    "name": "Alabbassia TV (1080p)",
+    "logo": "https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png",
+    "group": "Religious",
+    "url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
+    "tvg_id": "AlabbassiaTV.iq@HD",
+    "status": "live",
+    "id": "alabbassia-tv-1080p-1569"
+  },
+  {
+    "name": "Al-Zahra TV Turkic (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/QEHKGnG.png",
+    "group": "Religious",
+    "url": "https://live.al-zahratv.com/live/playlist.m3u8",
+    "tvg_id": "AlZahraTVTurkic.tr@SD",
+    "status": "live",
+    "id": "al-zahra-tv-turkic-720p-not-24-7-1571"
+  },
+  {
+    "name": "Al-MahdiTV (1080p)",
+    "logo": "https://i.imgur.com/S1YM83i.png",
+    "group": "Religious",
+    "url": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
+    "tvg_id": "AlMahdiTV.us@SD",
+    "status": "live",
+    "id": "al-mahditv-1080p-1572"
+  },
+  {
+    "name": "Al-Aimma TV (1080p)",
+    "logo": "https://alaimma.tv/alaimma-logo.png",
+    "group": "Religious",
+    "url": "https://alaimma.tv/live/index.m3u8",
+    "tvg_id": "AlAimmaTV.iq@SD",
+    "status": "live",
+    "id": "al-aimma-tv-1080p-1576"
+  },
+  {
+    "name": "Al Wilayah (720p)",
+    "logo": "https://i.imgur.com/OI1HQv5.png",
+    "group": "Religious",
+    "url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
+    "tvg_id": "AlWilayah.ir@SD",
+    "status": "live",
+    "id": "al-wilayah-720p-1578"
+  },
+  {
+    "name": "Alerth Alnabawi Channel (576p)",
+    "logo": "https://i.imgur.com/iYibJxK.png",
+    "group": "Religious",
+    "url": "http://82.212.74.2:8000/live/7307.m3u8",
+    "tvg_id": "AlerthAlnabawiChannel.jo@SD",
+    "status": "live",
+    "id": "alerth-alnabawi-channel-576p-1580"
+  },
+  {
+    "name": "Alcance TV (720p)",
+    "logo": "https://i.imgur.com/5nYjRlb.png",
+    "group": "Religious",
+    "url": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
+    "tvg_id": "AlcanceTV.mx@SD",
+    "status": "live",
+    "id": "alcance-tv-720p-1582"
+  },
+  {
+    "name": "Alfa Omega TV (1080p) [Not 24/7]",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512",
+    "group": "Religious",
+    "url": "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8",
+    "tvg_id": "AlfaOmegaTV.ro@SD",
+    "status": "live",
+    "id": "alfa-omega-tv-1080p-not-24-7-1589"
+  },
+  {
+    "name": "Aliman TV (240p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4WKQppG.png",
+    "group": "Religious",
+    "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
+    "tvg_id": "AlImanTV.lb@SD",
+    "status": "live",
+    "id": "aliman-tv-240p-not-24-7-1595"
+  },
+  {
+    "name": "Alkarma TV North America & Canada (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pnm60bq.png",
+    "group": "Religious",
+    "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8",
+    "tvg_id": "AlkarmaTVNorthAmericaCanada.us@SD",
+    "status": "live",
+    "id": "alkarma-tv-north-america-canada-1080p-not-24-7-1597"
+  },
+  {
+    "name": "Alkarma TV Family (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/yUEuQA2.png",
+    "group": "Religious",
+    "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8",
+    "tvg_id": "AlkarmaTVFamily.us@SD",
+    "status": "live",
+    "id": "alkarma-tv-family-1080p-not-24-7-1598"
+  },
+  {
+    "name": "Alkarma TV Middle East (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/6OmNw5A.png",
+    "group": "Religious",
+    "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8",
+    "tvg_id": "AlkarmaTVMiddleEast.us@SD",
+    "status": "live",
+    "id": "alkarma-tv-middle-east-1080p-not-24-7-1599"
+  },
+  {
+    "name": "Alkarma TV Australia (1080p)",
+    "logo": "https://i.imgur.com/90ykspa.png",
+    "group": "Religious",
+    "url": "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8",
+    "tvg_id": "AlkarmaTVAustralia.us@SD",
+    "status": "live",
+    "id": "alkarma-tv-australia-1080p-1600"
+  },
+  {
+    "name": "Alkarma TV Youth & English (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/kpuO8m7.png",
+    "group": "Religious",
+    "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8",
+    "tvg_id": "AlkarmaTVYouthEnglish.us@SD",
+    "status": "live",
+    "id": "alkarma-tv-youth-english-1080p-not-24-7-1601"
+  },
+  {
+    "name": "Aliento Vision (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/xT10iqB.png",
+    "group": "Religious",
+    "url": "https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8",
+    "tvg_id": "AlientoVision.us@SD",
+    "status": "live",
+    "id": "aliento-vision-720p-not-24-7-1604"
+  },
+  {
+    "name": "Alkarma TV Praise (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/bJLKkou.png",
+    "group": "Religious",
+    "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8",
+    "tvg_id": "AlkarmaTVPraise.us@SD",
+    "status": "live",
+    "id": "alkarma-tv-praise-720p-not-24-7-1606"
+  },
+  {
+    "name": "Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/t2ZkRbr.png",
+    "group": "Religious",
+    "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8",
+    "tvg_id": "AlkarmaTVTalmazaDiscipleship.us@SD",
+    "status": "live",
+    "id": "alkarma-tv-talmaza-discipleship-1080p-not-24-7-1607"
+  },
+  {
+    "name": "Alistiqama TV (576p)",
+    "logo": "https://i.imgur.com/2FPtYZr.png",
+    "group": "Religious",
+    "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+    "tvg_id": "AlistiqamaTV.om@SD",
+    "status": "live",
+    "id": "alistiqama-tv-576p-1611"
+  },
+  {
+    "name": "Almagd TV North America (1080p)",
+    "logo": "https://i.imgur.com/3pUik3b.png",
+    "group": "Religious",
+    "url": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+    "tvg_id": "AlmagdTVNorthAmerica.us@SD",
+    "status": "live",
+    "id": "almagd-tv-north-america-1080p-1614"
+  },
+  {
+    "name": "Almagd TV Middle East (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/3pUik3b.png",
+    "group": "Religious",
+    "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+    "tvg_id": "AlmagdTVMiddleEast.us@SD",
+    "status": "live",
+    "id": "almagd-tv-middle-east-1080p-not-24-7-1621"
+  },
+  {
+    "name": "Alquran (1080p)",
+    "logo": "https://i.imgur.com/lqVwrAF.png",
+    "group": "Religious",
+    "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
+    "tvg_id": "Alquran.iq@SD",
+    "status": "live",
+    "id": "alquran-1080p-1630"
+  },
+  {
+    "name": "Alwafa Tarim TV (Am Media) (720p)",
+    "logo": "https://i.ibb.co/3yfMjmf/logo-3.png",
+    "group": "Religious",
+    "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
+    "tvg_id": "AlWafaTarim.id@SD",
+    "status": "live",
+    "id": "alwafa-tarim-tv-am-media-720p-1633"
+  },
+  {
+    "name": "Anand TV (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png",
+    "group": "Religious",
+    "url": "https://live.legitpro.co.in/anandtv/index.m3u8",
+    "tvg_id": "AnandTV.in@SD",
+    "status": "live",
+    "id": "anand-tv-1080p-1671"
+  },
+  {
+    "name": "Amigos TV Chiquimula (480p)",
+    "logo": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
+    "group": "Religious",
+    "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
+    "tvg_id": "AmigosTVChiquimula.gt@SD",
+    "status": "live",
+    "id": "amigos-tv-chiquimula-480p-1682"
+  },
+  {
+    "name": "Angel TV America (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@America",
+    "status": "live",
+    "id": "angel-tv-america-720p-1684"
+  },
+  {
+    "name": "Angel TV Australia (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Australia",
+    "status": "live",
+    "id": "angel-tv-australia-720p-1685"
+  },
+  {
+    "name": "Angel TV Chinese (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Chinese",
+    "status": "live",
+    "id": "angel-tv-chinese-720p-1688"
+  },
+  {
+    "name": "Angel TV Europe (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Europe",
+    "status": "live",
+    "id": "angel-tv-europe-720p-1689"
+  },
+  {
+    "name": "Angel TV Hebrew (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Hebrew",
+    "status": "live",
+    "id": "angel-tv-hebrew-720p-1690"
+  },
+  {
+    "name": "Angel TV Indo-China (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@IndoChina",
+    "status": "live",
+    "id": "angel-tv-indo-china-720p-1691"
+  },
+  {
+    "name": "Angel TV Indonesia (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Indonesia",
+    "status": "live",
+    "id": "angel-tv-indonesia-720p-1693"
+  },
+  {
+    "name": "Angel TV Russian (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Russian",
+    "status": "live",
+    "id": "angel-tv-russian-720p-1694"
+  },
+  {
+    "name": "Angel TV Portuguese (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Portuguese",
+    "status": "live",
+    "id": "angel-tv-portuguese-720p-1695"
+  },
+  {
+    "name": "Angel TV Spanish (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Spanish",
+    "status": "live",
+    "id": "angel-tv-spanish-720p-1696"
+  },
+  {
+    "name": "Angel TV Nepal (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Nepal",
+    "status": "live",
+    "id": "angel-tv-nepal-720p-1698"
+  },
+  {
+    "name": "Angel TV (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@India",
+    "status": "live",
+    "id": "angel-tv-720p-1700"
+  },
+  {
+    "name": "Ando TV (1080p)",
+    "logo": "https://i.imgur.com/EpTsFVu.png",
+    "group": "Religious",
+    "url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
+    "tvg_id": "AndoTV.cn@SD",
+    "status": "live",
+    "id": "ando-tv-1080p-1703"
+  },
+  {
+    "name": "Angel TV FarEast (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@FarEast",
+    "status": "live",
+    "id": "angel-tv-fareast-720p-1704"
+  },
+  {
+    "name": "Angel TV Arabia (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Arabia",
+    "status": "live",
+    "id": "angel-tv-arabia-720p-1711"
+  },
+  {
+    "name": "Angel TV Africa (720p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "group": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8",
+    "tvg_id": "AngelTV.in@Africa",
+    "status": "live",
+    "id": "angel-tv-africa-720p-1718"
+  },
+  {
+    "name": "Aradana TV (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://cdn-1.pishow.tv/live/961/master.m3u8",
+    "tvg_id": "AradanaTV.in@SD",
+    "status": "live",
+    "id": "aradana-tv-576p-1734"
+  },
+  {
+    "name": "Árbol de Vida TV (240p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4sGDc4X.jpg",
+    "group": "Religious",
+    "url": "https://yupistream.top:19360/livearbol/livearbol.m3u8",
+    "tvg_id": "ArboldeVidaTV.sv@SD",
+    "status": "live",
+    "id": "rbol-de-vida-tv-240p-not-24-7-1749"
+  },
+  {
+    "name": "Arputhar Yesu TV (720p)",
+    "logo": "https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png",
+    "group": "Religious",
+    "url": "https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8",
+    "tvg_id": "ArputharYesuTV.in@SD",
+    "status": "live",
+    "id": "arputhar-yesu-tv-720p-1759"
+  },
+  {
+    "name": "Ark TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/yCHNZXD.png",
+    "group": "Religious",
+    "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
+    "tvg_id": "ArkTV.ug@SD",
+    "status": "live",
+    "id": "ark-tv-1080p-not-24-7-1760"
+  },
+  {
+    "name": "Assirat TV (576p)",
+    "logo": "https://i.imgur.com/ps4Gtj0.png",
+    "group": "Religious",
+    "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
+    "tvg_id": "AssiratTV.ir@SD",
+    "status": "live",
+    "id": "assirat-tv-576p-1778"
+  },
+  {
+    "name": "Asomavisión (614p)",
+    "logo": "https://i.imgur.com/VqwyCV1.png",
+    "group": "Religious",
+    "url": "https://asomatv.cloud-ip.cc/livestream/stream.m3u8",
+    "tvg_id": "Asomavision.ec@SD",
+    "status": "live",
+    "id": "asomavisi-n-614p-1791"
+  },
+  {
+    "name": "ATVSat (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pwM5txv.png",
+    "group": "Religious",
+    "url": "https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8",
+    "tvg_id": "ATVSat.us@SD",
+    "status": "live",
+    "id": "atvsat-1080p-not-24-7-1816"
+  },
+  {
+    "name": "Avivamiento TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ydoBp3b.png",
+    "group": "Religious",
+    "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+    "tvg_id": "AvivamientoTV.co@SD",
+    "status": "live",
+    "id": "avivamiento-tv-1080p-not-24-7-1845"
+  },
+  {
+    "name": "Bahrain Quran (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/er5hOK4.png",
+    "group": "Religious",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+    "tvg_id": "BahrainQuran.bh@SD",
+    "status": "live",
+    "id": "bahrain-quran-720p-not-24-7-1874"
+  },
+  {
+    "name": "BBS Buddhist Broadcasting (1080p)",
+    "logo": "https://i.imgur.com/01UmXRe.png",
+    "group": "Religious",
+    "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
+    "tvg_id": "BBSTV.kr@SD",
+    "status": "live",
+    "id": "bbs-buddhist-broadcasting-1080p-1924"
+  },
+  {
+    "name": "Beautiful Life TV",
+    "logo": "https://i.imgur.com/hkwcBM9.png",
+    "group": "Religious",
+    "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+    "tvg_id": "BeautifulLifeTV.tw@SD",
+    "status": "live",
+    "id": "beautiful-life-tv-1927"
+  },
+  {
+    "name": "BeitolAbbas TV Channel (720p)",
+    "logo": "https://i.imgur.com/s8PfUQy.png",
+    "group": "Religious",
+    "url": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8",
+    "tvg_id": "BeitolAbbasTVChannel.iq@SD",
+    "status": "live",
+    "id": "beitolabbas-tv-channel-720p-1936"
+  },
+  {
+    "name": "Bendicion Channel (720p)",
+    "logo": "https://i.imgur.com/yKzV7m7.png",
+    "group": "Religious",
+    "url": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
+    "tvg_id": "BendicionChannel.co@HD",
+    "status": "live",
+    "id": "bendicion-channel-720p-1938"
+  },
+  {
+    "name": "Benie TV (720p)",
+    "logo": "https://i.imgur.com/7FXi05e.jpeg",
+    "group": "Religious",
+    "url": "https://tv.voozmedia.fun/benietv/index.m3u8",
+    "tvg_id": "BenieTV.ci@SD",
+    "status": "live",
+    "id": "benie-tv-720p-1939"
+  },
+  {
+    "name": "Better Life TV (720p)",
+    "logo": "https://i.imgur.com/OWI7Y0l.png",
+    "group": "Religious",
+    "url": "https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8",
+    "tvg_id": "BetterLifeTV.us@SD",
+    "status": "live",
+    "id": "better-life-tv-720p-1956"
+  },
+  {
+    "name": "Bethel TV (720p)",
+    "logo": "https://i.imgur.com/zCVh765.png",
+    "group": "Religious",
+    "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8",
+    "tvg_id": "BethelTV.pe@SD",
+    "status": "live",
+    "id": "bethel-tv-720p-1961"
+  },
+  {
+    "name": "Bhakthi TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg",
+    "group": "Religious",
+    "url": "https://cdn-1.pishow.tv/live/397/master.m3u8",
+    "tvg_id": "BhakthiTV.in@SD",
+    "status": "live",
+    "id": "bhakthi-tv-720p-1970"
+  },
+  {
+    "name": "Bhakthi Siri (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/f6da6ddbbd4e157e54904f34196118e7.png",
+    "group": "Religious",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakthi-siri/index.m3u8?ads.vf=gdvNYWzRJii",
+    "tvg_id": "BhakthiSiri.in@SD",
+    "status": "live",
+    "id": "bhakthi-siri-576p-1992"
+  },
+  {
+    "name": "Boonniyom TV",
+    "logo": "https://i.imgur.com/KvdFCD5.png",
+    "group": "Religious",
+    "url": "https://live.x2.co.th/live/bntv.m3u8",
+    "tvg_id": "BoonniyomTV.th@SD",
+    "status": "live",
+    "id": "boonniyom-tv-2040"
+  },
+  {
+    "name": "BTN TV (1080p)",
+    "logo": "https://i.imgur.com/sOoS7RQ.png",
+    "group": "Religious",
+    "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
+    "tvg_id": "BTNTV.kr@SD",
+    "status": "live",
+    "id": "btn-tv-1080p-2097"
+  },
+  {
+    "name": "Canal 13 Jujuy TV (720p)",
+    "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+    "group": "Religious",
+    "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
+    "tvg_id": "Canal13Jujuy.ar@SD",
+    "status": "live",
+    "id": "canal-13-jujuy-tv-720p-2199"
+  },
+  {
+    "name": "Canal 26 TV IAP (1080p)",
+    "logo": "https://i.imgur.com/JE7FsnN.png",
+    "group": "Religious",
+    "url": "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8",
+    "tvg_id": "Canal26TVIAP.sv@SD",
+    "status": "live",
+    "id": "canal-26-tv-iap-1080p-2207"
+  },
+  {
+    "name": "Canal 30 TV Bethel (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/PP4U1JL.png",
+    "group": "Religious",
+    "url": "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",
+    "tvg_id": "Canal30TVBethel.gt@SD",
+    "status": "live",
+    "id": "canal-30-tv-bethel-720p-not-24-7-2208"
+  },
+  {
+    "name": "Canal ISB (Iglesia San Bernardo) (720p)",
+    "logo": "https://i.imgur.com/cQ4ggTw.png",
+    "group": "Religious",
+    "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
+    "tvg_id": "CanalISB.cl@SD",
+    "status": "live",
+    "id": "canal-isb-iglesia-san-bernardo-720p-2247"
+  },
+  {
+    "name": "Canal Oración Con Son (1080p)",
+    "logo": "https://i.imgur.com/rfnFqU3.png",
+    "group": "Religious",
+    "url": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
+    "tvg_id": "CanalOracionConSon.co@SD",
+    "status": "live",
+    "id": "canal-oraci-n-con-son-1080p-2255"
+  },
+  {
+    "name": "Canal Telefamilia (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/D1s1Q3k.png",
+    "group": "Religious",
+    "url": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8",
+    "tvg_id": "CanalTelefamilia.co@SD",
+    "status": "live",
+    "id": "canal-telefamilia-360p-not-24-7-2266"
+  },
+  {
+    "name": "Candelita TV (480p)",
+    "logo": "https://i.imgur.com/34BvVDl.png",
+    "group": "Religious",
+    "url": "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8",
+    "tvg_id": "CandelitaTV.pr@SD",
+    "status": "live",
+    "id": "candelita-tv-480p-2274"
+  },
+  {
+    "name": "Catholic TV (1080p)",
+    "logo": "https://i.imgur.com/RI9GbLX.jpg",
+    "group": "Religious",
+    "url": "https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8",
+    "tvg_id": "CatholicTV.us@SD",
+    "status": "live",
+    "id": "catholic-tv-1080p-2297"
+  },
+  {
+    "name": "CBN Gospel (720p)",
+    "logo": "https://i.imgur.com/SHBAblV.png",
+    "group": "Religious",
+    "url": "https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8",
+    "tvg_id": "CBNGospel.vg@SD",
+    "status": "live",
+    "id": "cbn-gospel-720p-2315"
+  },
+  {
+    "name": "CBN Family (1080p)",
+    "logo": "https://i.imgur.com/wDPkKT1.png",
+    "group": "Religious",
+    "url": "https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8",
+    "tvg_id": "CBNFamily.us@SD",
+    "status": "live",
+    "id": "cbn-family-1080p-2321"
+  },
+  {
+    "name": "CBN Espanol (1080p)",
+    "logo": "https://i.imgur.com/G7B4wSM.png",
+    "group": "Religious",
+    "url": "https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8",
+    "tvg_id": "CBNEspanol.us@SD",
+    "status": "live",
+    "id": "cbn-espanol-1080p-2322"
+  },
+  {
+    "name": "CBN News Channel (1080p)",
+    "logo": "https://i.imgur.com/9f9YMsA.png",
+    "group": "Religious",
+    "url": "https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8",
+    "tvg_id": "CBNNews.us@SD",
+    "status": "live",
+    "id": "cbn-news-channel-1080p-2323"
+  },
+  {
+    "name": "CCTN 47 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/IFpAmvW.png",
+    "group": "Religious",
+    "url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
+    "tvg_id": "CCTN47.ph@SD",
+    "status": "live",
+    "id": "cctn-47-1080p-not-24-7-2338"
+  },
+  {
+    "name": "CCPV TV (1080p)",
+    "logo": "https://i.imgur.com/VRhkEqz.jpg",
+    "group": "Religious",
+    "url": "https://tnt-television.com/CCPV-TV/index.m3u8",
+    "tvg_id": "CCPVTelevision.cd@SD",
+    "status": "live",
+    "id": "ccpv-tv-1080p-2352"
+  },
+  {
+    "name": "CDM Internacional (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/N7IneVk.png",
+    "group": "Religious",
+    "url": "https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8",
+    "tvg_id": "CDMInternacional.pr@SD",
+    "status": "live",
+    "id": "cdm-internacional-480p-not-24-7-2371"
+  },
+  {
+    "name": "Cetelmón TV (404p)",
+    "logo": "https://i.imgur.com/GGn7itj.png",
+    "group": "Religious",
+    "url": "http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8",
+    "tvg_id": "CetelmonTV.es@SD",
+    "status": "live",
+    "id": "cetelm-n-tv-404p-2379"
+  },
+  {
+    "name": "CGNTV Japan (1080p)",
+    "logo": "https://i.imgur.com/5LNZeVq.png",
+    "group": "Religious",
+    "url": "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8",
+    "tvg_id": "CGNTVJapan.jp@SD",
+    "status": "live",
+    "id": "cgntv-japan-1080p-2381"
+  },
+  {
+    "name": "CGNTV Chinese (1080p)",
+    "logo": "https://i.imgur.com/bPoPAbR.png",
+    "group": "Religious",
+    "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+    "tvg_id": "CGNTVChinese.tw@SD",
+    "status": "live",
+    "id": "cgntv-chinese-1080p-2382"
+  },
+  {
+    "name": "CFN Catholic Faith Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png",
+    "group": "Religious",
+    "url": "https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8",
+    "tvg_id": "CatholicFaithNetwork.us@SD",
+    "status": "live",
+    "id": "cfn-catholic-faith-network-720p-2386"
+  },
+  {
+    "name": "Ch4Teen",
+    "logo": "https://i.imgur.com/pHpFGeg.png",
+    "group": "Religious",
+    "url": "https://ch14.tv/live/ch4teenclip/playlist.m3u8",
+    "tvg_id": "Ch4Teen.kw@SD",
+    "status": "live",
+    "id": "ch4teen-2390"
+  },
+  {
+    "name": "Ch4Teen Documentary (1080p)",
+    "logo": "https://i.imgur.com/pHpFGeg.png",
+    "group": "Religious",
+    "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8",
+    "tvg_id": "Ch4TeenDocumentary.kw@SD",
+    "status": "live",
+    "id": "ch4teen-documentary-1080p-2391"
+  },
+  {
+    "name": "Channel Divya (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8",
+    "tvg_id": "ChannelDivya.in@SD",
+    "status": "live",
+    "id": "channel-divya-1080p-2410"
+  },
+  {
+    "name": "CharityTV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/U9z8WBY.png",
+    "group": "Religious",
+    "url": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
+    "tvg_id": "CharityTV.lb@SD",
+    "status": "live",
+    "id": "charitytv-1080p-not-24-7-2424"
+  },
+  {
+    "name": "Choluteca TV (1080p)",
+    "logo": "https://i.imgur.com/mpc4Isd.png",
+    "group": "Religious",
+    "url": "https://s.emisoras.tv:8081/cholutecatv/index.m3u8",
+    "tvg_id": "CholutecaTV.hn@SD",
+    "status": "live",
+    "id": "choluteca-tv-1080p-2441"
+  },
+  {
+    "name": "Chosen TV English (360p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
+    "tvg_id": "ChosenTVEnglish.ng@SD",
+    "status": "live",
+    "id": "chosen-tv-english-360p-2447"
+  },
+  {
+    "name": "Cielo TV (1080p)",
+    "logo": "https://i.imgur.com/2PNw6BA.png",
+    "group": "Religious",
+    "url": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8",
+    "tvg_id": "CieloTV.do@SD",
+    "status": "live",
+    "id": "cielo-tv-1080p-2456"
+  },
+  {
+    "name": "CNA (Chaîne Nord Africaine) (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Ki3ySUE.png",
+    "group": "Religious",
+    "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+    "tvg_id": "CNA.dz@SD",
+    "status": "live",
+    "id": "cna-cha-ne-nord-africaine-360p-not-24-7-2506"
+  },
+  {
+    "name": "Compassion TV (240p)",
+    "logo": "https://i.imgur.com/lfoUsyR.jpeg",
+    "group": "Religious",
+    "url": "https://tnt-television.com/COMPASSION_FM/index.m3u8",
+    "tvg_id": "CompassionTV.cd@SD",
+    "status": "live",
+    "id": "compassion-tv-240p-2529"
+  },
+  {
+    "name": "Cornerstone TV (720p)",
+    "logo": "https://i.imgur.com/d6ADcR5.png",
+    "group": "Religious",
+    "url": "https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8",
+    "tvg_id": "CornerstoneTV.us@SD",
+    "status": "live",
+    "id": "cornerstone-tv-720p-2553"
+  },
+  {
+    "name": "Coptic TV (720p) [Not 24/7]",
+    "logo": "https://www.ctvchannel.tv/images/CTV-logo-white.png",
+    "group": "Religious",
+    "url": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
+    "tvg_id": "CopticTV.eg@SD",
+    "status": "live",
+    "id": "coptic-tv-720p-not-24-7-2558"
+  },
+  {
+    "name": "Coza TV (576p)",
+    "logo": "https://i.imgur.com/QVBdpuF.png",
+    "group": "Religious",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8",
+    "tvg_id": "CozaTV.ng@SD",
+    "status": "live",
+    "id": "coza-tv-576p-2573"
+  },
+  {
+    "name": "Credo TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RD4TgcM.png",
+    "group": "Religious",
+    "url": "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
+    "tvg_id": "CredoTV.ro@SD",
+    "status": "live",
+    "id": "credo-tv-720p-not-24-7-2575"
+  },
+  {
+    "name": "Cristovision (720p)",
+    "logo": "https://i.imgur.com/XIhCUY9.png",
+    "group": "Religious",
+    "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
+    "tvg_id": "Cristovision.co@SD",
+    "status": "live",
+    "id": "cristovision-720p-2585"
+  },
+  {
+    "name": "CSat TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fp2EaLJ.png",
+    "group": "Religious",
+    "url": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8",
+    "tvg_id": "CSatTV.us@SD",
+    "status": "live",
+    "id": "csat-tv-1080p-not-24-7-2588"
+  },
+  {
+    "name": "CTNi (Christian Television Network International) (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/42UdwD0.png",
+    "group": "Religious",
+    "url": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
+    "tvg_id": "WELU81.pr@HD",
+    "status": "live",
+    "id": "ctni-christian-television-network-international-480p-not-24-7-2599"
+  },
+  {
+    "name": "CVR OM Spiritual (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png",
+    "group": "Religious",
+    "url": "https://cdn-1.pishow.tv/live/957/master.m3u8",
+    "tvg_id": "CVROMSpiritual.in@SD",
+    "status": "live",
+    "id": "cvr-om-spiritual-576p-2615"
+  },
+  {
+    "name": "DAAI TV",
+    "logo": "https://i.imgur.com/YC7JCHo.png",
+    "group": "Religious",
+    "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+    "tvg_id": "DAAITV.id@SD",
+    "status": "live",
+    "id": "daai-tv-2624"
+  },
+  {
+    "name": "Damsathara TV (720p)",
+    "logo": "https://i.imgur.com/nZE8XjY.png",
+    "group": "Religious",
+    "url": "https://mini.allinonereborn.fun/tata.php?id=11591",
+    "tvg_id": "DamsatharaTV.lk@SD",
+    "status": "live",
+    "id": "damsathara-tv-720p-2631"
+  },
+  {
+    "name": "Daystar TV (1080p)",
+    "logo": "https://i.imgur.com/IjzCv8f.png",
+    "group": "Religious",
+    "url": "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8",
+    "tvg_id": "DaystarTV.us@SD",
+    "status": "live",
+    "id": "daystar-tv-1080p-2694"
+  },
+  {
+    "name": "Dheeran TV (576p)",
+    "logo": "https://i.imgur.com/jSedjXf.png",
+    "group": "Religious",
+    "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
+    "tvg_id": "DheeranTV.in@SD",
+    "status": "live",
+    "id": "dheeran-tv-576p-2706"
+  },
+  {
+    "name": "Dhamma TV (720p) [Not 24/7]",
+    "logo": "https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png",
+    "group": "Religious",
+    "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
+    "tvg_id": "DhammaTV.id@SD",
+    "status": "live",
+    "id": "dhamma-tv-720p-not-24-7-2708"
+  },
+  {
+    "name": "Despertar TV (720p)",
+    "logo": "https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png",
+    "group": "Religious",
+    "url": "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8",
+    "tvg_id": "DespertarTV.br@HD",
+    "status": "live",
+    "id": "despertar-tv-720p-2709"
+  },
+  {
+    "name": "Die Neue Zeit (576p)",
+    "logo": "https://i.imgur.com/K3lvrog.png",
+    "group": "Religious",
+    "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8",
+    "tvg_id": "DieNeueZeitTV.ch@SD",
+    "status": "live",
+    "id": "die-neue-zeit-576p-2716"
+  },
+  {
+    "name": "Dios Te Ve (720p)",
+    "logo": "https://i.imgur.com/7hNwUV2.png",
+    "group": "Religious",
+    "url": "https://s.emisoras.tv:8081/diostevetv/index.m3u8",
+    "tvg_id": "DiosTeVe.hn@SD",
+    "status": "live",
+    "id": "dios-te-ve-720p-2725"
+  },
+  {
+    "name": "Dios Tv Talanga (1080p)",
+    "logo": "https://i.ibb.co/mb8F7R1/Db52f621d30793337de1cdcfc4f02be1.png",
+    "group": "Religious",
+    "url": "https://tv.webmedialive.com/unciontv/live/playlist.m3u8",
+    "tvg_id": "DiosTvTalanga.hn@SD",
+    "status": "live",
+    "id": "dios-tv-talanga-1080p-2730"
+  },
+  {
+    "name": "Diyar TV (720p)",
+    "logo": "https://i.imgur.com/qWkHjRA.png",
+    "group": "Religious",
+    "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
+    "tvg_id": "DiyarTV.tr@SD",
+    "status": "live",
+    "id": "diyar-tv-720p-2741"
+  },
+  {
+    "name": "Divya Darshan TV (720p)",
+    "logo": "https://i.imgur.com/EwDQ12F.png",
+    "group": "Religious",
+    "url": "http://live.divyadarshantv.com/hls/stream.m3u8",
+    "tvg_id": "DivyaDarshanTV.np@SD",
+    "status": "live",
+    "id": "divya-darshan-tv-720p-2742"
+  },
+  {
+    "name": "Diyanet TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png",
+    "group": "Religious",
+    "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+    "tvg_id": "DiyanetTV.tr@SD",
+    "status": "live",
+    "id": "diyanet-tv-1080p-2744"
+  },
+  {
+    "name": "DMI TV (576i)",
+    "logo": "https://static.promediateknologi.id/promedia/network/1167/desktop/images/logo.png",
+    "group": "Religious",
+    "url": "https://tvstreamcast.com/tawaftv.m3u8",
+    "tvg_id": "DMITV.id@SD",
+    "status": "live",
+    "id": "dmi-tv-576i-2763"
+  },
+  {
+    "name": "DNJ TV (720p)",
+    "logo": "https://i.imgur.com/YqTcGJZ.png",
+    "group": "Religious",
+    "url": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8",
+    "tvg_id": "DNJTV.pr@SD",
+    "status": "live",
+    "id": "dnj-tv-720p-2771"
+  },
+  {
+    "name": "Dost TV (576p)",
+    "logo": "https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png",
+    "group": "Religious",
+    "url": "https://dost.stream.emsal.im/tv/live.m3u8",
+    "tvg_id": "DostTV.tr@SD",
+    "status": "live",
+    "id": "dost-tv-576p-2782"
+  },
+  {
+    "name": "Dream TV (480p)",
+    "logo": "https://i.imgur.com/XRUDhqQ.png",
+    "group": "Religious",
+    "url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8",
+    "tvg_id": "DreamTV.ug@SD",
+    "status": "live",
+    "id": "dream-tv-480p-2797"
+  },
+  {
+    "name": "Dr. Gene Scott (1080p)",
+    "logo": "https://i.imgur.com/Db3EI19.png",
+    "group": "Religious",
+    "url": "https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8",
+    "tvg_id": "DrGeneScott.us@SD",
+    "status": "live",
+    "id": "dr-gene-scott-1080p-2802"
+  },
+  {
+    "name": "Ebenezer TV (1080p)",
+    "logo": "https://i.imgur.com/IC30j61.png",
+    "group": "Religious",
+    "url": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8",
+    "tvg_id": "EbenezerTV.hn@SD",
+    "status": "live",
+    "id": "ebenezer-tv-1080p-2829"
+  },
+  {
+    "name": "EBN Televisión (720p)",
+    "logo": "https://i.imgur.com/4OCptwT.png",
+    "group": "Religious",
+    "url": "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8",
+    "tvg_id": "EBNTelevision.pr@SD",
+    "status": "live",
+    "id": "ebn-televisi-n-720p-2830"
+  },
+  {
+    "name": "EchtJetzt TV (720p)",
+    "logo": "https://i.ibb.co/ccNRGVj/download-10.png",
+    "group": "Religious",
+    "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8",
+    "tvg_id": "EchtJetztTV.de@SD",
+    "status": "live",
+    "id": "echtjetzt-tv-720p-2835"
+  },
+  {
+    "name": "El Camino TV (480p)",
+    "logo": "https://i.imgur.com/ZSktjGB.png",
+    "group": "Religious",
+    "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
+    "tvg_id": "ElCaminoTV.sv@SD",
+    "status": "live",
+    "id": "el-camino-tv-480p-2858"
+  },
+  {
+    "name": "El PuertoTV (720p)",
+    "logo": "https://i.imgur.com/FnshExB.jpg",
+    "group": "Religious",
+    "url": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8",
+    "tvg_id": "ElPuertoTV.do@SD",
+    "status": "live",
+    "id": "el-puertotv-720p-2859"
+  },
+  {
+    "name": "Elbeshara GTV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/b0Wx7pE.png",
+    "group": "Religious",
+    "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8",
+    "tvg_id": "ElbesharaGTV.us@SD",
+    "status": "live",
+    "id": "elbeshara-gtv-1080p-not-24-7-2864"
+  },
+  {
+    "name": "Enlace (720p)",
+    "logo": "https://i.imgur.com/YwUVTmS.png",
+    "group": "Religious",
+    "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+    "tvg_id": "Enlace.cr@SD",
+    "status": "live",
+    "id": "enlace-720p-2898"
+  },
+  {
+    "name": "Erfan Halgheh TV (720p)",
+    "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+    "group": "Religious",
+    "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
+    "tvg_id": "ErfanHalghehTV.ca@SD",
+    "status": "live",
+    "id": "erfan-halgheh-tv-720p-2915"
+  },
+  {
+    "name": "Ertsulovneba",
+    "logo": "https://i.imgur.com/KuuODMM.png",
+    "group": "Religious",
+    "url": "https://stream.sstv.ge/live/sstv/playlist.m3u8",
+    "tvg_id": "Ertsulovneba.ge@SD",
+    "status": "live",
+    "id": "ertsulovneba-2920"
+  },
+  {
+    "name": "Eslah TV (720p)",
+    "logo": "https://i.imgur.com/To7VnsA.png",
+    "group": "Religious",
+    "url": "https://eslahtvhls.wns.live/hls/stream.m3u8",
+    "tvg_id": "EslahTV.af@SD",
+    "status": "live",
+    "id": "eslah-tv-720p-2931"
+  },
+  {
+    "name": "Escúchame Radio TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/gt6UvG8.png",
+    "group": "Religious",
+    "url": "https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8",
+    "tvg_id": "EscuchameRadioTV.ni@SD",
+    "status": "live",
+    "id": "esc-chame-radio-tv-720p-not-24-7-2942"
+  },
+  {
+    "name": "EWTN Africa-Asia (720p)",
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
+    "tvg_id": "EWTN.us@AfricaAsia",
+    "status": "live",
+    "id": "ewtn-africa-asia-720p-2979"
+  },
+  {
+    "name": "EWTN Asia-Pacific (720p)",
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8",
+    "tvg_id": "EWTN.us@AsiaPacific",
+    "status": "live",
+    "id": "ewtn-asia-pacific-720p-2980"
+  },
+  {
+    "name": "EWTN Canada (720p)",
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8",
+    "tvg_id": "EWTN.us@Canada",
+    "status": "live",
+    "id": "ewtn-canada-720p-2981"
+  },
+  {
+    "name": "EWTN Espana",
+    "logo": "https://i.imgur.com/KvpMbkd.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8",
+    "tvg_id": "EWTNEspana.es@SD",
+    "status": "live",
+    "id": "ewtn-espana-2983"
+  },
+  {
+    "name": "EWTN Germany (720p)",
+    "logo": "https://i.imgur.com/NXeygNk.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
+    "tvg_id": "EWTN.de@SD",
+    "status": "live",
+    "id": "ewtn-germany-720p-2984"
+  },
+  {
+    "name": "EWTN Europe (720p)",
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
+    "tvg_id": "EWTN.us@Europe",
+    "status": "live",
+    "id": "ewtn-europe-720p-2985"
+  },
+  {
+    "name": "EWTN Poland (1080p)",
+    "logo": "https://i.imgur.com/VtKYELf.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8",
+    "tvg_id": "EWTNPoland.pl@SD",
+    "status": "live",
+    "id": "ewtn-poland-1080p-2986"
+  },
+  {
+    "name": "EWTN Ukraine (1080p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
+    "tvg_id": "EWTNUkraine.ua@SD",
+    "status": "live",
+    "id": "ewtn-ukraine-1080p-2987"
+  },
+  {
+    "name": "EWTN Spain & Latin America (720p)",
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+    "tvg_id": "EWTN.us@SpainLatinAmerica",
+    "status": "live",
+    "id": "ewtn-spain-latin-america-720p-2989"
+  },
+  {
+    "name": "Exodus TV (720p)",
+    "logo": "https://i.imgur.com/WKr5ncQ.png",
+    "group": "Religious",
+    "url": "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+    "tvg_id": "ExodusTV.si@SD",
+    "status": "live",
+    "id": "exodus-tv-720p-2993"
+  },
+  {
+    "name": "Fajar TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/mkuXxRK.png",
+    "group": "Religious",
+    "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+    "tvg_id": "FajarTV.id@SD",
+    "status": "live",
+    "id": "fajar-tv-720p-not-24-7-3001"
+  },
+  {
+    "name": "Faith World TV (1080p)",
+    "logo": "https://i.imgur.com/RLHRjQ3.png",
+    "group": "Religious",
+    "url": "https://faithworldtv.abs.tv/1826926230/index.m3u8",
+    "tvg_id": "FaithWorldTV.uk@SD",
+    "status": "live",
+    "id": "faith-world-tv-1080p-3004"
+  },
+  {
+    "name": "Extrema TV (720p)",
+    "logo": "https://i.imgur.com/E9AuhOU.png",
+    "group": "Religious",
+    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
+    "tvg_id": "ExtremaTV.cr@SD",
+    "status": "live",
+    "id": "extrema-tv-720p-3008"
+  },
+  {
+    "name": "Faith TV (576p)",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg",
+    "group": "Religious",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
+    "tvg_id": "FaithTV.za@SD",
+    "status": "live",
+    "id": "faith-tv-576p-3010"
+  },
+  {
+    "name": "FarmodaTV (1080p)",
+    "logo": "https://i.imgur.com/x4KCQlH.png",
+    "group": "Religious",
+    "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
+    "tvg_id": "FarmodaTV.iq@HD",
+    "status": "live",
+    "id": "farmodatv-1080p-3018"
+  },
+  {
+    "name": "Familia Visión HD [Not 24/7]",
+    "logo": "https://i.imgur.com/uqTH7m5.jpg",
+    "group": "Religious",
+    "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
+    "tvg_id": "FamiliaVisionHD.pr@SD",
+    "status": "live",
+    "id": "familia-visi-n-hd-not-24-7-3019"
+  },
+  {
+    "name": "Faro de Santidad TV (720p)",
+    "logo": "https://i.imgur.com/GoNBFzI.png",
+    "group": "Religious",
+    "url": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
+    "tvg_id": "FarodeSantidadTV.pr@SD",
+    "status": "live",
+    "id": "faro-de-santidad-tv-720p-3031"
+  },
+  {
+    "name": "Fazal TV (1080p)",
+    "logo": "https://i.imgur.com/c0fvKia.png",
+    "group": "Religious",
+    "url": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8",
+    "tvg_id": "FazalTV.pk@SD",
+    "status": "live",
+    "id": "fazal-tv-1080p-3032"
+  },
+  {
+    "name": "Fateh TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/c4ItNkB.png",
+    "group": "Religious",
+    "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
+    "tvg_id": "FatehTV.in@SD",
+    "status": "live",
+    "id": "fateh-tv-1080p-not-24-7-3039"
+  },
+  {
+    "name": "FGTV (720p)",
+    "logo": "https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png",
+    "group": "Religious",
+    "url": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8",
+    "tvg_id": "FGTV.kr@SD",
+    "status": "live",
+    "id": "fgtv-720p-3051"
+  },
+  {
+    "name": "Firstlight (576p)",
+    "logo": "https://i.imgur.com/gtDROeT.png",
+    "group": "Religious",
+    "url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
+    "tvg_id": "Firstlight.nz@SD",
+    "status": "live",
+    "id": "firstlight-576p-3078"
+  },
+  {
+    "name": "Flame TV (576p)",
+    "logo": "https://i.imgur.com/ORKcnzr.png",
+    "group": "Religious",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8",
+    "tvg_id": "FlameTV.ng@SD",
+    "status": "live",
+    "id": "flame-tv-576p-3082"
+  },
+  {
+    "name": "Fonte TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/7q2BmNc.png",
+    "group": "Religious",
+    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+    "tvg_id": "FonteTV.br@SD",
+    "status": "live",
+    "id": "fonte-tv-1080p-not-24-7-3097"
+  },
+  {
+    "name": "Frecuencia F TV (1080p)",
+    "logo": "https://i.imgur.com/Cw5k96N.png",
+    "group": "Religious",
+    "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
+    "tvg_id": "FrecuenciaFTV.co@SD",
+    "status": "live",
+    "id": "frecuencia-f-tv-1080p-3130"
+  },
+  {
+    "name": "GBN Global Buddhist Network (1080p)",
+    "logo": "https://i.imgur.com/fU0ZhKD.png",
+    "group": "Religious",
+    "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8",
+    "tvg_id": "GlobalBuddhistNetwork.us@SD",
+    "status": "live",
+    "id": "gbn-global-buddhist-network-1080p-3172"
+  },
+  {
+    "name": "GCN24 Korean (720p)",
+    "logo": "https://i.imgur.com/yzwtMOC.png",
+    "group": "Religious",
+    "url": "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8",
+    "tvg_id": "GCN.kr@SD",
+    "status": "live",
+    "id": "gcn24-korean-720p-3186"
+  },
+  {
+    "name": "Giovanni Paolo TV (1080p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
+    "tvg_id": "GiovanniPaoloTV.it@SD",
+    "status": "live",
+    "id": "giovanni-paolo-tv-1080p-3220"
+  },
+  {
+    "name": "Global Christian Network America (GCN) (720p)",
+    "logo": "https://i.imgur.com/DWSWrtV.png",
+    "group": "Religious",
+    "url": "http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8",
+    "tvg_id": "GCNAmerica.us@SD",
+    "status": "live",
+    "id": "global-christian-network-america-gcn-720p-3225"
+  },
+  {
+    "name": "GOD TV (396p)",
+    "logo": "https://i.imgur.com/hW4g2oe.png",
+    "group": "Religious",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
+    "tvg_id": "GODTV.uk@SD",
+    "status": "live",
+    "id": "god-tv-396p-3235"
+  },
+  {
+    "name": "God's Learning Channel (480p)",
+    "logo": "https://i.imgur.com/w1bK8YN.png",
+    "group": "Religious",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8",
+    "tvg_id": "KPCBDT171.us@SD",
+    "status": "live",
+    "id": "god-s-learning-channel-480p-3236"
+  },
+  {
+    "name": "God Stands TV Arabic",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "group": "Religious",
+    "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+    "tvg_id": "GodStandsTV.pk@Arabic",
+    "status": "live",
+    "id": "god-stands-tv-arabic-3237"
+  },
+  {
+    "name": "God Stands TV Chinese",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "group": "Religious",
+    "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+    "tvg_id": "GodStandsTV.pk@Chinese",
+    "status": "live",
+    "id": "god-stands-tv-chinese-3238"
+  },
+  {
+    "name": "God Stands TV",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "group": "Religious",
+    "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+    "tvg_id": "GodStandsTV.pk@Main",
+    "status": "live",
+    "id": "god-stands-tv-3239"
+  },
+  {
+    "name": "God Stands TV English",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "group": "Religious",
+    "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+    "tvg_id": "GodStandsTV.pk@English",
+    "status": "live",
+    "id": "god-stands-tv-english-3240"
+  },
+  {
+    "name": "God Stands TV Hindi",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "group": "Religious",
+    "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+    "tvg_id": "GodStandsTV.pk@Hindi",
+    "status": "live",
+    "id": "god-stands-tv-hindi-3241"
+  },
+  {
+    "name": "God Stands TV Tagalog",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "group": "Religious",
+    "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+    "tvg_id": "GodStandsTV.pk@Tagalog",
+    "status": "live",
+    "id": "god-stands-tv-tagalog-3242"
+  },
+  {
+    "name": "God Stands TV Punjabi",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "group": "Religious",
+    "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+    "tvg_id": "GodStandsTV.pk@Punjabi",
+    "status": "live",
+    "id": "god-stands-tv-punjabi-3243"
+  },
+  {
+    "name": "God Stands TV Urdu",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "group": "Religious",
+    "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+    "tvg_id": "GodStandsTV.pk@Urdu",
+    "status": "live",
+    "id": "god-stands-tv-urdu-3244"
+  },
+  {
+    "name": "GOOD TV CH1 綜合台 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "group": "Religious",
+    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+    "tvg_id": "GoodTV.tw@SD",
+    "status": "live",
+    "id": "good-tv-ch1-720p-not-24-7-3258"
+  },
+  {
+    "name": "GOOD TV CH2 真理台 (720p)",
+    "logo": "https://i.imgur.com/YxFRoft.png",
+    "group": "Religious",
+    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+    "tvg_id": "Good2.tw@SD",
+    "status": "live",
+    "id": "good-tv-ch2-720p-3260"
+  },
+  {
+    "name": "GoodLife 45 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/AQfVNMK.png",
+    "group": "Religious",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8",
+    "tvg_id": "GoodLife45.us@SD",
+    "status": "live",
+    "id": "goodlife-45-720p-not-24-7-3286"
+  },
+  {
+    "name": "Gospel TV India (720p)",
+    "logo": "https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png",
+    "group": "Religious",
+    "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
+    "tvg_id": "GospelTVIndia.in@SD",
+    "status": "live",
+    "id": "gospel-tv-india-720p-3290"
+  },
+  {
+    "name": "GoodTV (1080p)",
+    "logo": "https://i.ibb.co/1v913gn/logo-goodtv.png",
+    "group": "Religious",
+    "url": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8",
+    "tvg_id": "GoodTV.kr@SD",
+    "status": "live",
+    "id": "goodtv-1080p-3291"
+  },
+  {
+    "name": "Gospel Truth TV (1080p)",
+    "logo": "https://i.imgur.com/LI52X2q.png",
+    "group": "Religious",
+    "url": "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8",
+    "tvg_id": "GospelTruthTV.us@SD",
+    "status": "live",
+    "id": "gospel-truth-tv-1080p-3293"
+  },
+  {
+    "name": "Gospel Cartoon (360p)",
+    "logo": "https://i.imgur.com/yxjPno5.png",
+    "group": "Religious",
+    "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+    "tvg_id": "GospelCartoon.br@SD",
+    "status": "live",
+    "id": "gospel-cartoon-360p-3297"
+  },
+  {
+    "name": "Gospel Movie TV (360p)",
+    "logo": "https://i.imgur.com/cQN3nWt.png",
+    "group": "Religious",
+    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+    "tvg_id": "GospelMovieTV.br@SD",
+    "status": "live",
+    "id": "gospel-movie-tv-360p-3298"
+  },
+  {
+    "name": "Gospel Broadcasting Network (GBN) (1080p)",
+    "logo": "https://i.imgur.com/DsFyyHy.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8",
+    "tvg_id": "GBNTV.us@SD",
+    "status": "live",
+    "id": "gospel-broadcasting-network-gbn-1080p-3300"
+  },
+  {
+    "name": "Grace Network (720p)",
+    "logo": "https://i.imgur.com/QSaZPJ4.png",
+    "group": "Religious",
+    "url": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8",
+    "tvg_id": "GraceNetwork.pk@SD",
+    "status": "live",
+    "id": "grace-network-720p-3304"
+  },
+  {
+    "name": "GoodNews TV (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png",
+    "group": "Religious",
+    "url": "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8",
+    "tvg_id": "GoodNewsTV.in@SD",
+    "status": "live",
+    "id": "goodnews-tv-720p-3305"
+  },
+  {
+    "name": "Guadalupe Media (720p)",
+    "logo": "https://i.imgur.com/EfaOwRE.png",
+    "group": "Religious",
+    "url": "https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8",
+    "tvg_id": "GuadalupeMedia.bz@SD",
+    "status": "live",
+    "id": "guadalupe-media-720p-3326"
+  },
+  {
+    "name": "GurSikh Sabha TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/2EKCtQm.png",
+    "group": "Religious",
+    "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8",
+    "tvg_id": "GurSikhSabhaTV.ca@SD",
+    "status": "live",
+    "id": "gursikh-sabha-tv-720p-not-24-7-3331"
+  },
+  {
+    "name": "Habib TV",
+    "logo": "https://i.ibb.co/spZRy7mg/habib.png",
+    "group": "Religious",
+    "url": "https://ncdn.telewebion.ir/habib/live/playlist.m3u8",
+    "tvg_id": "HabibTV.ir@SD",
+    "status": "live",
+    "id": "habib-tv-3352"
+  },
+  {
+    "name": "Harvest TV (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7/images/LOGO_HD/image.png",
+    "group": "Religious",
+    "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8",
+    "tvg_id": "HarvestTV.in@SD",
+    "status": "live",
+    "id": "harvest-tv-720p-3372"
+  },
+  {
+    "name": "Harvest USA (576p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+    "tvg_id": "HarvestUSA.in@SD",
+    "status": "live",
+    "id": "harvest-usa-576p-3373"
+  },
+  {
+    "name": "Harvest TV Keralam (720p)",
+    "logo": "https://i.imgur.com/1DyPuIt.png",
+    "group": "Religious",
+    "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8",
+    "tvg_id": "HarvestTVKeralam.in@SD",
+    "status": "live",
+    "id": "harvest-tv-keralam-720p-3374"
+  },
+  {
+    "name": "Hebron TV (1080p)",
+    "logo": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512",
+    "group": "Religious",
+    "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
+    "tvg_id": "HebronTV.in@SD",
+    "status": "live",
+    "id": "hebron-tv-1080p-3385"
+  },
+  {
+    "name": "Hindu Dharmam (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143131_ld_h15_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://cdn-1.pishow.tv/live/959/master.m3u8",
+    "tvg_id": "HinduDharmam.in@SD",
+    "status": "live",
+    "id": "hindu-dharmam-576p-3398"
+  },
+  {
+    "name": "Himlen TV7 (720p)",
+    "logo": "https://i.imgur.com/k8a7KNn.png",
+    "group": "Religious",
+    "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "tvg_id": "HimlenTV7.fi@SD",
+    "status": "live",
+    "id": "himlen-tv7-720p-3404"
+  },
+  {
+    "name": "Holy Quran Radio Nablus (720p)",
+    "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
+    "group": "Religious",
+    "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
+    "tvg_id": "HolyQuranRadioNablus.ps@SD",
+    "status": "live",
+    "id": "holy-quran-radio-nablus-720p-3419"
+  },
+  {
+    "name": "Hope Channel German (1080p)",
+    "logo": "https://i.imgur.com/I9BbJR0.png",
+    "group": "Religious",
+    "url": "https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8",
+    "tvg_id": "HopeChannelGerman.de@SD",
+    "status": "live",
+    "id": "hope-channel-german-1080p-3430"
+  },
+  {
+    "name": "Hope Channel Bulgaria",
+    "logo": "https://i.imgur.com/bxzeEML.png",
+    "group": "Religious",
+    "url": "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8",
+    "tvg_id": "HopeChannelBulgaria.bg@SD",
+    "status": "live",
+    "id": "hope-channel-bulgaria-3433"
+  },
+  {
+    "name": "Hosanna Vision (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/v0tc51l.png",
+    "group": "Religious",
+    "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
+    "tvg_id": "HosannaVision.pa@SD",
+    "status": "live",
+    "id": "hosanna-vision-720p-not-24-7-3449"
+  },
+  {
+    "name": "Hope Channel Ghana (480p)",
+    "logo": "https://i.imgur.com/d1P9ekm.png",
+    "group": "Religious",
+    "url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
+    "tvg_id": "HopeChannelGhana.gh@SD",
+    "status": "live",
+    "id": "hope-channel-ghana-480p-3456"
+  },
+  {
+    "name": "Hope Channel Australia (1080p)",
+    "logo": "https://i.imgur.com/8Zs7rDm.png",
+    "group": "Religious",
+    "url": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8",
+    "tvg_id": "HopeChannelAustralia.au@SD",
+    "status": "live",
+    "id": "hope-channel-australia-1080p-3457"
+  },
+  {
+    "name": "IBN TV",
+    "logo": "https://i.imgur.com/hkV51ij.png",
+    "group": "Religious",
+    "url": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
+    "tvg_id": "IBNTV.tz@SD",
+    "status": "live",
+    "id": "ibntv-388"
+  },
+  {
+    "name": "IBN TV Africa (720p)",
+    "logo": "https://i.imgur.com/eKy2ocd.png",
+    "group": "Religious",
+    "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
+    "tvg_id": "IBNTVAfrica.tz@SD",
+    "status": "live",
+    "id": "ibn-tv-africa-720p-3473"
+  },
+  {
+    "name": "Hyder TV",
+    "logo": "https://hyder.tv/wp-content/uploads/2019/08/Logo_HYDER-TV_high-res_013.png",
+    "group": "Religious",
+    "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
+    "tvg_id": "HyderTV.ca@SD",
+    "status": "live",
+    "id": "hydertv-417"
+  },
+  {
+    "name": "icnet 3",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://ic3hls.wns.live/hls/stream.m3u8",
+    "tvg_id": "icnet3.ca@SD",
+    "status": "live",
+    "id": "icnet-3-3476"
+  },
+  {
+    "name": "IeanJesus Ecuador (720p)",
+    "logo": "https://i.imgur.com/TyckDSV.png",
+    "group": "Religious",
+    "url": "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8",
+    "tvg_id": "IeanJesusEcuador.ec@SD",
+    "status": "live",
+    "id": "ieanjesus-ecuador-720p-3487"
+  },
+  {
+    "name": "IIPC TV (720p)",
+    "logo": "https://i.imgur.com/mIih39Y.png",
+    "group": "Religious",
+    "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
+    "tvg_id": "IIPCTV.ca@SD",
+    "status": "live",
+    "id": "iipc-tv-720p-3497"
+  },
+  {
+    "name": "Imam Hussein TV 4 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/0UYcylY.png",
+    "group": "Religious",
+    "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
+    "tvg_id": "ImamHusseinTV4.iq@SD",
+    "status": "live",
+    "id": "imam-hussein-tv-4-1080p-not-24-7-3502"
+  },
+  {
+    "name": "Imam Hussein TV 1 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pDdUvz7.png",
+    "group": "Religious",
+    "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
+    "tvg_id": "ImamHusseinTV1.iq@SD",
+    "status": "live",
+    "id": "imam-hussein-tv-1-1080p-not-24-7-3503"
+  },
+  {
+    "name": "Imam Hussein TV 3 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/emQRHQZ.png",
+    "group": "Religious",
+    "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
+    "tvg_id": "ImamHusseinTV3.iq@SD",
+    "status": "live",
+    "id": "imam-hussein-tv-3-1080p-not-24-7-3504"
+  },
+  {
+    "name": "Imam Hussein TV 2 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/IXVSPdJ.png",
+    "group": "Religious",
+    "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
+    "tvg_id": "ImamHusseinTV2.iq@SD",
+    "status": "live",
+    "id": "imam-hussein-tv-2-1080p-not-24-7-3505"
+  },
+  {
+    "name": "IMPD TV Worldwide (1080p)",
+    "logo": "https://i.imgur.com/9dW3AUQ.png",
+    "group": "Religious",
+    "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+    "tvg_id": "IMPDTVWorldwide.br@SD",
+    "status": "live",
+    "id": "impd-tv-worldwide-1080p-3508"
+  },
+  {
+    "name": "Immaculata TV (720p)",
+    "logo": "https://i.imgur.com/8WsYVpt.png",
+    "group": "Religious",
+    "url": "https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8",
+    "tvg_id": "ImmaculataTV.ch@SD",
+    "status": "live",
+    "id": "immaculata-tv-720p-3510"
+  },
+  {
+    "name": "Iran Jewish TV",
+    "logo": "https://i.ibb.co/JWXs7csN/en.png",
+    "group": "Religious",
+    "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8",
+    "tvg_id": "IranJewishTV.ir@SD",
+    "status": "live",
+    "id": "iran-jewish-tv-3543"
+  },
+  {
+    "name": "Iqraa Arabic (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/HPVsIa4.png",
+    "group": "Religious",
+    "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8",
+    "tvg_id": "IqraaArabic.sa@SD",
+    "status": "live",
+    "id": "iqraa-arabic-1080p-not-24-7-3544"
+  },
+  {
+    "name": "Iqraa Quran (1080p)",
+    "logo": "https://i.imgur.com/HPVsIa4.png",
+    "group": "Religious",
+    "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8",
+    "tvg_id": "IqraaQuran.sa@SD",
+    "status": "live",
+    "id": "iqraa-quran-1080p-3545"
+  },
+  {
+    "name": "Iqraa Africa & Europe (1080p)",
+    "logo": "https://i.imgur.com/nUlZvSe.png",
+    "group": "Religious",
+    "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
+    "tvg_id": "IqraaAfricaEurope.sa@SD",
+    "status": "live",
+    "id": "iqraa-africa-europe-1080p-3546"
+  },
+  {
+    "name": "Ishwar Bhakti TV (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHWAR_TV/images/LOGO_HD/image.png",
+    "group": "Religious",
+    "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8",
+    "tvg_id": "IshwarBhaktiTV.in@SD",
+    "status": "live",
+    "id": "ishwar-bhakti-tv-720p-3563"
+  },
+  {
+    "name": "It's Supernatural! Network (ISN Network) (1080p)",
+    "logo": "https://i.imgur.com/JWrdL9a.png",
+    "group": "Religious",
+    "url": "https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8",
+    "tvg_id": "ItsSupernaturalNetwork.us@SD",
+    "status": "live",
+    "id": "it-s-supernatural-network-isn-network-1080p-3566"
+  },
+  {
+    "name": "It Is Written TV (1080p)",
+    "logo": "https://i.imgur.com/0jgzoSF.png",
+    "group": "Religious",
+    "url": "https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8",
+    "tvg_id": "ItIsWrittenTV.us@SD",
+    "status": "live",
+    "id": "it-is-written-tv-1080p-3573"
+  },
+  {
+    "name": "Islam Channel Urdu (576p)",
+    "logo": "https://i.imgur.com/j1ZBAgg.png",
+    "group": "Religious",
+    "url": "https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8",
+    "tvg_id": "IslamChannelUrdu.uk@SD",
+    "status": "live",
+    "id": "islam-channel-urdu-576p-3576"
+  },
+  {
+    "name": "Izzah TV (480p)",
+    "logo": "https://i.imgur.com/my7aqLc.png",
+    "group": "Religious",
+    "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
+    "tvg_id": "IzzahTV.id@SD",
+    "status": "live",
+    "id": "izzah-tv-480p-3589"
+  },
+  {
+    "name": "Jinvani Channel (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143230_ld_h15_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://cdn-2.pishow.tv/live/989/master.m3u8",
+    "tvg_id": "JinvaniChannel.in@SD",
+    "status": "live",
+    "id": "jinvani-channel-720p-3622"
+  },
+  {
+    "name": "JN19 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/dudxyqk.png",
+    "group": "Religious",
+    "url": "https://servilive.com:3028/live/jntv19live.m3u8",
+    "tvg_id": "JN19.pe@SD",
+    "status": "live",
+    "id": "jn19-1080p-not-24-7-3635"
+  },
+  {
+    "name": "Joshua TV (720p)",
+    "logo": "https://i.imgur.com/x9xPR2h.png",
+    "group": "Religious",
+    "url": "https://livecdn.live247stream.com/joshua/tv/playlist.m3u8",
+    "tvg_id": "JoshuaTV.pk@SD",
+    "status": "live",
+    "id": "joshua-tv-720p-3644"
+  },
+  {
+    "name": "Júbilo TV (720p)",
+    "logo": "https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png",
+    "group": "Religious",
+    "url": "http://173.249.60.54/hls/jubilotv.m3u8",
+    "tvg_id": "JubiloTV.gt@SD",
+    "status": "live",
+    "id": "j-bilo-tv-720p-3653"
+  },
+  {
+    "name": "Joy TV (1080p)",
+    "logo": "https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png",
+    "group": "Religious",
+    "url": "https://ktismaservers.in:3412/live/joytvlive.m3u8",
+    "tvg_id": "JoyTV.in@SD",
+    "status": "live",
+    "id": "joy-tv-1080p-3655"
+  },
+  {
+    "name": "Josué TV (1080p)",
+    "logo": "https://i.imgur.com/LNWGe1D.jpg",
+    "group": "Religious",
+    "url": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
+    "tvg_id": "JosueTV.sv@SD",
+    "status": "live",
+    "id": "josu-tv-1080p-3664"
+  },
+  {
+    "name": "K-TV (720p)",
+    "logo": "https://i.imgur.com/RYbR4Sf.png",
+    "group": "Religious",
+    "url": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8",
+    "tvg_id": "KTV.at@SD",
+    "status": "live",
+    "id": "k-tv-720p-3676"
+  },
+  {
+    "name": "Kabbalah for the People (Israel) (504p) [Not 24/7]",
+    "logo": "https://i.imgur.com/VxAHOgr.png",
+    "group": "Religious",
+    "url": "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8",
+    "tvg_id": "KabbalahforthePeopleIsrael.il@SD",
+    "status": "live",
+    "id": "kabbalah-for-the-people-israel-504p-not-24-7-3682"
+  },
+  {
+    "name": "Kalemeh TV",
+    "logo": "https://i.imgur.com/RsKKULI.png",
+    "group": "Religious",
+    "url": "https://klmhls.wns.live/hls/stream.m3u8",
+    "tvg_id": "KalemehTV.uk@HD",
+    "status": "live",
+    "id": "kalemeh-tv-3684"
+  },
+  {
+    "name": "Kanshi TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/w6uXMrK.png",
+    "group": "Religious",
+    "url": "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8",
+    "tvg_id": "KanshiTV.uk@SD",
+    "status": "live",
+    "id": "kanshi-tv-720p-not-24-7-3712"
+  },
+  {
+    "name": "Kerusso TV (720p)",
+    "logo": "https://i.imgur.com/S79uof0.png",
+    "group": "Religious",
+    "url": "https://s.emisoras.tv:8081/kerussotv/index.m3u8",
+    "tvg_id": "KerussoTV.hn@SD",
+    "status": "live",
+    "id": "kerusso-tv-720p-3730"
+  },
+  {
+    "name": "King TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/dujrwRE.png",
+    "group": "Religious",
+    "url": "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8",
+    "tvg_id": "KingTV.pk@SD",
+    "status": "live",
+    "id": "king-tv-720p-not-24-7-3746"
+  },
+  {
+    "name": "KIT-TV (720p)",
+    "logo": "https://i.imgur.com/5rDo1Za.png",
+    "group": "Religious",
+    "url": "https://everest.pa-hosting.de:3591/live/joseflive.m3u8",
+    "tvg_id": "KITTV.at@SD",
+    "status": "live",
+    "id": "kit-tv-720p-3760"
+  },
+  {
+    "name": "KK TV Angola (1080p)",
+    "logo": "https://i.imgur.com/jWOB0oU.png",
+    "group": "Religious",
+    "url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
+    "tvg_id": "KKTV.ao@SD",
+    "status": "live",
+    "id": "kk-tv-angola-1080p-3774"
+  },
+  {
+    "name": "KQSL Channel 8 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png",
+    "group": "Religious",
+    "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
+    "tvg_id": "KQSL81.us@HD",
+    "status": "live",
+    "id": "kqsl-channel-8-720p-3784"
+  },
+  {
+    "name": "KSCE Vida Cristiana (360p)",
+    "logo": "https://i.imgur.com/970zAEn.png",
+    "group": "Religious",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8",
+    "tvg_id": "KSCE382.us@HD",
+    "status": "live",
+    "id": "ksce-vida-cristiana-360p-3785"
+  },
+  {
+    "name": "KTV Al Qurain (1080p)",
+    "logo": "https://i.imgur.com/naVEZtj.png",
+    "group": "Religious",
+    "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
+    "tvg_id": "KTVAlQurain.kw@SD",
+    "status": "live",
+    "id": "ktv-al-qurain-1080p-3801"
+  },
+  {
+    "name": "KTV Ethraa (1080p)",
+    "logo": "https://i.imgur.com/hqEbc49.png",
+    "group": "Religious",
+    "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
+    "tvg_id": "KTVEthraa.kw@SD",
+    "status": "live",
+    "id": "ktv-ethraa-1080p-3805"
+  },
+  {
+    "name": "Kuriakos TV (1080p)",
+    "logo": "https://i.imgur.com/xdAW0D5.png",
+    "group": "Religious",
+    "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+    "tvg_id": "KuriakosTV.pt@SD",
+    "status": "live",
+    "id": "kuriakos-tv-1080p-3814"
+  },
+  {
+    "name": "La Voz de Jesus HD (720p)",
+    "logo": "https://gia.tv/streams/pstream/208429.png",
+    "group": "Religious",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8",
+    "tvg_id": "LaVozdeJesusHD.do@HD",
+    "status": "live",
+    "id": "la-voz-de-jesus-hd-720p-3850"
+  },
+  {
+    "name": "La Salvacion del Alma TV",
+    "logo": "https://www.zradios.com/files/1/1/9/11942-627.jpg",
+    "group": "Religious",
+    "url": "https://vs20.live.opencaster.com/lasalvaciondelalmatv_dfc663c0/index.m3u8",
+    "tvg_id": "LaSalvaciondelAlmaTV.do@SD",
+    "status": "live",
+    "id": "la-salvacion-del-alma-tv-3851"
+  },
+  {
+    "name": "La Voz de Maria (720p)",
+    "logo": "https://i.imgur.com/Zv8CxZX.png",
+    "group": "Religious",
+    "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
+    "tvg_id": "LaVozdeMaria.do@SD",
+    "status": "live",
+    "id": "la-voz-de-maria-720p-3857"
+  },
+  {
+    "name": "Lalegul TV (1080p)",
+    "logo": "https://i.imgur.com/wwCysFs.png",
+    "group": "Religious",
+    "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+    "tvg_id": "LalegulTV.tr@SD",
+    "status": "live",
+    "id": "lalegul-tv-1080p-3868"
+  },
+  {
+    "name": "LGD Television (720p)",
+    "logo": "https://i.imgur.com/a9E0DTY.jpeg",
+    "group": "Religious",
+    "url": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
+    "tvg_id": "LGDTelevision.ve@SD",
+    "status": "live",
+    "id": "lgd-television-720p-3920"
+  },
+  {
+    "name": "Life! Christian Broadcasting Network (360p)",
+    "logo": "https://i.imgur.com/FioxUa3.png",
+    "group": "Religious",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8",
+    "tvg_id": "KSCE381.us@HD",
+    "status": "live",
+    "id": "life-christian-broadcasting-network-360p-3925"
+  },
+  {
+    "name": "Life TV (432p) [Not 24/7]",
+    "logo": "https://i.imgur.com/JhrTB82.png",
+    "group": "Religious",
+    "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+    "tvg_id": "LifeTV.ee@SD",
+    "status": "live",
+    "id": "life-tv-432p-not-24-7-3926"
+  },
+  {
+    "name": "LIFE! End Times TV (360p)",
+    "logo": "https://i.imgur.com/P0vZXU0.png",
+    "group": "Religious",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8",
+    "tvg_id": "KSCE383.us@HD",
+    "status": "live",
+    "id": "life-end-times-tv-360p-3927"
+  },
+  {
+    "name": "Life TV (720p)",
+    "logo": "https://i.ibb.co/v1C0bdR/logo-1.png",
+    "group": "Religious",
+    "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
+    "tvg_id": "LifeTV.in@SD",
+    "status": "live",
+    "id": "life-tv-720p-3929"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations His Light (LLBN) (720p)",
+    "logo": "https://i.imgur.com/YkLZjRw.png",
+    "group": "Religious",
+    "url": "https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8",
+    "tvg_id": "LLBNHisLight.us@SD",
+    "status": "live",
+    "id": "lighting-lives-blessing-nations-his-light-llbn-720p-3933"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations His Word (LLBN) (720p)",
+    "logo": "https://i.imgur.com/GbyHlS2.png",
+    "group": "Religious",
+    "url": "https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8",
+    "tvg_id": "LLBNHisWord.us@SD",
+    "status": "live",
+    "id": "lighting-lives-blessing-nations-his-word-llbn-720p-3934"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV Arabic (LLBN) (480p)",
+    "logo": "https://i.imgur.com/fbrQpC4.png",
+    "group": "Religious",
+    "url": "https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8",
+    "tvg_id": "LLBNTVArabic.us@SD",
+    "status": "live",
+    "id": "lighting-lives-blessing-nations-tv-arabic-llbn-480p-3935"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)",
+    "logo": "https://i.imgur.com/C0jUDMn.png",
+    "group": "Religious",
+    "url": "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8",
+    "tvg_id": "LLBNTVChinese.us@SD",
+    "status": "live",
+    "id": "lighting-lives-blessing-nations-tv-chinese-llbn-480p-3936"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV Korean (LLBN) (480p)",
+    "logo": "https://i.imgur.com/WsOfy19.png",
+    "group": "Religious",
+    "url": "https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8",
+    "tvg_id": "LLBNTVKorean.us@SD",
+    "status": "live",
+    "id": "lighting-lives-blessing-nations-tv-korean-llbn-480p-3937"
+  },
+  {
+    "name": "LifevisionTV (406p) [Not 24/7]",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://tgn.bozztv.com/lifevision/lifevision/index.m3u8",
+    "tvg_id": "LifevisionTV.us@SD",
+    "status": "live",
+    "id": "lifevisiontv-406p-not-24-7-3938"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV Latino (LLBN) (480p)",
+    "logo": "https://i.imgur.com/WsOfy19.png",
+    "group": "Religious",
+    "url": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8",
+    "tvg_id": "LLBNTVLatino.us@SD",
+    "status": "live",
+    "id": "lighting-lives-blessing-nations-tv-latino-llbn-480p-3939"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV South Asia (LLBN) (480p)",
+    "logo": "https://i.imgur.com/WsOfy19.png",
+    "group": "Religious",
+    "url": "https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8",
+    "tvg_id": "LLBNTVSouthAsia.us@SD",
+    "status": "live",
+    "id": "lighting-lives-blessing-nations-tv-south-asia-llbn-480p-3941"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV Romanian (LLBN) (480p)",
+    "logo": "https://i.imgur.com/WsOfy19.png",
+    "group": "Religious",
+    "url": "https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8",
+    "tvg_id": "LLBNTVRomanian.us@SD",
+    "status": "live",
+    "id": "lighting-lives-blessing-nations-tv-romanian-llbn-480p-3942"
+  },
+  {
+    "name": "Light Channel (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/0OmBlfE.png",
+    "group": "Religious",
+    "url": "http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8",
+    "tvg_id": "LightChannel.de@SD",
+    "status": "live",
+    "id": "light-channel-576p-not-24-7-3945"
+  },
+  {
+    "name": "LifeTv (1080p)",
+    "logo": "https://i.imgur.com/jO8kAY2.png",
+    "group": "Religious",
+    "url": "https://lifetv.mpks.sk/s.m3u8",
+    "tvg_id": "LifeTv.sk@SD",
+    "status": "live",
+    "id": "lifetv-1080p-3946"
+  },
+  {
+    "name": "Light Channel (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/S3Fbf8T.png",
+    "group": "Religious",
+    "url": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8",
+    "tvg_id": "LightChannel.bg@SD",
+    "status": "live",
+    "id": "light-channel-480p-not-24-7-3947"
+  },
+  {
+    "name": "LMTV French (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/FVnq2cQ.png",
+    "group": "Religious",
+    "url": "https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8",
+    "tvg_id": "LMTVFrench.ci@SD",
+    "status": "live",
+    "id": "lmtv-french-720p-not-24-7-3960"
+  },
+  {
+    "name": "Living Faith TV (540p)",
+    "logo": "https://i.imgur.com/FuNpesJ.png",
+    "group": "Religious",
+    "url": "https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1",
+    "tvg_id": "LivingFaithTV.us@SD",
+    "status": "live",
+    "id": "living-faith-tv-540p-3963"
+  },
+  {
+    "name": "Logos TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Kr3U3Ub.png",
+    "group": "Religious",
+    "url": "https://streamer1.streamhost.org/salive/logosH/master.m3u8",
+    "tvg_id": "LogosTV.es@SD",
+    "status": "live",
+    "id": "logos-tv-1080p-not-24-7-3966"
+  },
+  {
+    "name": "Logos TV English (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/LDfEK81.png",
+    "group": "Religious",
+    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8",
+    "tvg_id": "LogosTVEnglish.us@SD",
+    "status": "live",
+    "id": "logos-tv-english-1080p-not-24-7-3972"
+  },
+  {
+    "name": "Logos TV Estudio (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/qkHrttj.png",
+    "group": "Religious",
+    "url": "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8",
+    "tvg_id": "LogosTVEstudio.es@SD",
+    "status": "live",
+    "id": "logos-tv-estudio-720p-not-24-7-3974"
+  },
+  {
+    "name": "Logos TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/h8DioXU.png",
+    "group": "Religious",
+    "url": "https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
+    "tvg_id": "LogosTV.us@SD",
+    "status": "live",
+    "id": "logos-tv-1080p-not-24-7-3977"
+  },
+  {
+    "name": "LoveworldSAT (1080p)",
+    "logo": "https://i.imgur.com/Fg65XCS.png",
+    "group": "Religious",
+    "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
+    "tvg_id": "LoveworldSAT.ng@SD",
+    "status": "live",
+    "id": "loveworldsat-1080p-3997"
+  },
+  {
+    "name": "Loveworld UK (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/JgHbDmF.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8",
+    "tvg_id": "LoveWorldUK.ng@SD",
+    "status": "live",
+    "id": "loveworld-uk-1080p-not-24-7-4001"
+  },
+  {
+    "name": "LoveWorld Arabic (360p)",
+    "logo": "https://i.imgur.com/KYMjRjK.png",
+    "group": "Religious",
+    "url": "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8",
+    "tvg_id": "LoveWorldArabic.ng@SD",
+    "status": "live",
+    "id": "loveworld-arabic-360p-4002"
+  },
+  {
+    "name": "LoveWorld Persia (720p)",
+    "logo": "https://i.imgur.com/Vd2xPxh.png",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8",
+    "tvg_id": "LoveWorldPersia.ng@SD",
+    "status": "live",
+    "id": "loveworld-persia-720p-4009"
+  },
+  {
+    "name": "LoveWorld USA (720p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8",
+    "tvg_id": "LoveWorldUSA.ng@SD",
+    "status": "live",
+    "id": "loveworld-usa-720p-4011"
+  },
+  {
+    "name": "Luz Divina TV [Not 24/7]",
+    "logo": "https://imgur.com/BHZw3PK.jpeg",
+    "group": "Religious",
+    "url": "https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8",
+    "tvg_id": "LuzDivinaTV.do@HD",
+    "status": "live",
+    "id": "luz-divina-tv-not-24-7-4020"
+  },
+  {
+    "name": "Madha TV (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://mumt02.tangotv.in/MADHATV/index.m3u8",
+    "tvg_id": "MadhaTV.in@SD",
+    "status": "live",
+    "id": "madha-tv-576p-4024"
+  },
+  {
+    "name": "Madani TV (720p)",
+    "logo": "https://i.imgur.com/8aonQ0v.png",
+    "group": "Religious",
+    "url": "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8",
+    "tvg_id": "MadaniTV.id@SD",
+    "status": "live",
+    "id": "madani-tv-720p-4028"
+  },
+  {
+    "name": "Mahaa Bhakti (1080p)",
+    "logo": "https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj",
+    "group": "Religious",
+    "url": "https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8",
+    "tvg_id": "MahaaBhakti.in@SD",
+    "status": "live",
+    "id": "mahaa-bhakti-1080p-4034"
+  },
+  {
+    "name": "Majestad Televisión (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/BJhrvtL.png",
+    "group": "Religious",
+    "url": "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8",
+    "tvg_id": "MajestadTV.us@SD",
+    "status": "live",
+    "id": "majestad-televisi-n-480p-not-24-7-4047"
+  },
+  {
+    "name": "Makka TV",
+    "logo": "https://makkahlive.net/images/makkah-live-low-resolution-logo-color-on-transparent-background.png",
+    "group": "Religious",
+    "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
+    "tvg_id": "MakkahTV.sa@SD",
+    "status": "live",
+    "id": "makkatv-410"
+  },
+  {
+    "name": "Maná Church Online (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/FRDJSim.png",
+    "group": "Religious",
+    "url": "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8",
+    "tvg_id": "ManaChurchOnline.pt@SD",
+    "status": "live",
+    "id": "man-church-online-1080p-not-24-7-4061"
+  },
+  {
+    "name": "Maná Cirkev Online (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/tYhXeRq.png",
+    "group": "Religious",
+    "url": "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8",
+    "tvg_id": "ManaCirkevOnline.pt@SD",
+    "status": "live",
+    "id": "man-cirkev-online-1080p-not-24-7-4063"
+  },
+  {
+    "name": "Maná Église Online (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/xQYly8O.png",
+    "group": "Religious",
+    "url": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8",
+    "tvg_id": "ManaEgliseOnline.pt@SD",
+    "status": "live",
+    "id": "man-glise-online-1080p-not-24-7-4064"
+  },
+  {
+    "name": "Maná Iglesia Online (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/0IUvfcJ.png",
+    "group": "Religious",
+    "url": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8",
+    "tvg_id": "ManaIglesiaOnline.pt@SD",
+    "status": "live",
+    "id": "man-iglesia-online-1080p-not-24-7-4066"
+  },
+  {
+    "name": "Maná Igreja Online (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/0IUvfcJ.png",
+    "group": "Religious",
+    "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
+    "tvg_id": "ManaIgrejaOnline.pt@SD",
+    "status": "live",
+    "id": "man-igreja-online-1080p-not-24-7-4067"
+  },
+  {
+    "name": "Maná Tserkov' Onlayn (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/PruXLqS.png",
+    "group": "Religious",
+    "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8",
+    "tvg_id": "ManaTserkovOnlayn.pt@SD",
+    "status": "live",
+    "id": "man-tserkov-onlayn-1080p-not-24-7-4068"
+  },
+  {
+    "name": "Maria Vision (1080p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
+    "tvg_id": "MariaVisionItalia.it@SD",
+    "status": "live",
+    "id": "maria-vision-1080p-4079"
+  },
+  {
+    "name": "María Visión Mexico (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/GylOPxE.png",
+    "group": "Religious",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+    "tvg_id": "MariaVision.mx@SD",
+    "status": "live",
+    "id": "mar-a-visi-n-mexico-360p-not-24-7-4080"
+  },
+  {
+    "name": "María+Visión Medjugorje (720p)",
+    "logo": "https://i.imgur.com/xUOspBx.png",
+    "group": "Religious",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8",
+    "tvg_id": "MariaPlusVisionMedjugorje.ba@SD",
+    "status": "live",
+    "id": "mar-a-visi-n-medjugorje-720p-4081"
+  },
+  {
+    "name": "Marjaeyat TV Persian (240p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fCj05f0.png",
+    "group": "Religious",
+    "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+    "tvg_id": "MarjaeyatTVPersian.iq@SD",
+    "status": "live",
+    "id": "marjaeyat-tv-persian-240p-not-24-7-4085"
+  },
+  {
+    "name": "Marjaeyat TV Arabic (1080p)",
+    "logo": "https://i.imgur.com/LsYYkUI.png",
+    "group": "Religious",
+    "url": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8",
+    "tvg_id": "MarjaeyatTVArabic.iq@SD",
+    "status": "live",
+    "id": "marjaeyat-tv-arabic-1080p-4086"
+  },
+  {
+    "name": "Marjaeyat TV English (1080p)",
+    "logo": "https://i.imgur.com/Dvf61Jp.png",
+    "group": "Religious",
+    "url": "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8",
+    "tvg_id": "MarjaeyatTVEnglish.iq@SD",
+    "status": "live",
+    "id": "marjaeyat-tv-english-1080p-4087"
+  },
+  {
+    "name": "Mercy TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b3/Mercy_TV.jpg",
+    "group": "Religious",
+    "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
+    "tvg_id": "MercyTV.in@SD",
+    "status": "live",
+    "id": "mercytv-389"
+  },
+  {
+    "name": "Miracle TV+ (720p)",
+    "logo": "https://i.imgur.com/AQ60OYO.png",
+    "group": "Religious",
+    "url": "https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8",
+    "tvg_id": "MiracleTVPlus.ci@SD",
+    "status": "live",
+    "id": "miracle-tv-720p-4231"
+  },
+  {
+    "name": "Ministerio La Voz De Un Remanente TV",
+    "logo": "https://new.opencaster.com/uploads/logos/logo_188_1754869413.png",
+    "group": "Religious",
+    "url": "https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8",
+    "tvg_id": "MinisterioLaVozDeUnRemanenteTV.us@SD",
+    "status": "live",
+    "id": "ministerio-la-voz-de-un-remanente-tv-4233"
+  },
+  {
+    "name": "MISA TV",
+    "logo": "https://i.imgur.com/2RxQNm6.png",
+    "group": "Religious",
+    "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
+    "tvg_id": "MISATV.ro@SD",
+    "status": "live",
+    "id": "misa-tv-4236"
+  },
+  {
+    "name": "Mision ELTV (720p)",
+    "logo": "https://i.imgur.com/hwC1stN.png",
+    "group": "Religious",
+    "url": "https://rd.tvabierta.net/live/misioneltv.m3u8",
+    "tvg_id": "MisionELTV.do@SD",
+    "status": "live",
+    "id": "mision-eltv-720p-4239"
+  },
+  {
+    "name": "Miracle TV (480p)",
+    "logo": "https://i.imgur.com/pTn8Vc3.png",
+    "group": "Religious",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8",
+    "tvg_id": "MiracleTV.uk@SD",
+    "status": "live",
+    "id": "miracle-tv-480p-4241"
+  },
+  {
+    "name": "Mission Asia (1080p)",
+    "logo": "https://i.imgur.com/B5mKwF6.png",
+    "group": "Religious",
+    "url": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8",
+    "tvg_id": "MissionAsia.au@SD",
+    "status": "live",
+    "id": "mission-asia-1080p-4243"
+  },
+  {
+    "name": "Mission TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Hb38BNo.png",
+    "group": "Religious",
+    "url": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8",
+    "tvg_id": "MissionTV.us@SD",
+    "status": "live",
+    "id": "mission-tv-1080p-not-24-7-4247"
+  },
+  {
+    "name": "Mohabat TV (540p)",
+    "logo": "https://i.imgur.com/Ig0SPev.png",
+    "group": "Religious",
+    "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "tvg_id": "MohabatTV.ir@SD",
+    "status": "live",
+    "id": "mohabat-tv-540p-4264"
+  },
+  {
+    "name": "Mohabat TV",
+    "logo": "https://i.imgur.com/tucTC1O.jpg",
+    "group": "Religious",
+    "url": "https://mohabathls.wns.live/hls/stream.m3u8",
+    "tvg_id": "MohabatTV.us@HD",
+    "status": "live",
+    "id": "mohabat-tv-4265"
+  },
+  {
+    "name": "Mohabat TV (540p)",
+    "logo": "https://i.imgur.com/tucTC1O.jpg",
+    "group": "Religious",
+    "url": "http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "tvg_id": "MohabatTV.us@SD",
+    "status": "live",
+    "id": "mohabat-tv-540p-4272"
+  },
+  {
+    "name": "Monte Maria (1080p)",
+    "logo": "https://i.imgur.com/0rMHbbM.png",
+    "group": "Religious",
+    "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+    "tvg_id": "MonteMaria.mx@SD",
+    "status": "live",
+    "id": "monte-maria-1080p-4279"
+  },
+  {
+    "name": "MQTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/d8dQo6E.png",
+    "group": "Religious",
+    "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
+    "tvg_id": "MQTV.id@SD",
+    "status": "live",
+    "id": "mqtv-720p-not-24-7-4302"
+  },
+  {
+    "name": "MTA3 Al-Arabia (1080p)",
+    "logo": "https://i.imgur.com/m3PEldJ.png",
+    "group": "Religious",
+    "url": "https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8",
+    "tvg_id": "MTA3AlArabia.uk@SD",
+    "status": "live",
+    "id": "mta3-al-arabia-1080p-4317"
+  },
+  {
+    "name": "MTA1 World (720p)",
+    "logo": "https://i.imgur.com/bYiRfAg.png",
+    "group": "Religious",
+    "url": "https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8",
+    "tvg_id": "MTA1World.uk@SD",
+    "status": "live",
+    "id": "mta1-world-720p-4318"
+  },
+  {
+    "name": "MTA2 Europe (720p)",
+    "logo": "https://i.imgur.com/aVts0sz.png",
+    "group": "Religious",
+    "url": "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8",
+    "tvg_id": "MTA2Europe.uk@SD",
+    "status": "live",
+    "id": "mta2-europe-720p-4319"
+  },
+  {
+    "name": "MTA6 Asia (1080p)",
+    "logo": "https://i.imgur.com/nhCNPJI.png",
+    "group": "Religious",
+    "url": "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8",
+    "tvg_id": "MTA6Asia.uk@SD",
+    "status": "live",
+    "id": "mta6-asia-1080p-4320"
+  },
+  {
+    "name": "MTA 1 Bangla",
+    "logo": "https://i.imgur.com/b3nn216.png",
+    "group": "Religious",
+    "url": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8",
+    "tvg_id": "MTA7Asia.uk@SD",
+    "status": "live",
+    "id": "mta1bangla-391"
+  },
+  {
+    "name": "MTA TV",
+    "logo": "https://i.imgur.com/3kGs7k0.png",
+    "group": "Religious",
+    "url": "https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd",
+    "tvg_id": "MTATV.id@SD",
+    "status": "live",
+    "id": "mta-tv-4323"
+  },
+  {
+    "name": "MTNA TV",
+    "logo": "https://i.imgur.com/v7SA92F.png",
+    "group": "Religious",
+    "url": "https://live.mtna.tv/hls/mtna/mtna.m3u8",
+    "tvg_id": "MTNATV.cl@SD",
+    "status": "live",
+    "id": "mtna-tv-4328"
+  },
+  {
+    "name": "Munnaaru",
+    "logo": "https://i.imgur.com/Adhr5xq.png",
+    "group": "Religious",
+    "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8",
+    "tvg_id": "Munnaaru.mv@SD",
+    "status": "live",
+    "id": "munnaaru-4354"
+  },
+  {
+    "name": "Nabawi TV (720p)",
+    "logo": "https://i.imgur.com/O8WONFB.png",
+    "group": "Religious",
+    "url": "http://202.150.161.117:8000/play/NabawiTV",
+    "tvg_id": "NabawiTV.id@SD",
+    "status": "live",
+    "id": "nabawi-tv-720p-4368"
+  },
+  {
+    "name": "Namdhari (404p) [Not 24/7]",
+    "logo": "https://i.imgur.com/NalsXTo.png",
+    "group": "Religious",
+    "url": "https://namdhari.tv/live/sbs1.m3u8",
+    "tvg_id": "NamdhariTV.in@SD",
+    "status": "live",
+    "id": "namdhari-404p-not-24-7-4379"
+  },
+  {
+    "name": "New Vision TV (360p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8",
+    "tvg_id": "NewVisionTV.ng@SD",
+    "status": "live",
+    "id": "new-vision-tv-360p-4464"
+  },
+  {
+    "name": "Nieta TV (576p)",
+    "logo": "https://i.imgur.com/5RoXTaN.png",
+    "group": "Religious",
+    "url": "http://69.64.57.208/nieta/playlist.m3u8",
+    "tvg_id": "NietaTV.ml@SD",
+    "status": "live",
+    "id": "nieta-tv-576p-4523"
+  },
+  {
+    "name": "Nireekshana TV (576p)",
+    "logo": "https://i.imgur.com/nGJv6QR.png",
+    "group": "Religious",
+    "url": "https://cdn-1.pishow.tv/live/965/master.m3u8",
+    "tvg_id": "NireekshanaTV.in@SD",
+    "status": "live",
+    "id": "nireekshana-tv-576p-4528"
+  },
+  {
+    "name": "Noor TV (720p)",
+    "logo": "https://i.imgur.com/DlKgIuQ.png",
+    "group": "Religious",
+    "url": "https://sscsott.com/srt/noortvuk/index.m3u8",
+    "tvg_id": "NoorTV.uk@SD",
+    "status": "live",
+    "id": "noor-tv-720p-4540"
+  },
+  {
+    "name": "Nour Al Sharq (576p)",
+    "logo": "https://i.imgur.com/EEy2dUr.png",
+    "group": "Religious",
+    "url": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8",
+    "tvg_id": "NourAlSharq.lb@SD",
+    "status": "live",
+    "id": "nour-al-sharq-576p-4550"
+  },
+  {
+    "name": "Nour El Shabeb (720p)",
+    "logo": "https://i.imgur.com/cNr0vl1.png",
+    "group": "Religious",
+    "url": "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8",
+    "tvg_id": "NourElShabeb.lb@SD",
+    "status": "live",
+    "id": "nour-el-shabeb-720p-4551"
+  },
+  {
+    "name": "Nour Mariam (576p)",
+    "logo": "https://i.imgur.com/Ow5Lqh6.jpg",
+    "group": "Religious",
+    "url": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
+    "tvg_id": "NourMariam.lb@SD",
+    "status": "live",
+    "id": "nour-mariam-576p-4552"
+  },
+  {
+    "name": "Nour Al Koddas (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/dF4Mvts.png",
+    "group": "Religious",
+    "url": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8",
+    "tvg_id": "NourAlKoddass.lb@SD",
+    "status": "live",
+    "id": "nour-al-koddas-406p-not-24-7-4553"
+  },
+  {
+    "name": "Noursat English (576p)",
+    "logo": "https://i.imgur.com/RC5Kw82.png",
+    "group": "Religious",
+    "url": "https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8",
+    "tvg_id": "NoursatEnglish.lb@SD",
+    "status": "live",
+    "id": "noursat-english-576p-4554"
+  },
+  {
+    "name": "NourSAT (576p)",
+    "logo": "https://i.imgur.com/6Zs5rx4.png",
+    "group": "Religious",
+    "url": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
+    "tvg_id": "Noursat.lb@SD",
+    "status": "live",
+    "id": "noursat-576p-4556"
+  },
+  {
+    "name": "Nour TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg",
+    "group": "Religious",
+    "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
+    "tvg_id": "NourTV.ae@SD",
+    "status": "live",
+    "id": "nour-tv-4557"
+  },
+  {
+    "name": "NRB TV (480p)",
+    "logo": "https://i.imgur.com/2PL1Au7.png",
+    "group": "Religious",
+    "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
+    "tvg_id": "NRBTV.us@SD",
+    "status": "live",
+    "id": "nrb-tv-480p-4568"
+  },
+  {
+    "name": "Oasis TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/VKYzFpZ.png",
+    "group": "Religious",
+    "url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8",
+    "tvg_id": "OasisTV.co@SD",
+    "status": "live",
+    "id": "oasis-tv-720p-not-24-7-4617"
+  },
+  {
+    "name": "OCN TV",
+    "logo": "https://i.imgur.com/iSB5Obl.png",
+    "group": "Religious",
+    "url": "https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8",
+    "tvg_id": "OCNTV.us@SD",
+    "status": "live",
+    "id": "ocn-tv-4637"
+  },
+  {
+    "name": "Paraíso TV (720p)",
+    "logo": "https://i.imgur.com/wE31GIP.jpg",
+    "group": "Religious",
+    "url": "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8",
+    "tvg_id": "ParaisoTV.pr@SD",
+    "status": "live",
+    "id": "para-so-tv-720p-4744"
+  },
+  {
+    "name": "Payame Aramesh TV (720p)",
+    "logo": "https://i.imgur.com/WaPr0t0.png",
+    "group": "Religious",
+    "url": "https://hls.keshishhamid.live/hls/stream.m3u8",
+    "tvg_id": "PayameArameshTV.us@SD",
+    "status": "live",
+    "id": "payame-aramesh-tv-720p-4756"
+  },
+  {
+    "name": "Payvand TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/o2Ww77N.png",
+    "group": "Religious",
+    "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+    "tvg_id": "PayvandTV.ir@SD",
+    "status": "live",
+    "id": "payvand-tv-720p-not-24-7-4759"
+  },
+  {
+    "name": "Peace TV Bangla (1080p)",
+    "logo": "https://i.imgur.com/1ztVXUi.png",
+    "group": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
+    "tvg_id": "PeaceTVBangla.ae@SD",
+    "status": "live",
+    "id": "peace-tv-bangla-1080p-4776"
+  },
+  {
+    "name": "Peniel Kids & Young (480p)",
+    "logo": "https://i.imgur.com/YtPRKmS.png",
+    "group": "Religious",
+    "url": "https://s.emisoras.tv:8081/penielkids/index.m3u8",
+    "tvg_id": "PenielKY.gt@SD",
+    "status": "live",
+    "id": "peniel-kids-young-480p-4777"
+  },
+  {
+    "name": "Peniel Musical (480p)",
+    "logo": "https://i.imgur.com/IFQbGEf.png",
+    "group": "Religious",
+    "url": "https://s.emisoras.tv:8081/penielmusical/index.m3u8",
+    "tvg_id": "PenielMusical.gt@SD",
+    "status": "live",
+    "id": "peniel-musical-480p-4778"
+  },
+  {
+    "name": "Peace TV Chinese (1080p)",
+    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg",
+    "group": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8",
+    "tvg_id": "PeaceTVChinese.ae@SD",
+    "status": "live",
+    "id": "peace-tv-chinese-1080p-4779"
+  },
+  {
+    "name": "Peniel TV Biblia Abierta (480p)",
+    "logo": "https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png",
+    "group": "Religious",
+    "url": "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8",
+    "tvg_id": "PenielTVBibliaAbierta.gt@SD",
+    "status": "live",
+    "id": "peniel-tv-biblia-abierta-480p-4781"
+  },
+  {
+    "name": "Plovdivska Pravoslavna TV (1080p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8",
+    "tvg_id": "PlovdivOrthodoxTV.bg@SD",
+    "status": "live",
+    "id": "plovdivska-pravoslavna-tv-1080p-4827"
+  },
+  {
+    "name": "PMC Telugu (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png",
+    "group": "Religious",
+    "url": "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8",
+    "tvg_id": "PMCTelugu.in@SD",
+    "status": "live",
+    "id": "pmc-telugu-1080p-4830"
+  },
+  {
+    "name": "Potta-Divine TV USA (480p)",
+    "logo": "https://i.imgur.com/Yx0AnLW.png",
+    "group": "Religious",
+    "url": "https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8",
+    "tvg_id": "PottaDivineTVUSA.us@SD",
+    "status": "live",
+    "id": "potta-divine-tv-usa-480p-4875"
+  },
+  {
+    "name": "Praise Jesus Tower TV (480p)",
+    "logo": "https://i.imgur.com/KT4qIve.png",
+    "group": "Religious",
+    "url": "https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8",
+    "tvg_id": "PraiseJesusTowerTV.ug@SD",
+    "status": "live",
+    "id": "praise-jesus-tower-tv-480p-4885"
+  },
+  {
+    "name": "PTC Simran",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://cdn-6.pishow.tv/live/1503/master.m3u8",
+    "tvg_id": "PTCSimran.in@SD",
+    "status": "live",
+    "id": "ptc-simran-4916"
+  },
+  {
+    "name": "Quran",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png",
+    "group": "Religious",
+    "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
+    "tvg_id": "QuranTV.ir@SD",
+    "status": "live",
+    "id": "quran-4972"
+  },
+  {
+    "name": "Quo Vadis TV (720p)",
+    "logo": "https://i.imgur.com/pEqDDHl.png",
+    "group": "Religious",
+    "url": "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8",
+    "tvg_id": "QuoVadisTV.ca@SD",
+    "status": "live",
+    "id": "quo-vadis-tv-720p-4973"
+  },
+  {
+    "name": "Radio Hogar (720p)",
+    "logo": "https://i.imgur.com/P4A1Zwl.jpg",
+    "group": "Religious",
+    "url": "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8",
+    "tvg_id": "RadioHogar.pa@SD",
+    "status": "live",
+    "id": "radio-hogar-720p-5020"
+  },
+  {
+    "name": "Radio Sublime Gracia TV (720p)",
+    "logo": "https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png",
+    "group": "Religious",
+    "url": "https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8",
+    "tvg_id": "RadioSublimeGraciaTV.ar@SD",
+    "status": "live",
+    "id": "radio-sublime-gracia-tv-720p-5033"
+  },
+  {
+    "name": "Radio Télé 4VEH (720p)",
+    "logo": "https://i.imgur.com/AnOjqaS.png",
+    "group": "Religious",
+    "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+    "tvg_id": "RadioTele4VEH.ht@SD",
+    "status": "live",
+    "id": "radio-t-l-4veh-720p-5035"
+  },
+  {
+    "name": "Radio Tele Full Gospel",
+    "logo": "https://i.imgur.com/WbwIp9y.jpeg",
+    "group": "Religious",
+    "url": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
+    "tvg_id": "RadioTeleFullGospel.ht@SD",
+    "status": "live",
+    "id": "radio-tele-full-gospel-5036"
+  },
+  {
+    "name": "Radio Tele Evangile Sans Limite",
+    "logo": "https://i.imgur.com/CL32kFA.png",
+    "group": "Religious",
+    "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8",
+    "tvg_id": "RadioTeleEvangileSansLimite.ca@SD",
+    "status": "live",
+    "id": "radio-tele-evangile-sans-limite-5037"
+  },
+  {
+    "name": "Radio Tele Sentinel",
+    "logo": "https://i.imgur.com/hy3BJxj.png",
+    "group": "Religious",
+    "url": "https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8",
+    "tvg_id": "RadioTeleSentinel.us@SD",
+    "status": "live",
+    "id": "radio-tele-sentinel-5040"
+  },
+  {
+    "name": "Radio Tele Puissance",
+    "logo": "https://i.imgur.com/ZLPwJug.png",
+    "group": "Religious",
+    "url": "https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8",
+    "tvg_id": "RadioTelePuissance.us@SD",
+    "status": "live",
+    "id": "radio-tele-puissance-5041"
+  },
+  {
+    "name": "RadioMensaje TV (720p)",
+    "logo": "https://i.imgur.com/TJNXjS2.png",
+    "group": "Religious",
+    "url": "https://eu1.servers10.com:8081/8230/index.m3u8",
+    "tvg_id": "RadioMensajeTV.us@SD",
+    "status": "live",
+    "id": "radiomensaje-tv-720p-5050"
+  },
+  {
+    "name": "RasoulallahTv (1080p)",
+    "logo": "https://i.imgur.com/Jh5ADee.png",
+    "group": "Religious",
+    "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+    "tvg_id": "RasoulallahTv.ir@HD",
+    "status": "live",
+    "id": "rasoulallahtv-1080p-5143"
+  },
+  {
+    "name": "Rede Gospel (1080p)",
+    "logo": "https://i.imgur.com/mttSwgO.png",
+    "group": "Religious",
+    "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8",
+    "tvg_id": "RedeGospel.br@SD",
+    "status": "live",
+    "id": "rede-gospel-1080p-5197"
+  },
+  {
+    "name": "Reforma TV (1080p)",
+    "logo": "https://i.imgur.com/iZMDddR.png",
+    "group": "Religious",
+    "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
+    "tvg_id": "ReformaTV.ve@SD",
+    "status": "live",
+    "id": "reforma-tv-1080p-5202"
+  },
+  {
+    "name": "Rhema TV (720p)",
+    "logo": "https://i.imgur.com/5o821rT.png",
+    "group": "Religious",
+    "url": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",
+    "tvg_id": "RhemaTV.gt@SD",
+    "status": "live",
+    "id": "rhema-tv-720p-5239"
+  },
+  {
+    "name": "RT JVA (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Ja3HVLB.jpg",
+    "group": "Religious",
+    "url": "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8",
+    "tvg_id": "RTJVA.tg@SD",
+    "status": "live",
+    "id": "rt-jva-720p-not-24-7-5303"
+  },
+  {
+    "name": "RTH-TV2 Gospel (720p)",
+    "logo": "https://i.imgur.com/4z0FiEA.png",
+    "group": "Religious",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8",
+    "tvg_id": "RTHTV2Gospel.us@SD",
+    "status": "live",
+    "id": "rth-tv2-gospel-720p-5313"
+  },
+  {
+    "name": "RTV Pendimi (720p)",
+    "logo": "https://i.ibb.co/tD48GMD/RTV-Pendimi.png",
+    "group": "Religious",
+    "url": "https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8",
+    "tvg_id": "RTVPendimi.ch@SD",
+    "status": "live",
+    "id": "rtv-pendimi-720p-5373"
+  },
+  {
+    "name": "RTVC (720p)",
+    "logo": "https://i.imgur.com/oXuSkHz.png",
+    "group": "Religious",
+    "url": "https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8",
+    "tvg_id": "RTVC.ci@SD",
+    "status": "live",
+    "id": "rtvc-720p-5380"
+  },
+  {
+    "name": "RUTC TV (720p)",
+    "logo": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
+    "group": "Religious",
+    "url": "http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8",
+    "tvg_id": "RUTCTV.kr@SD",
+    "status": "live",
+    "id": "rutc-tv-720p-5383"
+  },
+  {
+    "name": "Safeer TV",
+    "logo": "https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8",
+    "tvg_id": "SafeerTV.uk@SD",
+    "status": "live",
+    "id": "safeertv-403"
+  },
+  {
+    "name": "Sadhna (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SADHNA/images/LOGO_HD/image.png",
+    "group": "Religious",
+    "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8",
+    "tvg_id": "Sadhna.in@SD",
+    "status": "live",
+    "id": "sadhna-720p-5405"
+  },
+  {
+    "name": "Salvation TV (1080p)",
+    "logo": "https://content.jdmagicbox.com/comp/bangalore/l5/080pxx80.xx80.150207120517.e4l5/catalogue/salvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg",
+    "group": "Religious",
+    "url": "https://ktismaservers.in:3902/live/salvationtvlive.m3u8",
+    "tvg_id": "SalvationTV.in@SD",
+    "status": "live",
+    "id": "salvation-tv-1080p-5418"
+  },
+  {
+    "name": "Salvación TV (720p)",
+    "logo": "https://i.imgur.com/6HOViG9.png",
+    "group": "Religious",
+    "url": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8",
+    "tvg_id": "SalvacionTV.pr@SD",
+    "status": "live",
+    "id": "salvaci-n-tv-720p-5419"
+  },
+  {
+    "name": "San José TV (1080p)",
+    "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
+    "group": "Religious",
+    "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
+    "tvg_id": "SanJoseTV.cr@SD",
+    "status": "live",
+    "id": "san-jos-tv-1080p-5432"
+  },
+  {
+    "name": "Sankara TV (576p)",
+    "logo": "https://i.imgur.com/2z0bDRD.png",
+    "group": "Religious",
+    "url": "https://cdn-3.pishow.tv/live/1135/master.m3u8",
+    "tvg_id": "SankaraTV.in@SD",
+    "status": "live",
+    "id": "sankara-tv-576p-5433"
+  },
+  {
+    "name": "Sanskar UK (1080p)",
+    "logo": "https://i.imgur.com/AU5vSPF.png",
+    "group": "Religious",
+    "url": "https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8",
+    "tvg_id": "SanskarUK.in@SD",
+    "status": "live",
+    "id": "sanskar-uk-1080p-5439"
+  },
+  {
+    "name": "Sanskar USA (1080p)",
+    "logo": "https://i.imgur.com/5WBWruX.png",
+    "group": "Religious",
+    "url": "https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8",
+    "tvg_id": "SanskarUSA.in@SD",
+    "status": "live",
+    "id": "sanskar-usa-1080p-5440"
+  },
+  {
+    "name": "Sanskar Web TV (1080p)",
+    "logo": "https://i.imgur.com/mu2B6hw.png",
+    "group": "Religious",
+    "url": "https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8",
+    "tvg_id": "SanskarWebTV.in@SD",
+    "status": "live",
+    "id": "sanskar-web-tv-1080p-5442"
+  },
+  {
+    "name": "Satsang TV (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATSANG/images/LOGO_HD/image.png",
+    "group": "Religious",
+    "url": "https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8",
+    "tvg_id": "SatsangTV.in@SD",
+    "status": "live",
+    "id": "satsang-tv-1080p-5461"
+  },
+  {
+    "name": "Satsang Web TV (1080p)",
+    "logo": "https://i.imgur.com/40kNu1w.png",
+    "group": "Religious",
+    "url": "https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8",
+    "tvg_id": "SatsangWebTV.in@SD",
+    "status": "live",
+    "id": "satsang-web-tv-1080p-5464"
+  },
+  {
+    "name": "Sat7 Pars",
+    "logo": "https://i.imgur.com/VTLQeul.png",
+    "group": "Religious",
+    "url": "https://sat7phls.wns.live/hls/stream.m3u8",
+    "tvg_id": "Sat7Pars.cy@SD",
+    "status": "live",
+    "id": "sat7-pars-5470"
+  },
+  {
+    "name": "Sankhya TV (720p)",
+    "logo": "https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png",
+    "group": "Religious",
+    "url": "https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8",
+    "tvg_id": "SankhyaTV.tt@SD",
+    "status": "live",
+    "id": "sankhya-tv-720p-5471"
+  },
+  {
+    "name": "Shalom (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8",
+    "tvg_id": "Shalom.in@SD",
+    "status": "live",
+    "id": "shalom-1080p-5535"
+  },
+  {
+    "name": "Shalom Global (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8",
+    "tvg_id": "Shalom.in@Global",
+    "status": "live",
+    "id": "shalom-global-1080p-5538"
+  },
+  {
+    "name": "Sharjah 2 (1080p)",
+    "logo": "https://i.imgur.com/Wd3Xvd1.png",
+    "group": "Religious",
+    "url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8",
+    "tvg_id": "Sharjah2.ae@SD",
+    "status": "live",
+    "id": "sharjah-2-1080p-5539"
+  },
+  {
+    "name": "Shalom TV (360p)",
+    "logo": "https://i.imgur.com/lJ4MLHn.png",
+    "group": "Religious",
+    "url": "https://media.streambrothers.com:1936/8400/8400/playlist.m3u8",
+    "tvg_id": "ShalomTV.sr@SD",
+    "status": "live",
+    "id": "shalom-tv-360p-5540"
+  },
+  {
+    "name": "Sharjah TV (1080p)",
+    "logo": "https://i.imgur.com/Oz2bPOt.png",
+    "group": "Religious",
+    "url": "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
+    "tvg_id": "SharjahTV.ae@SD",
+    "status": "live",
+    "id": "sharjah-tv-1080p-5545"
+  },
+  {
+    "name": "QURAN RADIOTV SMC",
+    "logo": "https://i.ibb.co/2qdGPCh/Sharjahtvquran.png",
+    "group": "Religious",
+    "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8",
+    "tvg_id": "SharjahRadioQuran.ae@SD",
+    "status": "live",
+    "id": "quranradiotvsmc-394"
+  },
+  {
+    "name": "Shalom World Prayer (1080p)",
+    "logo": "https://i.imgur.com/uUrTto3.png",
+    "group": "Religious",
+    "url": "https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8",
+    "tvg_id": "ShalomWorldPrayer.us@SD",
+    "status": "live",
+    "id": "shalom-world-prayer-1080p-5547"
+  },
+  {
+    "name": "Shalom World Europe (1080p)",
+    "logo": "https://i.imgur.com/wnNd3b8.png",
+    "group": "Religious",
+    "url": "https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8",
+    "tvg_id": "ShalomWorld.us@Europe",
+    "status": "live",
+    "id": "shalom-world-europe-1080p-5548"
+  },
+  {
+    "name": "Shalom World (1080p)",
+    "logo": "https://i.imgur.com/wnNd3b8.png",
+    "group": "Religious",
+    "url": "https://broadcaster-1.cclouds.in/srt-2/channel2_abr/playlist.m3u8",
+    "tvg_id": "ShalomWorld.us@NorthAmerica",
+    "status": "live",
+    "id": "shalom-world-1080p-5549"
+  },
+  {
+    "name": "Shelanu TV (720p)",
+    "logo": "https://i.imgur.com/UVz2Ojq.png",
+    "group": "Religious",
+    "url": "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8",
+    "tvg_id": "ShelanuTV.il@SD",
+    "status": "live",
+    "id": "shelanu-tv-720p-5551"
+  },
+  {
+    "name": "Shubhsandesh TV (720p) [Not 24/7]",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png",
+    "group": "Religious",
+    "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
+    "tvg_id": "ShubhsandeshTV.in@SD",
+    "status": "live",
+    "id": "shubhsandesh-tv-720p-not-24-7-5566"
+  },
+  {
+    "name": "Sivan TV (1080p)",
+    "logo": "https://i.ibb.co/b3HG9wm/Logo-site.png",
+    "group": "Religious",
+    "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+    "tvg_id": "SivanTV.ch@SD",
+    "status": "live",
+    "id": "sivan-tv-1080p-5584"
+  },
+  {
+    "name": "Sophia TV (720p)",
+    "logo": "https://i.imgur.com/1hNgHbB.png",
+    "group": "Religious",
+    "url": "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8",
+    "tvg_id": "SophiaTV.de@SD",
+    "status": "live",
+    "id": "sophia-tv-720p-5656"
+  },
+  {
+    "name": "Sophia TV Français (720p)",
+    "logo": "https://i.imgur.com/T2JPCq2.png",
+    "group": "Religious",
+    "url": "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8",
+    "tvg_id": "SophiaTVFrancais.de@SD",
+    "status": "live",
+    "id": "sophia-tv-fran-ais-720p-5660"
+  },
+  {
+    "name": "Subhavaartha TV (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUBHAVAARTHA/images/LOGO_HD/image.png",
+    "group": "Religious",
+    "url": "https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8",
+    "tvg_id": "SubhavaarthaTV.in@SD",
+    "status": "live",
+    "id": "subhavaartha-tv-720p-5775"
+  },
+  {
+    "name": "SUMtv English (1080p)",
+    "logo": "https://i.imgur.com/hp1rJjX.png",
+    "group": "Religious",
+    "url": "https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8",
+    "tvg_id": "SUMtvEnglish.us@SD",
+    "status": "live",
+    "id": "sumtv-english-1080p-5782"
+  },
+  {
+    "name": "SUMtv Latino (1080p)",
+    "logo": "https://i.imgur.com/ZObFN8Z.png",
+    "group": "Religious",
+    "url": "https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8",
+    "tvg_id": "SUMtvLatino.us@SD",
+    "status": "live",
+    "id": "sumtv-latino-1080p-5783"
+  },
+  {
+    "name": "SVBC 2 (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8",
+    "tvg_id": "SVBC2.in@SD",
+    "status": "live",
+    "id": "svbc-2-1080p-5821"
+  },
+  {
+    "name": "SVBC 3 (720p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SVBC3.png",
+    "group": "Religious",
+    "url": "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8",
+    "tvg_id": "SVBC3.in@SD",
+    "status": "live",
+    "id": "svbc-3-720p-5823"
+  },
+  {
+    "name": "SVBC Sri Venkateswara Bhakti Channel (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8",
+    "tvg_id": "SVBC.in@SD",
+    "status": "live",
+    "id": "svbc-sri-venkateswara-bhakti-channel-1080p-5827"
+  },
+  {
+    "name": "SVBC 4 (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png",
+    "group": "Religious",
+    "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+    "tvg_id": "SVBC4.in@SD",
+    "status": "live",
+    "id": "svbc-4-1080p-5828"
+  },
+  {
+    "name": "Taber TV (1080p)",
+    "logo": "https://i.imgur.com/ikq2iSf.png",
+    "group": "Religious",
+    "url": "https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8",
+    "tvg_id": "TaberTV.sv@SD",
+    "status": "live",
+    "id": "taber-tv-1080p-5848"
+  },
+  {
+    "name": "Taevas TV7 (720p)",
+    "logo": "https://i.imgur.com/usXedIj.png",
+    "group": "Religious",
+    "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "tvg_id": "TaevasTV7.fi@SD",
+    "status": "live",
+    "id": "taevas-tv7-720p-5852"
+  },
+  {
+    "name": "Taivas TV7 (720p)",
+    "logo": "https://i.imgur.com/JyJNiXy.png",
+    "group": "Religious",
+    "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+    "tvg_id": "TaivasTV7.fi@SD",
+    "status": "live",
+    "id": "taivas-tv7-720p-5858"
+  },
+  {
+    "name": "Tarotéame (576p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8",
+    "tvg_id": "Taroteame.es@SD",
+    "status": "live",
+    "id": "tarot-ame-576p-5874"
+  },
+  {
+    "name": "TBN (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/960px-TBN_logo_2015.jpg",
+    "group": "Religious",
+    "url": "https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8",
+    "tvg_id": "TBN.us@East",
+    "status": "live",
+    "id": "tbn-1080p-5879"
+  },
+  {
+    "name": "TBN Inspire (1080p)",
+    "logo": "https://i.imgur.com/GSM0Pkr.png",
+    "group": "Religious",
+    "url": "https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8",
+    "tvg_id": "TBNInspire.us@SD",
+    "status": "live",
+    "id": "tbn-inspire-1080p-5881"
+  },
+  {
+    "name": "TBN España (576p)",
+    "logo": "https://i.imgur.com/oGvsUH9.png",
+    "group": "Religious",
+    "url": "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8",
+    "tvg_id": "TBNEspana.es@SD",
+    "status": "live",
+    "id": "tbn-espa-a-576p-5888"
+  },
+  {
+    "name": "Tele Louange (1080p)",
+    "logo": "https://i.imgur.com/DjnMUuL.png",
+    "group": "Religious",
+    "url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8",
+    "tvg_id": "TeleLouange.ht@SD",
+    "status": "live",
+    "id": "tele-louange-1080p-5922"
+  },
+  {
+    "name": "TeleBendicion (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nh4sNVI.png",
+    "group": "Religious",
+    "url": "https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8",
+    "tvg_id": "TeleBendicion.do@SD",
+    "status": "live",
+    "id": "telebendicion-720p-not-24-7-5938"
+  },
+  {
+    "name": "Televida (1080p)",
+    "logo": "https://i.imgur.com/bmNA8hq.png",
+    "group": "Religious",
+    "url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
+    "tvg_id": "Televida.cl@SD",
+    "status": "live",
+    "id": "televida-1080p-6012"
+  },
+  {
+    "name": "Televisión Consciente (1080p)",
+    "logo": "https://i.imgur.com/6QVHKPw.png",
+    "group": "Religious",
+    "url": "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8",
+    "tvg_id": "TelevisionConsciente.es@SD",
+    "status": "live",
+    "id": "televisi-n-consciente-1080p-6018"
+  },
+  {
+    "name": "Televida (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/S8Zdn41.png",
+    "group": "Religious",
+    "url": "https://cnn.hostlagarto.com/televida/playlist.m3u8",
+    "tvg_id": "Televida.do@SD",
+    "status": "live",
+    "id": "televida-1080p-not-24-7-6038"
+  },
+  {
+    "name": "Teve Vida Network (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/lCpf5P1.png",
+    "group": "Religious",
+    "url": "https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8",
+    "tvg_id": "TeveVidaNetwork.us@SD",
+    "status": "live",
+    "id": "teve-vida-network-480p-not-24-7-6049"
+  },
+  {
+    "name": "The Now Network (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Wp6d0F8.png",
+    "group": "Religious",
+    "url": "https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8",
+    "tvg_id": "TheNowNetwork.us@SD",
+    "status": "live",
+    "id": "the-now-network-480p-not-24-7-6095"
+  },
+  {
+    "name": "The Word Network (1080p)",
+    "logo": "https://i.imgur.com/ltFBrrj.png",
+    "group": "Religious",
+    "url": "https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8",
+    "tvg_id": "TheWordNetwork.us@SD",
+    "status": "live",
+    "id": "the-word-network-1080p-6111"
+  },
+  {
+    "name": "theDove TV (720p)",
+    "logo": "https://i.imgur.com/ULtuRsj.png",
+    "group": "Religious",
+    "url": "https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8",
+    "tvg_id": "theDoveTV.us@SD",
+    "status": "live",
+    "id": "thedove-tv-720p-6119"
+  },
+  {
+    "name": "TLN Media Chicago (720p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8",
+    "tvg_id": "TLNMediaChicago.us@SD",
+    "status": "live",
+    "id": "tln-media-chicago-720p-6137"
+  },
+  {
+    "name": "TLN Media San Francisco (720p)",
+    "logo": "",
+    "group": "Religious",
+    "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8",
+    "tvg_id": "TLNMediaSanFrancisco.us@SD",
+    "status": "live",
+    "id": "tln-media-san-francisco-720p-6138"
+  },
+  {
+    "name": "TNE (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/8QbvXva.png",
+    "group": "Religious",
+    "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
+    "tvg_id": "TNE.cl@SD",
+    "status": "live",
+    "id": "tne-720p-not-24-7-6155"
+  },
+  {
+    "name": "Total Bhakti (1080p)",
+    "logo": "https://i.imgur.com/LPwRdmF.png",
+    "group": "Religious",
+    "url": "https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8",
+    "tvg_id": "TotalBhakti.in@SD",
+    "status": "live",
+    "id": "total-bhakti-1080p-6177"
+  },
+  {
+    "name": "Trece (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
+    "group": "Religious",
+    "url": "http://92.176.119.180:2095/play/a179",
+    "tvg_id": "Trece.es@SD",
+    "status": "live",
+    "id": "trece-1080p-6207"
+  },
+  {
+    "name": "Triunfo 96.9 FM TV (360p)",
+    "logo": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
+    "group": "Religious",
+    "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
+    "tvg_id": "Triunfo969FM.pr@SD",
+    "status": "live",
+    "id": "triunfo-96-9-fm-tv-360p-6216"
+  },
+  {
+    "name": "Tsargrad TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/34RINpb.png",
+    "group": "Religious",
+    "url": "https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https",
+    "tvg_id": "TsargradTV.ru@SD",
+    "status": "live",
+    "id": "tsargrad-tv-1080p-geo-blocked-6231"
+  },
+  {
+    "name": "Tu Universo TV (720p)",
+    "logo": "https://i.imgur.com/e6esjLZ.jpg",
+    "group": "Religious",
+    "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
+    "tvg_id": "TuUniversoTV.co@SD",
+    "status": "live",
+    "id": "tu-universo-tv-720p-6237"
+  },
+  {
+    "name": "TV45-3ABN Nicaragua (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/sI0msrn.png",
+    "group": "Religious",
+    "url": "https://hdbox.chunklistv.com/live?stream=3abn-nicaragua",
+    "tvg_id": "TV45.ni@SD",
+    "status": "live",
+    "id": "tv45-3abn-nicaragua-720p-not-24-7-6284"
+  },
+  {
+    "name": "TV Al Bayane (360p)",
+    "logo": "https://i.imgur.com/Xs9oEG8.png",
+    "group": "Religious",
+    "url": "http://69.64.57.208/albayanetv/index.m3u8",
+    "tvg_id": "TVAlBayane.ci@SD",
+    "status": "live",
+    "id": "tv-al-bayane-360p-6286"
+  },
+  {
+    "name": "TV Aparecida (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/kxrja0X.png",
+    "group": "Religious",
+    "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "tvg_id": "TVAparecida.br@SD",
+    "status": "live",
+    "id": "tv-aparecida-1080p-not-24-7-6292"
+  },
+  {
+    "name": "TV CRET (1080p)",
+    "logo": "https://i.imgur.com/ChonoKb.png",
+    "group": "Religious",
+    "url": "https://radiocret.net:8082/hls/tvcret.m3u8",
+    "tvg_id": "TVCRET.sv@SD",
+    "status": "live",
+    "id": "tv-cret-1080p-6327"
+  },
+  {
+    "name": "TV Getsemaní (720p)",
+    "logo": "https://i.imgur.com/C9SJCcE.jpg",
+    "group": "Religious",
+    "url": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
+    "tvg_id": "TVGetsemani.sv@SD",
+    "status": "live",
+    "id": "tv-getseman-720p-6340"
+  },
+  {
+    "name": "TV Luz (480p)",
+    "logo": "https://i.imgur.com/FZUQ2WP.png",
+    "group": "Religious",
+    "url": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8",
+    "tvg_id": "TVLuz.do@SD",
+    "status": "live",
+    "id": "tv-luz-480p-6356"
+  },
+  {
+    "name": "TV León de Judá (720p)",
+    "logo": "https://i.imgur.com/ZUCppwi.png",
+    "group": "Religious",
+    "url": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8",
+    "tvg_id": "TVLeondeJuda.sv@SD",
+    "status": "live",
+    "id": "tv-le-n-de-jud-720p-6357"
+  },
+  {
+    "name": "TV Maná 2 (1080p)",
+    "logo": "https://i.imgur.com/VYNjVov.png",
+    "group": "Religious",
+    "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+    "tvg_id": "TVMana2.pt@SD",
+    "status": "live",
+    "id": "tv-man-2-1080p-6358"
+  },
+  {
+    "name": "TV Maná 1 (1080p)",
+    "logo": "https://i.imgur.com/6jNqpTP.png",
+    "group": "Religious",
+    "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
+    "tvg_id": "TVMana1.pt@SD",
+    "status": "live",
+    "id": "tv-man-1-1080p-6359"
+  },
+  {
+    "name": "TV Maná Argentina (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jars0mP.png",
+    "group": "Religious",
+    "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+    "tvg_id": "TVManaArgentina.ar@SD",
+    "status": "live",
+    "id": "tv-man-argentina-576p-not-24-7-6362"
+  },
+  {
+    "name": "TV Maná Español (1080p)",
+    "logo": "https://i.imgur.com/sUlrSwP.png",
+    "group": "Religious",
+    "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
+    "tvg_id": "TVManaEspanhol.pt@SD",
+    "status": "live",
+    "id": "tv-man-espa-ol-1080p-6363"
+  },
+  {
+    "name": "TV Maná Russkiy (1080p)",
+    "logo": "https://i.imgur.com/fACHqmY.png",
+    "group": "Religious",
+    "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
+    "tvg_id": "TVManaRusskiy.pt@SD",
+    "status": "live",
+    "id": "tv-man-russkiy-1080p-6364"
+  },
+  {
+    "name": "TV Maná Brasil (1080p)",
+    "logo": "https://i.imgur.com/AFb712e.png",
+    "group": "Religious",
+    "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+    "tvg_id": "TVManaBrasil.pt@SD",
+    "status": "live",
+    "id": "tv-man-brasil-1080p-6366"
+  },
+  {
+    "name": "TV Maná English (1080p)",
+    "logo": "https://i.imgur.com/I66IkCw.png",
+    "group": "Religious",
+    "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
+    "tvg_id": "TVManaEnglish.pt@SD",
+    "status": "live",
+    "id": "tv-man-english-1080p-6375"
+  },
+  {
+    "name": "TV Maná Moçambique (1080p)",
+    "logo": "https://i.imgur.com/R5YrV5s.png",
+    "group": "Religious",
+    "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
+    "tvg_id": "TVManaMocambique.mz@SD",
+    "status": "live",
+    "id": "tv-man-mo-ambique-1080p-6377"
+  },
+  {
+    "name": "TV Muslim Thailand",
+    "logo": "https://i.imgur.com/aCFpuzW.png",
+    "group": "Religious",
+    "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
+    "tvg_id": "TVMuslimThailand.th@SD",
+    "status": "live",
+    "id": "tv-muslim-thailand-6380"
+  },
+  {
+    "name": "TV Padre Cicero (720p)",
+    "logo": "https://i.imgur.com/Y7b29VG.png",
+    "group": "Religious",
+    "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
+    "tvg_id": "TVPadreCicero.br@SD",
+    "status": "live",
+    "id": "tv-padre-cicero-720p-6388"
+  },
+  {
+    "name": "TV Terceiro Anjo (360p)",
+    "logo": "https://i.imgur.com/PExKWNv.png",
+    "group": "Religious",
+    "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
+    "tvg_id": "TVTerceiroAnjo.br@SD",
+    "status": "live",
+    "id": "tv-terceiro-anjo-360p-6428"
+  },
+  {
+    "name": "TV Universal (480p)",
+    "logo": "https://i.imgur.com/TIsk5zN.png",
+    "group": "Religious",
+    "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
+    "tvg_id": "TVUniversal.br@SD",
+    "status": "live",
+    "id": "tv-universal-480p-6433"
+  },
+  {
+    "name": "TV Universal Ecuador (720p)",
+    "logo": "https://i.imgur.com/TIsk5zN.png",
+    "group": "Religious",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8",
+    "tvg_id": "TVUniversalEcuador.ec@SD",
+    "status": "live",
+    "id": "tv-universal-ecuador-720p-6436"
+  },
+  {
+    "name": "TVCARiB Gospel (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "group": "Religious",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
+    "tvg_id": "TVCARiBGospel.sx@SD",
+    "status": "live",
+    "id": "tvcarib-gospel-480p-not-24-7-6458"
+  },
+  {
+    "name": "Unife TV",
+    "logo": "https://i.imgur.com/lVpDLVU.png",
+    "group": "Religious",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8",
+    "tvg_id": "UnifeTV.pe@SD",
+    "status": "live",
+    "id": "unife-tv-6637"
+  },
+  {
+    "name": "Unife TV",
+    "logo": "https://i.imgur.com/TLM592m.png",
+    "group": "Religious",
+    "url": "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8",
+    "tvg_id": "UnifeTV.ar@SD",
+    "status": "live",
+    "id": "unife-tv-6639"
+  },
+  {
+    "name": "Vedic (480p)",
+    "logo": "https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540",
+    "group": "Religious",
+    "url": "https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8",
+    "tvg_id": "Vedic.in@SD",
+    "status": "live",
+    "id": "vedic-480p-6695"
+  },
+  {
+    "name": "Velayat TV (480p)",
+    "logo": "https://i.imgur.com/bRQSzhs.png",
+    "group": "Religious",
+    "url": "https://nl.livekadeh.com/hls2/velayattv.m3u8",
+    "tvg_id": "VelayatTVNetwork.us@SD",
+    "status": "live",
+    "id": "velayat-tv-480p-6702"
+  },
+  {
+    "name": "Vida Mejor TV (480p)",
+    "logo": "https://i.imgur.com/1hJ16i0.png",
+    "group": "Religious",
+    "url": "https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8",
+    "tvg_id": "VidaMejorTV.us@SD",
+    "status": "live",
+    "id": "vida-mejor-tv-480p-6739"
+  },
+  {
+    "name": "Village TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png",
+    "group": "Religious",
+    "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8",
+    "tvg_id": "VillageTV.in@SD",
+    "status": "live",
+    "id": "village-tv-576p-6749"
+  },
+  {
+    "name": "VTN Victory Television Network (720p)",
+    "logo": "https://i.imgur.com/CjKQuEP.png",
+    "group": "Religious",
+    "url": "https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8",
+    "tvg_id": "KVTNDT251.us@HD",
+    "status": "live",
+    "id": "vtn-victory-television-network-720p-6784"
+  },
+  {
+    "name": "W14DK-D 14.1 TV Delmarva",
+    "logo": "https://i.imgur.com/TjQP7kS.png",
+    "group": "Religious",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8",
+    "tvg_id": "W14DKD141.us@HD",
+    "status": "live",
+    "id": "w14dk-d-14-1-tv-delmarva-6786"
+  },
+  {
+    "name": "Way TV",
+    "logo": "https://i.ibb.co/gdpvKpS/cropped-Asset-1.png",
+    "group": "Religious",
+    "url": "https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8",
+    "tvg_id": "WayTV.pt@SD",
+    "status": "live",
+    "id": "way-tv-6815"
+  },
+  {
+    "name": "WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/B7lqYZe.png",
+    "group": "Religious",
+    "url": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
+    "tvg_id": "WDWL581.pr@HD",
+    "status": "live",
+    "id": "wdwl-dt1-teleadoraci-n-enlace-pr-720p-not-24-7-6859"
+  },
+  {
+    "name": "Whole Word TV (720p)",
+    "logo": "https://i.imgur.com/71MRtuK.png",
+    "group": "Religious",
+    "url": "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8",
+    "tvg_id": "WholeWordTV.ng@SD",
+    "status": "live",
+    "id": "whole-word-tv-720p-6885"
+  },
+  {
+    "name": "WiseHumanTv (1080p)",
+    "logo": "https://i.imgur.com/BT7EtfB.png",
+    "group": "Religious",
+    "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
+    "tvg_id": "WiseHumanTv.ir@HD",
+    "status": "live",
+    "id": "wisehumantv-1080p-6902"
+  },
+  {
+    "name": "WLMB (1080p)",
+    "logo": "https://i.imgur.com/KeELZ1Y.png",
+    "group": "Religious",
+    "url": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8",
+    "tvg_id": "WLMB.us@SD",
+    "status": "live",
+    "id": "wlmb-1080p-6911"
+  },
+  {
+    "name": "YOUNIB Media TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/LtiPOYG.jpg",
+    "group": "Religious",
+    "url": "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8",
+    "tvg_id": "YOUNIBMediaTV.ke@SD",
+    "status": "live",
+    "id": "younib-media-tv-720p-not-24-7-6965"
+  },
+  {
+    "name": "Глас (576p)",
+    "logo": "https://i.imgur.com/l5FEP9w.png",
+    "group": "Religious",
+    "url": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8",
+    "tvg_id": "Glas.ua@SD",
+    "status": "live",
+    "id": "576p-6982"
+  },
+  {
+    "name": "Al Quran Al Kareem TV",
+    "logo": "https://makkahlive.net//images/makkah-live-low-resolution-logo-color-on-transparent-background.png",
+    "group": "Religious",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+    "id": "alquranalkareemtv-383"
+  },
+  {
+    "name": "Dua Channel",
+    "logo": "https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",
+    "group": "Religious",
+    "url": "https://newyork.zeuscdn724.com:443/H9/index.m3u8",
+    "id": "duachannel-399"
+  },
+  {
+    "name": "Zainabia Channel",
+    "logo": "https://buddytv.netlify.app/img/no-logo.png",
+    "group": "Religious",
+    "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+    "id": "zainabiachannel-400"
+  },
+  {
+    "name": "QURAN",
+    "logo": "",
+    "group": "Religious",
+    "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+    "id": "quran-401"
+  },
+  {
+    "name": "Sunnah TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png",
+    "group": "Religious",
+    "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
+    "id": "sunnahtv-402"
+  },
+  {
+    "name": "Makkah TV",
+    "logo": "https://play-lh.googleusercontent.com/89KDTm-c-N9GOuG4CK9P7Nc6WcbgGYOLguwblg1254ho2HkuZLkXkH35iuJM19-rng=w240-h480-rw",
+    "group": "Religious",
+    "url": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8",
+    "id": "makkahtv-413"
+  },
+  {
+    "name": "Peace TV Urdu",
+    "logo": "https://m1pfxzepyyyj.merlincdn.net/content/J/kE/169575/logo_50.png",
+    "group": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v4a1/mono.m3u8",
+    "id": "peacetvurdu-422"
+  },
+  {
+    "name": "Peace TV English",
+    "logo": "https://m1pfxzepyyyj.merlincdn.net/content/Q/k_/169572/logo_50.png",
+    "group": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v4a1/mono.m3u8",
+    "id": "peacetvenglish-424"
+  }
+]
