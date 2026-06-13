@@ -433,15 +433,6 @@
     "id": "biznet-lifestyle-1080p-2001"
   },
   {
-    "name": "BIZ TV (1080p)",
-    "logo": "https://biztv.uz/static/media/logo.5f993187.png",
-    "group": "Entertainment",
-    "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8",
-    "tvg_id": "BIZTV.uz@SD",
-    "status": "live",
-    "id": "biz-tv-1080p-2011"
-  },
-  {
     "name": "Bol Entertainment (1080p)",
     "logo": "https://i.imgur.com/eajSRFo.png",
     "group": "Entertainment",
@@ -1522,15 +1513,6 @@
     "id": "lone-star-720p-3989"
   },
   {
-    "name": "Lone Star (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png",
-    "group": "Entertainment",
-    "url": "https://lonestar-rakuten.amagi.tv/playlist.m3u8",
-    "tvg_id": "LoneStar.us@SD",
-    "status": "live",
-    "id": "lone-star-1080p-3995"
-  },
-  {
     "name": "M2 (1080p)",
     "logo": "https://i.imgur.com/B0nYT0l.png",
     "group": "Entertainment",
@@ -2042,15 +2024,6 @@
     "tvg_id": "PeopleAreAwesome.us@Poland",
     "status": "live",
     "id": "people-are-awesome-720p-4790"
-  },
-  {
-    "name": "People Are Awesome (720p)",
-    "logo": "https://i.imgur.com/MsIx7Ax.png",
-    "group": "Entertainment",
-    "url": "https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8",
-    "tvg_id": "PeopleAreAwesome.us@SD",
-    "status": "live",
-    "id": "people-are-awesome-720p-4793"
   },
   {
     "name": "Persiana Turkiye",
@@ -2618,15 +2591,6 @@
     "tvg_id": "TheDesignNetwork.us@Poland",
     "status": "live",
     "id": "the-design-network-1080p-6068"
-  },
-  {
-    "name": "The Design Network (1080p)",
-    "logo": "https://i.imgur.com/J5YJ3r3.png",
-    "group": "Lifestyle",
-    "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8",
-    "tvg_id": "TheDesignNetwork.us@SD",
-    "status": "live",
-    "id": "the-design-network-1080p-6069"
   },
   {
     "name": "The Graham Norton Show (1080p)",

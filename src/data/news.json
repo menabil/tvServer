@@ -210,17 +210,6 @@
     "id": "cgtn-995"
   },
   {
-    "name": "India Today",
-    "logo": "https://i.imgur.com/koFYddE.png",
-    "group": "News",
-    "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
-    "tvg_id": "IndiaToday.in",
-    "tvg_name": "India Today",
-    "tvg_chno": "17",
-    "status": "live",
-    "id": "india-today-999"
-  },
-  {
     "name": "France 24 Ⓨ",
     "logo": "https://i.imgur.com/61MSiq9.png",
     "group": "News",
@@ -366,17 +355,6 @@
     "id": "sabc-news-1023"
   },
   {
-    "name": "WION",
-    "logo": "https://i.imgur.com/Wc5Z3iS.png",
-    "group": "News",
-    "url": "https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8",
-    "tvg_id": "WION.in",
-    "tvg_name": "WION",
-    "tvg_chno": "24",
-    "status": "live",
-    "id": "wion-1024"
-  },
-  {
     "name": "Channel News Asia",
     "logo": "https://i.imgur.com/xWglicB.png",
     "group": "News",
@@ -431,13 +409,6 @@
     "id": "gb-news-1033"
   },
   {
-    "name": "TRT World",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",
-    "group": "News",
-    "url": "https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8",
-    "id": "trt-world-1037"
-  },
-  {
     "name": "Channel 1",
     "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png",
     "group": "News",
@@ -459,13 +430,6 @@
     "id": "dbcnewshd-641"
   },
   {
-    "name": "Ekhon TV",
-    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rwzM3TeXBFILm0KCzTHqk7WkaIVniq3gkqXny_2h_OJyCxzBVt3RGzHT0M0uHf9dOLNjsSlvNNzk_Ij3Qsqei0S3_Qh7eboeNq8O06tuDaBiW60St_EP_T17ulx5AvyA-Piaj9sLcT6jMJKs9uhTa8-sdf6dfDJgQDdd1yTO3L9Dvmv6Dwl1Ewq_1A/s600/Nur_20251226_221258_0000.png",
-    "group": "News",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8",
-    "id": "ekhon-tv-1057"
-  },
-  {
     "name": "France 24",
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTaxzIFg20GqGBVHJPJwecBMv7kEQLnI0qmMCrawpyrwgks0Y-XXNgFzeMCQkg2MdERNCpi4iLhGUBPLTqyZKXmpqMp11f5qXAMLD5ckwtz50arM2s28MtOE42pt-y0Y0GKDiZ2u8vptsWiyl5wLeo5lORXX4LlZTVYg0QITsuWLoiddwHx1YYL7T0Tg/s1080/1000021040.png",
     "group": "News",
@@ -478,13 +442,6 @@
     "group": "International News",
     "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
     "id": "cnnusa-52"
-  },
-  {
-    "name": "NDTV 24x7",
-    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGJOztLT5WkBg74RKeGxLfWmZTshn-qUNXH7gbOVVFxEzn9XwedHF1g-EvzihVOLf3A7SHmWnP5hlVCkPFeMCr0UKkP5fqHP6fGVBHa0Lqn7RIiM6X4FqeXxTRSlwq24-r7Oh9eDrxlp9g0M6iTsIeFIsWJ3Cpro9ldGGAa5ci6DbY2NCFTCMoNrqZXg/s1080/1000057638.png",
-    "group": "News",
-    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_720p@3.m3u8",
-    "id": "ndtv-24x7-1070"
   },
   {
     "name": "Geo Tez (576i)",
@@ -895,15 +852,6 @@
     "tvg_id": "AfricanewsEnglish.fr@Poland",
     "status": "live",
     "id": "africanews-720p-1474"
-  },
-  {
-    "name": "Africanews (720p)",
-    "logo": "https://i.imgur.com/5UxU4zc.png",
-    "group": "News",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.vf=Cxy9froLXMW",
-    "tvg_id": "AfricanewsEnglish.fr@SD",
-    "status": "live",
-    "id": "africanews-720p-1475"
   },
   {
     "name": "Afrique54 TV (720p)",
@@ -2265,15 +2213,6 @@
     "id": "euronews-romania-2969"
   },
   {
-    "name": "Euronews (720p)",
-    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg",
-    "group": "News",
-    "url": "https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8",
-    "tvg_id": "Euronews.pl@FAST",
-    "status": "live",
-    "id": "euronews-720p-2971"
-  },
-  {
     "name": "Euronews French (720p)",
     "logo": "https://i.imgur.com/8t9mdg9.png",
     "group": "News",
@@ -2632,15 +2571,6 @@
     "tvg_id": "iNews.id@SD",
     "status": "live",
     "id": "inews-720p-3516"
-  },
-  {
-    "name": "INews (720p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png",
-    "group": "News",
-    "url": "https://cdn-1.pishow.tv/live/411/master.m3u8",
-    "tvg_id": "INews.in@SD",
-    "status": "live",
-    "id": "inews-720p-3518"
   },
   {
     "name": "InfoWars Network (1080p)",
@@ -3415,15 +3345,6 @@
     "tvg_id": "News24.np@SD",
     "status": "live",
     "id": "news-24-1080p-4483"
-  },
-  {
-    "name": "News 24 (1080p)",
-    "logo": "https://i.imgur.com/fkTHh75.png",
-    "group": "News",
-    "url": "https://bozztv.com/rongo/rongo-News24HD/index.m3u8",
-    "tvg_id": "News24.bd@SD",
-    "status": "live",
-    "id": "news-24-1080p-4484"
   },
   {
     "name": "News Daily 24 (576p)",
@@ -5026,25 +4947,11 @@
     "id": "abcnewsin90seconds-32"
   },
   {
-    "name": "CGTN",
-    "logo": "https://yt3.googleusercontent.com/ZswtbrleL4K7ameGvmiWb-FTsBCPpWf9Awwt6rUTQtbKe-sf1MbdvxtCGAqcdp7rksGs0oi1=s120-c-k-c0x00ffffff-no-rj",
-    "group": "International News",
-    "url": "https://0472.org/hls/cgtn.m3u8",
-    "id": "cgtn-43"
-  },
-  {
     "name": "ABC News Channel",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg",
     "group": "International News",
     "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8",
     "id": "abcnewschannel-44"
-  },
-  {
-    "name": "Channel News Asia",
-    "logo": "https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",
-    "group": "International News",
-    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
-    "id": "channelnewsasia-47"
   },
   {
     "name": "Bloomberg TV Live Event",
@@ -5054,25 +4961,11 @@
     "id": "bloombergtvliveevent-48"
   },
   {
-    "name": "DW News",
-    "logo": "https://img.favpng.com/8/20/21/logo-deutsche-welle-dw-tv-dw-espa-ol-png-favpng-HaURNeixYqyctM1CSnmKA1kWk.jpg",
-    "group": "International News",
-    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8",
-    "id": "dwnews-49"
-  },
-  {
     "name": "ABC Sport in 90 Seconds",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg",
     "group": "International News",
     "url": "https://c.mjh.nz/sport_in_90_seconds",
     "id": "abcsportin90seconds-53"
-  },
-  {
-    "name": "CNN International",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/CNN_International_2009.svg",
-    "group": "International News",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
-    "id": "cnninternational-54"
   },
   {
     "name": "Connecting America",
@@ -5124,13 +5017,6 @@
     "id": "globalnewsus-75"
   },
   {
-    "name": "GB News",
-    "logo": "https://assets.rbl.ms/61228189/origin.png",
-    "group": "International News",
-    "url": "https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8",
-    "id": "gbnews-80"
-  },
-  {
     "name": "Fox News",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg",
     "group": "International News",
@@ -5171,13 +5057,6 @@
     "group": "International News",
     "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001&ads.xumo_streamId=88896001&ads.caid=nbcnewsnow&ads.csid=samsungtvplus_uk_nbcnewsnow_ssai&ads.sfid=&ads.afid=nbcnewsnow&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=UK&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=nbcnewsnow&ads.xumo_providerId=1828&ads.xumo_providerName=nbcnewsnow&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbcnewsnow_uk&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D",
     "id": "nbcnewsnow-102"
-  },
-  {
-    "name": "Sky News",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f5/Sky_News_2018.svg",
-    "group": "International News",
-    "url": "https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8",
-    "id": "skynews-119"
   },
   {
     "name": "Bloomberg Originals",

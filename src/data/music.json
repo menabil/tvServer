@@ -1512,15 +1512,6 @@
     "id": "magic-tv-720p-4033"
   },
   {
-    "name": "Magic TV (720p)",
-    "logo": "https://i.imgur.com/n7bcrrp.png",
-    "group": "Music",
-    "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
-    "tvg_id": "MagicTV.bg@SD",
-    "status": "live",
-    "id": "magic-tv-720p-4039"
-  },
-  {
     "name": "Majid Al Mohandis (1080p)",
     "logo": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg",
     "group": "Music",
@@ -1582,15 +1573,6 @@
     "tvg_id": "MBCMood.sa@HD",
     "status": "live",
     "id": "mbc-mood-1080p-4135"
-  },
-  {
-    "name": "MBC Mood (1080p)",
-    "logo": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png",
-    "group": "Music",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
-    "tvg_id": "MBCMood.sa@SD",
-    "status": "live",
-    "id": "mbc-mood-1080p-4136"
   },
   {
     "name": "Med Muzik (1080p)",
@@ -2140,15 +2122,6 @@
     "tvg_id": "QelloConcertsbyStingray.ca@SD",
     "status": "live",
     "id": "qello-concerts-by-stingray-1080p-4953"
-  },
-  {
-    "name": "Qello Concerts by Stingray (1080p)",
-    "logo": "https://i.imgur.com/IRyFTWq.png",
-    "group": "Music",
-    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
-    "tvg_id": "QelloConcertsbyStingray.ca@Poland",
-    "status": "live",
-    "id": "qello-concerts-by-stingray-1080p-4956"
   },
   {
     "name": "Qmusic (720p)",
@@ -2826,15 +2799,6 @@
     "id": "stingray-xitos-del-momento-1080p-5723"
   },
   {
-    "name": "Stingray Greatest Hits (1080p)",
-    "logo": "",
-    "group": "Music",
-    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
-    "tvg_id": "StingrayGreatestHits.ca@Poland",
-    "status": "live",
-    "id": "stingray-greatest-hits-1080p-5724"
-  },
-  {
     "name": "Stingray Hot Country (1080p)",
     "logo": "https://i.imgur.com/PZhxyIT.png",
     "group": "Music",
@@ -2934,15 +2898,6 @@
     "id": "stingray-romance-latino-1080p-5738"
   },
   {
-    "name": "Stingray Naturescape (1080p)",
-    "logo": "https://i.imgur.com/882kd90.png",
-    "group": "Music",
-    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
-    "tvg_id": "StingrayNaturescape.ca@Poland",
-    "status": "live",
-    "id": "stingray-naturescape-1080p-5739"
-  },
-  {
     "name": "Stingray Smooth Jazz (1080p)",
     "logo": "https://i.imgur.com/h1DsOzH.png",
     "group": "Music",
@@ -2995,24 +2950,6 @@
     "tvg_id": "StingrayUrbanBeat.ca@SD",
     "status": "live",
     "id": "stingray-urban-beat-1080p-5746"
-  },
-  {
-    "name": "Stingray Remember the 80s (1080p)",
-    "logo": "https://i.imgur.com/duwc8E8.png",
-    "group": "Music",
-    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
-    "tvg_id": "StingrayRememberthe80s.ca@Poland",
-    "status": "live",
-    "id": "stingray-remember-the-80s-1080p-5748"
-  },
-  {
-    "name": "Stingray Remember the 80s (1080p)",
-    "logo": "https://i.imgur.com/duwc8E8.png",
-    "group": "Music",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8?ads.vf=Fq0bVWh7hy0",
-    "tvg_id": "StingrayRememberthe80s.ca@SD",
-    "status": "live",
-    "id": "stingray-remember-the-80s-1080p-5749"
   },
   {
     "name": "Stingray Holidayscapes (1080p)",

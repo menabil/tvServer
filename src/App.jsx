@@ -1,5 +1,6 @@
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import { Helmet } from "react-helmet-async";
+import { useLenis } from "lenis/react";
 import {
   Activity,
   Baby,
@@ -19,6 +20,8 @@ import {
 import VideoPlayer from "./components/VideoPlayer";
 import ChannelCard from "./components/ChannelCard";
 import ThemeToggle from "./components/ThemeToggle";
+import FollowButton from "./components/FollowButton";
+import Pagination from "./components/Pagination";
 import useTheme from "./hooks/useTheme";
 
 import bangla from "./data/bangla.json";
@@ -50,13 +53,21 @@ const CATEGORIES = [
 ];
 
 const MAX_GROUP_CHIPS = 12;
+const PAGE_SIZE = 48;
 
 export default function App() {
   const [theme, toggleTheme] = useTheme();
   const [categoryId, setCategoryId] = useState(CATEGORIES[0].id);
   const [group, setGroup] = useState("All");
   const [query, setQuery] = useState("");
-  const [active, setActive] = useState(null);
+  const [page, setPage] = useState(1);
+  const [active, setActive] = useState(CATEGORIES[0].data[0] ?? null);
+
+  const lenis = useLenis();
+  const scrollToTop = () => {
+    if (lenis) lenis.scrollTo(0, { duration: 0.8 });
+    else window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   const category = CATEGORIES.find((c) => c.id === categoryId);
 
@@ -75,7 +86,8 @@ export default function App() {
 
   const hasGroups = groups.length > 1;
 
-  const channels = useMemo(() => {
+  // Channels for the current category + group + search query.
+  const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return category.data.filter((ch) => {
       const matchesGroup = !hasGroups || group === "All" || ch.group === group;
@@ -84,20 +96,36 @@ export default function App() {
     });
   }, [category, group, query, hasGroups]);
 
-  // Reset filters when switching category.
-  useEffect(() => {
+  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  const safePage = Math.min(page, totalPages);
+  const paged = filtered.slice((safePage - 1) * PAGE_SIZE, safePage * PAGE_SIZE);
+
+  // Switching category resets filters/pagination and loads its first channel.
+  const selectCategory = (id) => {
+    const cat = CATEGORIES.find((c) => c.id === id);
+    setCategoryId(id);
     setGroup("All");
     setQuery("");
-  }, [categoryId]);
+    setPage(1);
+    setActive(cat.data[0] ?? null);
+  };
 
-  // Keep the player pointed at a valid channel as filters change.
-  useEffect(() => {
-    if (!channels.length) {
-      setActive(null);
-    } else if (!active || !channels.some((ch) => ch.id === active.id)) {
-      setActive(channels[0]);
-    }
-  }, [channels]); // eslint-disable-line react-hooks/exhaustive-deps
+  const selectGroup = (g) => {
+    setGroup(g);
+    setQuery("");
+    setPage(1);
+  };
+
+  const handleSearch = (value) => {
+    setQuery(value);
+    setPage(1);
+  };
+
+  // Only an explicit click changes what's playing.
+  const selectChannel = (channel) => {
+    setActive(channel);
+    scrollToTop();
+  };
 
   return (
     <div className="min-h-screen bg-[var(--bg)] text-[var(--text)] transition-colors duration-300">
@@ -111,7 +139,7 @@ export default function App() {
 
       {/* Header */}
       <header className="sticky top-0 z-30 border-b border-[var(--border)] bg-[var(--bg)]/90 backdrop-blur-md">
-        <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3">
+        <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-4 py-3">
           <div className="flex items-center gap-2.5">
             <span className="grid h-9 w-9 place-items-center rounded-xl bg-[var(--accent)] text-white">
               <Tv size={18} />
@@ -121,7 +149,7 @@ export default function App() {
             </h1>
           </div>
 
-          <div className="relative ml-auto w-full max-w-xs sm:max-w-sm">
+          <div className="relative order-3 w-full sm:order-2 sm:ml-auto sm:max-w-sm">
             <Search
               size={16}
               className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[var(--text-muted)]"
@@ -129,126 +157,143 @@ export default function App() {
             <input
               type="text"
               value={query}
-              onChange={(e) => setQuery(e.target.value)}
+              onChange={(e) => handleSearch(e.target.value)}
               placeholder={`Search ${category.label}...`}
               className="w-full rounded-full border border-[var(--border)] bg-[var(--surface)] py-2 pl-9 pr-4 text-sm placeholder-[var(--text-muted)] focus:outline-none focus:ring-2 focus:ring-[var(--accent)]/40"
             />
           </div>
 
-          <ThemeToggle theme={theme} onToggle={toggleTheme} />
+          <div className="order-2 ml-auto flex items-center gap-2 sm:order-3 sm:ml-0">
+            <ThemeToggle theme={theme} onToggle={toggleTheme} />
+            <FollowButton username="menabil" />
+          </div>
         </div>
       </header>
 
-      {/* Hero / banner — fills the first screen */}
-      <section className="flex min-h-[calc(100vh-65px)] flex-col justify-center border-b border-[var(--border)]">
-        <div className="mx-auto flex w-full max-w-7xl flex-col gap-5 px-4 py-6">
-          <div className="animate-fade-in-up">
+      <main className="mx-auto max-w-7xl space-y-6 px-4 py-5">
+        {/* Player + sidebar */}
+        <section className="grid gap-4 lg:grid-cols-3">
+          <div className="animate-fade-in-up lg:col-span-2">
             <VideoPlayer channel={active} />
-          </div>
 
-          <div className="animate-fade-in-up-1 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-4">
-            <span className="inline-flex items-center gap-1.5 rounded-md bg-[var(--accent-soft)] px-2 py-1 text-[10px] font-bold uppercase tracking-widest text-[var(--accent)]">
-              <span className="live-dot h-1.5 w-1.5 rounded-full bg-[var(--accent)]" />
-              {active?.group || category.label}
-            </span>
-            <h2 className="mt-2 truncate font-display text-lg font-semibold">
-              {active?.name || "Select a channel"}
-            </h2>
-          </div>
-
-          {/* Category tabs */}
-          <div className="chip-row animate-fade-in-up-2 flex gap-2 overflow-x-auto pb-1">
-            {CATEGORIES.map(({ id, label, icon: Icon, data }) => (
-              <button
-                key={id}
-                onClick={() => setCategoryId(id)}
-                className={`flex shrink-0 items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold transition-colors duration-200 ${
-                  categoryId === id
-                    ? "bg-[var(--accent)] text-white"
-                    : "border border-[var(--border)] bg-[var(--surface)] text-[var(--text-muted)] hover:text-[var(--text)]"
-                }`}
-              >
-                <Icon size={15} />
-                {label}
-                <span className="text-xs opacity-70">({data.length})</span>
-              </button>
-            ))}
-          </div>
-
-          {/* Group chips */}
-          {hasGroups && (
-            <div className="chip-row flex gap-2 overflow-x-auto pb-1">
-              {["All", ...groups].map((g) => (
-                <button
-                  key={g}
-                  onClick={() => setGroup(g)}
-                  className={`shrink-0 rounded-full px-3 py-1.5 text-xs font-medium transition-colors duration-200 ${
-                    group === g
-                      ? "bg-[var(--accent-2)] text-white"
-                      : "border border-[var(--border)] bg-[var(--surface)] text-[var(--text-muted)] hover:text-[var(--text)]"
-                  }`}
-                >
-                  {g}
-                </button>
-              ))}
+            <div className="mt-3 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-4">
+              <span className="inline-flex items-center gap-1.5 rounded-md bg-[var(--accent-soft)] px-2 py-1 text-[10px] font-bold uppercase tracking-widest text-[var(--accent)]">
+                <span className="live-dot h-1.5 w-1.5 rounded-full bg-[var(--accent)]" />
+                {active?.group || category.label}
+              </span>
+              <h2 className="mt-2 truncate font-display text-lg font-semibold">
+                {active?.name || "Select a channel"}
+              </h2>
             </div>
-          )}
-        </div>
-      </section>
-
-      {/* Channel grid */}
-      <main className="mx-auto max-w-7xl px-4 py-8">
-        {channels.length > 0 ? (
-          <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8">
-            {channels.map((channel) => (
-              <ChannelCard
-                key={channel.id}
-                channel={channel}
-                active={active?.id === channel.id}
-                onSelect={() => setActive(channel)}
-              />
-            ))}
           </div>
-        ) : (
-          <p className="py-12 text-center text-sm italic text-[var(--text-muted)]">
-            No channels found.
-          </p>
-        )}
+
+          <aside className="animate-fade-in-up-1 flex flex-col gap-3 lg:col-span-1">
+            <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
+              <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
+                Categories
+              </h3>
+              <div className="flex max-h-64 flex-col gap-1 overflow-y-auto pr-1 lg:max-h-[19rem]">
+                {CATEGORIES.map(({ id, label, icon: Icon, data }) => (
+                  <button
+                    key={id}
+                    onClick={() => selectCategory(id)}
+                    className={`flex items-center gap-2.5 rounded-xl px-3 py-2 text-left text-sm font-semibold transition-colors duration-200 ${
+                      categoryId === id
+                        ? "bg-[var(--accent)] text-white"
+                        : "text-[var(--text-muted)] hover:bg-[var(--surface-2)] hover:text-[var(--text)]"
+                    }`}
+                  >
+                    <Icon size={15} className="shrink-0" />
+                    <span className="truncate">{label}</span>
+                    <span className="ml-auto text-xs opacity-70">{data.length}</span>
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            {hasGroups && (
+              <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
+                <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
+                  Sub-categories
+                </h3>
+                <div className="chip-row flex gap-2 overflow-x-auto px-1 pb-1">
+                  {["All", ...groups].map((g) => (
+                    <button
+                      key={g}
+                      onClick={() => selectGroup(g)}
+                      className={`shrink-0 rounded-full px-3 py-1.5 text-xs font-medium transition-colors duration-200 ${
+                        group === g
+                          ? "bg-[var(--accent-2)] text-white"
+                          : "border border-[var(--border)] bg-[var(--surface)] text-[var(--text-muted)] hover:text-[var(--text)]"
+                      }`}
+                    >
+                      {g}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+          </aside>
+        </section>
+
+        {/* Channel grid */}
+        <section className="animate-fade-in-up-2">
+          {paged.length > 0 ? (
+            <>
+              <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8">
+                {paged.map((channel) => (
+                  <ChannelCard
+                    key={channel.id}
+                    channel={channel}
+                    active={active?.id === channel.id}
+                    onSelect={() => selectChannel(channel)}
+                  />
+                ))}
+              </div>
+              <Pagination page={safePage} totalPages={totalPages} onChange={setPage} />
+            </>
+          ) : (
+            <p className="py-12 text-center text-sm italic text-[var(--text-muted)]">
+              No channels found.
+            </p>
+          )}
+        </section>
       </main>
 
       {/* Footer */}
       <footer className="border-t border-[var(--border)] bg-[var(--surface)]">
         <div className="mx-auto max-w-7xl px-4 py-8">
-          <div className="flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between">
-            <div>
-              <div className="flex items-center gap-2.5">
-                <span className="grid h-8 w-8 place-items-center rounded-lg bg-[var(--accent)] text-white">
-                  <Tv size={16} />
-                </span>
-                <span className="font-display text-base font-bold">
-                  Stream<span className="text-[var(--accent)]">TV</span>
-                </span>
-              </div>
-              <p className="mt-3 max-w-sm text-sm text-[var(--text-muted)]">
-                A simple live-channel hub for Bangla, sports, news, movies, music and
-                more — all in one place.
-              </p>
-            </div>
+          <div className="flex items-center gap-2.5">
+            <span className="grid h-8 w-8 place-items-center rounded-lg bg-[var(--accent)] text-white">
+              <Tv size={16} />
+            </span>
+            <span className="font-display text-base font-bold">
+              Stream<span className="text-[var(--accent)]">TV</span>
+            </span>
+          </div>
+          <p className="mt-3 max-w-sm text-sm text-[var(--text-muted)]">
+            A simple live-channel hub for Bangla, sports, news, movies, music and more —
+            all in one place.
+          </p>
 
-            <div className="flex flex-wrap gap-2">
-              {CATEGORIES.map(({ id, label }) => (
-                <button
-                  key={id}
-                  onClick={() => {
-                    setCategoryId(id);
-                    window.scrollTo({ top: 0, behavior: "smooth" });
-                  }}
-                  className="rounded-full border border-[var(--border)] px-3 py-1.5 text-xs font-medium text-[var(--text-muted)] transition-colors hover:border-[var(--accent)] hover:text-[var(--text)]"
-                >
-                  {label}
-                </button>
-              ))}
-            </div>
+          <h3 className="mt-6 text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
+            Browse by category
+          </h3>
+          <div className="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
+            {CATEGORIES.map(({ id, label, icon: Icon, data }) => (
+              <button
+                key={id}
+                onClick={() => {
+                  selectCategory(id);
+                  scrollToTop();
+                }}
+                className="flex items-center gap-2 rounded-xl border border-[var(--border)] px-3 py-2 text-left text-sm font-medium text-[var(--text-muted)] transition-colors hover:border-[var(--accent)] hover:text-[var(--text)]"
+              >
+                <Icon size={15} className="shrink-0" />
+                <span className="truncate">{label}</span>
+                <span className="ml-auto text-xs opacity-60">{data.length}</span>
+              </button>
+            ))}
           </div>
 
           <div className="mt-8 flex flex-col gap-2 border-t border-[var(--border)] pt-4 text-xs text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between">

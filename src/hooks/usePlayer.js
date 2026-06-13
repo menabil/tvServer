@@ -61,7 +61,7 @@ export default function usePlayer(videoRef, channel) {
             player
               .getVariantTracks()
               .map((t) => t.height)
-              .filter(Boolean),
+              .filter(Boolean)
           ),
         ].sort((a, b) => b - a);
         setQualities(heights);

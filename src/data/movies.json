@@ -95,13 +95,6 @@
     "id": "screem-658"
   },
   {
-    "name": "Crimes",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",
-    "group": "Movies",
-    "url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8",
-    "id": "crimes-662"
-  },
-  {
     "name": "True Stories",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",
     "group": "Movies",
@@ -652,15 +645,6 @@
     "tvg_id": "DuckDynasty.us@UK",
     "status": "live",
     "id": "duck-dynasty-1080p-2798"
-  },
-  {
-    "name": "Duck Dynasty (1080p)",
-    "logo": "https://i.imgur.com/vMcSlwm.png",
-    "group": "Series",
-    "url": "https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8",
-    "tvg_id": "DuckDynasty.us@US",
-    "status": "live",
-    "id": "duck-dynasty-1080p-2799"
   },
   {
     "name": "EBS Cinema (720p)",

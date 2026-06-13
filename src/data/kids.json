@@ -722,15 +722,6 @@
     "id": "nickelodeon-1080p-4514"
   },
   {
-    "name": "Nickelodeon (1080p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "group": "Kids",
-    "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
-    "tvg_id": "Nickelodeon.es@SD",
-    "status": "live",
-    "id": "nickelodeon-1080p-4515"
-  },
-  {
     "name": "1. Nickelodeon",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_%28formerly_Noggin%29_New_Logo.jpg",
     "group": "Kids",

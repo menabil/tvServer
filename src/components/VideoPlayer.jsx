@@ -6,7 +6,7 @@ export default function VideoPlayer({ channel }) {
   const videoRef = useRef(null);
   const { qualities, activeQuality, selectQuality, loading, error } = usePlayer(
     videoRef,
-    channel,
+    channel
   );
 
   return (
@@ -39,9 +39,7 @@ export default function VideoPlayer({ channel }) {
           <select
             value={activeQuality}
             onChange={(e) =>
-              selectQuality(
-                e.target.value === "auto" ? "auto" : Number(e.target.value),
-              )
+              selectQuality(e.target.value === "auto" ? "auto" : Number(e.target.value))
             }
             className="bg-transparent text-xs focus:outline-none [&>option]:text-black"
           >
