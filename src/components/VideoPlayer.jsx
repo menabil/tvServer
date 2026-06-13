@@ -1,14 +1,11 @@
 import { useEffect, useRef, useState } from "react";
-import { AlertTriangle, Check, Loader2, MoreVertical, PlayCircle } from "lucide-react";
+import { AlertTriangle, Check, MoreVertical, PlayCircle } from "lucide-react";
 import usePlayer from "../hooks/usePlayer";
 
 export default function VideoPlayer({ channel }) {
   const videoRef = useRef(null);
   const [showMenu, setShowMenu] = useState(false);
-  const { qualities, activeQuality, selectQuality, loading, error } = usePlayer(
-    videoRef,
-    channel
-  );
+  const { qualities, activeQuality, selectQuality, error } = usePlayer(videoRef, channel);
 
   // Close the quality menu whenever the channel changes.
   useEffect(() => setShowMenu(false), [channel]);
@@ -31,12 +28,6 @@ export default function VideoPlayer({ channel }) {
         </div>
       )}
 
-      {loading && !error && (
-        <div className="absolute inset-0 grid place-items-center bg-black/50">
-          <Loader2 className="animate-spin text-[var(--accent)]" size={32} />
-        </div>
-      )}
-
       {error && (
         <div className="absolute inset-0 flex flex-col items-center justify-center gap-3 bg-black/90 px-6 text-center text-sm text-zinc-300">
           <AlertTriangle className="text-[var(--accent)]" size={28} />
@@ -48,7 +39,7 @@ export default function VideoPlayer({ channel }) {
         <div className="absolute bottom-3 right-3">
           <button
             onClick={() => setShowMenu((s) => !s)}
-            aria-label="Video quality options"
+            aria-label="Video options"
             className="grid h-8 w-8 place-items-center rounded-full border border-white/15 bg-black/60 text-white backdrop-blur transition-colors hover:bg-black/80"
           >
             <MoreVertical size={16} />

@@ -8,32 +8,32 @@
   --font-display: "Space Grotesk", "Inter", sans-serif;
 }
 
-/* ---- Light theme (default) — soft, cool, high-contrast ---- */
+/* ---- Light theme (default) ---- */
 :root {
-  --bg: #f3f5f8;
+  --bg: #f6f7fb;
   --surface: #ffffff;
-  --surface-2: #eaedf3;
-  --border: #dde1ea;
-  --text: #1c2230;
-  --text-muted: #69707f;
-  --accent: #0e9f6e;
-  --accent-soft: #d9f5ec;
-  --accent-2: #6d4ff0;
-  --accent-2-soft: #ece6fd;
+  --surface-2: #eef1f7;
+  --border: #e1e5ee;
+  --text: #181c27;
+  --text-muted: #6b7280;
+  --accent: #0ea5e9;
+  --accent-soft: #e0f3fc;
+  --accent-2: #f97316;
+  --accent-2-soft: #ffedd9;
 }
 
 /* ---- Dark theme ---- */
 .dark {
-  --bg: #0b0d14;
-  --surface: #151821;
-  --surface-2: #1d2129;
-  --border: #2a2f3b;
+  --bg: #0c0f17;
+  --surface: #151a24;
+  --surface-2: #1d232f;
+  --border: #2b323f;
   --text: #eef1f6;
   --text-muted: #8c93a8;
-  --accent: #ffb020;
-  --accent-soft: rgba(255, 176, 32, 0.12);
-  --accent-2: #8b6cf6;
-  --accent-2-soft: rgba(139, 108, 246, 0.14);
+  --accent: #38bdf8;
+  --accent-soft: rgba(56, 189, 248, 0.14);
+  --accent-2: #fb923c;
+  --accent-2-soft: rgba(251, 146, 60, 0.14);
 }
 
 html {

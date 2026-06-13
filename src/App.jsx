@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Helmet } from "react-helmet-async";
 import { useLenis } from "lenis/react";
 import {
@@ -6,10 +6,13 @@ import {
   Baby,
   BookOpen,
   Clapperboard,
+  Facebook,
   Film,
+  Github,
   GraduationCap,
   Languages,
   LayoutGrid,
+  Linkedin,
   Music2,
   Newspaper,
   Search,
@@ -42,6 +45,12 @@ const CATEGORIES = [
   { id: "other", label: "Other", icon: LayoutGrid, count: 3297 },
 ];
 
+const SOCIAL_LINKS = [
+  { icon: Facebook, label: "Facebook", url: "https://facebook.com/menabil" },
+  { icon: Linkedin, label: "LinkedIn", url: "https://linkedin.com/in/menabil" },
+  { icon: Github, label: "GitHub", url: "https://github.com/menabil" },
+];
+
 const MAX_GROUP_CHIPS = 12;
 
 export default function App() {
@@ -56,11 +65,23 @@ export default function App() {
   const [active, setActive] = useState(null); // nothing plays until the user picks a channel
   const [dataCache, setDataCache] = useState({});
 
+  const gridRef = useRef(null);
   const lenis = useLenis();
+
   const scrollToTop = () => {
     if (typeof window === "undefined" || window.scrollY <= 40) return;
     if (lenis) lenis.scrollTo(0, { duration: 0.8 });
     else window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  // Used after picking a category — brings the channel grid into view so the
+  // user can pick a channel from the new list.
+  const scrollToGrid = () => {
+    requestAnimationFrame(() => {
+      if (!gridRef.current) return;
+      if (lenis) lenis.scrollTo(gridRef.current, { offset: -16, duration: 0.9 });
+      else gridRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
   };
 
   const category = CATEGORIES.find((c) => c.id === categoryId);
@@ -112,18 +133,21 @@ export default function App() {
   const safePage = Math.min(page, totalPages);
   const paged = filtered.slice((safePage - 1) * pageSize, safePage * pageSize);
 
-  // Switching category resets filters/pagination. Nothing auto-plays.
+  // Switching category resets filters/pagination, nothing auto-plays, and the
+  // channel grid scrolls into view so the user can pick something to watch.
   const selectCategory = (id) => {
     setCategoryId(id);
     setGroup("All");
     setQuery("");
     setPage(1);
+    scrollToGrid();
   };
 
   const selectGroup = (g) => {
     setGroup(g);
     setQuery("");
     setPage(1);
+    scrollToGrid();
   };
 
   const handleSearch = (value) => {
@@ -181,8 +205,8 @@ export default function App() {
       </header>
 
       <main className="mx-auto max-w-7xl space-y-6 px-4 py-5">
-        {/* Player + sidebar (same height) */}
-        <section className="grid items-stretch gap-4 lg:grid-cols-3">
+        {/* Player + sidebar */}
+        <section className="grid gap-4 lg:grid-cols-3">
           <div className="lg:col-span-2">
             <VideoPlayer channel={active} />
 
@@ -197,23 +221,25 @@ export default function App() {
             </div>
           </div>
 
-          <aside className="flex flex-col gap-3 lg:col-span-1 lg:h-full">
-            <div className="flex flex-1 flex-col rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
+          {/* Categories + sub-categories */}
+          <aside className="flex flex-col gap-3 lg:col-span-1">
+            <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
               <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
                 Categories
               </h3>
+              {/* Horizontal slider on mobile, compact vertical list on desktop */}
               <div
                 data-lenis-prevent
-                className="flex flex-1 flex-col gap-1 overflow-y-auto pr-1"
+                className="chip-row flex gap-1.5 overflow-x-auto pb-1 lg:max-h-48 lg:flex-col lg:gap-1 lg:overflow-x-visible lg:overflow-y-auto lg:pb-0"
               >
                 {CATEGORIES.map(({ id, label, icon: Icon, count }) => (
                   <button
                     key={id}
                     onClick={() => selectCategory(id)}
-                    className={`flex items-center gap-2.5 rounded-xl px-3 py-2 text-left text-sm font-semibold transition-colors duration-200 ${
+                    className={`flex shrink-0 items-center gap-2 whitespace-nowrap rounded-xl border px-3 py-2 text-left text-sm font-semibold transition-colors duration-200 lg:w-full lg:border-0 ${
                       categoryId === id
-                        ? "bg-[var(--accent)] text-white"
-                        : "text-[var(--text-muted)] hover:bg-[var(--surface-2)] hover:text-[var(--text)]"
+                        ? "border-[var(--accent)] bg-[var(--accent)] text-white"
+                        : "border-[var(--border)] text-[var(--text-muted)] hover:bg-[var(--surface-2)] hover:text-[var(--text)]"
                     }`}
                   >
                     <Icon size={15} className="shrink-0" />
@@ -250,7 +276,7 @@ export default function App() {
         </section>
 
         {/* Channel grid */}
-        <section>
+        <section ref={gridRef}>
           {isLoadingCategory ? (
             <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8">
               {Array.from({ length: pageSize }).map((_, i) => (
@@ -302,6 +328,21 @@ export default function App() {
                 A simple live-channel hub for Bangla, sports, news, movies, music and
                 more — all in one place.
               </p>
+
+              <div className="mt-4 flex gap-2">
+                {SOCIAL_LINKS.map(({ icon: Icon, label, url }) => (
+                  <a
+                    key={label}
+                    href={url}
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    aria-label={label}
+                    className="grid h-9 w-9 place-items-center rounded-full border border-[var(--border)] text-[var(--text-muted)] transition-colors hover:border-[var(--accent)] hover:text-[var(--accent)]"
+                  >
+                    <Icon size={16} />
+                  </a>
+                ))}
+              </div>
             </div>
 
             <div className="md:max-w-md md:flex-1">
