@@ -15,5 +15,5 @@ createRoot(document.getElementById("root")).render(
         </ReactLenis>
       </BrowserRouter>
     </HelmetProvider>
-  </StrictMode>
+  </StrictMode>,
 );
