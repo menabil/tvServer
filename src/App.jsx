@@ -25,6 +25,7 @@ import ChannelCard from "./components/ChannelCard";
 import ThemeToggle from "./components/ThemeToggle";
 import FollowButton from "./components/FollowButton";
 import Pagination from "./components/Pagination";
+import SuggestedChannels from "./components/SuggestedChannels";
 import useTheme from "./hooks/useTheme";
 import useIsMobile from "./hooks/useIsMobile";
 
@@ -52,17 +53,19 @@ const SOCIAL_LINKS = [
 ];
 
 const MAX_GROUP_CHIPS = 12;
+const SEARCH_SUGGESTION_LIMIT = 8;
 
 export default function App() {
   const [theme, toggleTheme] = useTheme();
   const isMobile = useIsMobile();
-  const pageSize = isMobile ? 24 : 48;
+  const pageSize = isMobile ? 24 : 36;
 
   const [categoryId, setCategoryId] = useState(CATEGORIES[0].id);
   const [group, setGroup] = useState("All");
   const [query, setQuery] = useState("");
+  const [searchFocused, setSearchFocused] = useState(false);
   const [page, setPage] = useState(1);
-  const [active, setActive] = useState(null); // nothing plays until the user picks a channel
+  const [active, setActive] = useState(null);
   const [dataCache, setDataCache] = useState({});
 
   const gridRef = useRef(null);
@@ -74,13 +77,17 @@ export default function App() {
     else window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  // Used after picking a category — brings the channel grid into view so the
-  // user can pick a channel from the new list.
+  // Used after picking a category/sub-category — brings the channel grid into
+  // view, offset so it isn't hidden behind the sticky header.
+  const HEADER_OFFSET = 84;
   const scrollToGrid = () => {
     requestAnimationFrame(() => {
       if (!gridRef.current) return;
-      if (lenis) lenis.scrollTo(gridRef.current, { offset: -16, duration: 0.9 });
-      else gridRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+      if (lenis) lenis.scrollTo(gridRef.current, { offset: -HEADER_OFFSET, duration: 0.9 });
+      else {
+        const top = gridRef.current.getBoundingClientRect().top + window.scrollY - HEADER_OFFSET;
+        window.scrollTo({ top, behavior: "smooth" });
+      }
     });
   };
 
@@ -102,7 +109,18 @@ export default function App() {
     };
   }, [categoryId, dataCache]);
 
-  // Only categories with more than one distinct "group" value get sub-filter chips.
+  // As soon as the default category's data is ready, start playing a random
+  // channel — no extra click needed.
+  useEffect(() => {
+    if (active) return;
+    const initial = dataCache[CATEGORIES[0].id];
+    if (initial && initial.length) {
+      setActive(initial[Math.floor(Math.random() * initial.length)]);
+    }
+  }, [dataCache, active]);
+
+  // Sub-category chips for the current category (always shown, even if it's
+  // just a single "All" + one group).
   const groups = useMemo(() => {
     if (!channelData) return [];
     const counts = new Map();
@@ -116,25 +134,32 @@ export default function App() {
       .map(([name]) => name);
   }, [channelData]);
 
-  const hasGroups = groups.length > 1;
-
   // Channels for the current category + group + search query.
   const filtered = useMemo(() => {
     if (!channelData) return [];
     const q = query.trim().toLowerCase();
     return channelData.filter((ch) => {
-      const matchesGroup = !hasGroups || group === "All" || ch.group === group;
+      const matchesGroup = group === "All" || ch.group === group;
       const matchesQuery = !q || ch.name?.toLowerCase().includes(q);
       return matchesGroup && matchesQuery;
     });
-  }, [channelData, group, query, hasGroups]);
+  }, [channelData, group, query]);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
   const safePage = Math.min(page, totalPages);
   const paged = filtered.slice((safePage - 1) * pageSize, safePage * pageSize);
 
-  // Switching category resets filters/pagination, nothing auto-plays, and the
-  // channel grid scrolls into view so the user can pick something to watch.
+  // Quick search suggestions shown below the search box.
+  const searchSuggestions = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    if (!q || !channelData) return [];
+    return channelData
+      .filter((ch) => ch.name?.toLowerCase().includes(q))
+      .slice(0, SEARCH_SUGGESTION_LIMIT);
+  }, [query, channelData]);
+
+  // Switching category resets filters/pagination, and the channel grid
+  // scrolls into view (below the sticky header) so the user can pick something.
   const selectCategory = (id) => {
     setCategoryId(id);
     setGroup("All");
@@ -158,6 +183,7 @@ export default function App() {
   // Only an explicit click changes what's playing.
   const selectChannel = (channel) => {
     setActive(channel);
+    setQuery("");
     scrollToTop();
   };
 
@@ -192,9 +218,33 @@ export default function App() {
               type="text"
               value={query}
               onChange={(e) => handleSearch(e.target.value)}
+              onFocus={() => setSearchFocused(true)}
+              onBlur={() => setTimeout(() => setSearchFocused(false), 150)}
               placeholder={`Search ${category.label}...`}
               className="w-full rounded-full border border-[var(--border)] bg-[var(--surface)] py-2 pl-9 pr-4 text-sm placeholder-[var(--text-muted)] focus:outline-none focus:ring-2 focus:ring-[var(--accent)]/40"
             />
+
+            {/* Search suggestions */}
+            {searchFocused && searchSuggestions.length > 0 && (
+              <div className="absolute right-0 top-full z-40 mt-2 w-full overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] py-1 shadow-xl sm:w-80">
+                {searchSuggestions.map((ch) => (
+                  <button
+                    key={ch.id}
+                    onClick={() => selectChannel(ch)}
+                    className="flex w-full items-center gap-2.5 px-3 py-2 text-left transition-colors hover:bg-[var(--surface-2)]"
+                  >
+                    <span className="grid h-8 w-8 shrink-0 place-items-center overflow-hidden rounded-lg bg-[var(--surface-2)]">
+                      {ch.logo ? (
+                        <img src={ch.logo} alt="" className="h-full w-full object-contain p-1" />
+                      ) : (
+                        <Tv size={14} className="text-[var(--text-muted)]" />
+                      )}
+                    </span>
+                    <span className="truncate text-sm font-medium">{ch.name}</span>
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
 
           <div className="order-2 ml-auto flex items-center gap-2 sm:order-3 sm:ml-0">
@@ -205,7 +255,7 @@ export default function App() {
       </header>
 
       <main className="mx-auto max-w-7xl space-y-6 px-4 py-5">
-        {/* Player + sidebar */}
+        {/* Player + suggestions */}
         <section className="grid gap-4 lg:grid-cols-3">
           <div className="lg:col-span-2">
             <VideoPlayer channel={active} />
@@ -221,64 +271,63 @@ export default function App() {
             </div>
           </div>
 
-          {/* Categories + sub-categories */}
-          <aside className="flex flex-col gap-3 lg:col-span-1">
-            <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
-              <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
-                Categories
-              </h3>
-              {/* Horizontal slider on mobile, compact vertical list on desktop */}
-              <div
-                data-lenis-prevent
-                className="chip-row flex gap-1.5 overflow-x-auto pb-1 lg:max-h-48 lg:flex-col lg:gap-1 lg:overflow-x-visible lg:overflow-y-auto lg:pb-0"
-              >
-                {CATEGORIES.map(({ id, label, icon: Icon, count }) => (
-                  <button
-                    key={id}
-                    onClick={() => selectCategory(id)}
-                    className={`flex shrink-0 items-center gap-2 whitespace-nowrap rounded-xl border px-3 py-2 text-left text-sm font-semibold transition-colors duration-200 lg:w-full lg:border-0 ${
-                      categoryId === id
-                        ? "border-[var(--accent)] bg-[var(--accent)] text-white"
-                        : "border-[var(--border)] text-[var(--text-muted)] hover:bg-[var(--surface-2)] hover:text-[var(--text)]"
-                    }`}
-                  >
-                    <Icon size={15} className="shrink-0" />
-                    <span className="truncate">{label}</span>
-                    <span className="ml-auto text-xs opacity-70">{count}</span>
-                  </button>
-                ))}
-              </div>
-            </div>
+          <div className="lg:col-span-1">
+            <SuggestedChannels data={channelData} active={active} onSelect={selectChannel} />
+          </div>
+        </section>
 
-            {hasGroups && (
-              <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
-                <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
-                  Sub-categories
-                </h3>
-                <div className="chip-row flex gap-2 overflow-x-auto px-1 pb-1">
-                  {["All", ...groups].map((g) => (
-                    <button
-                      key={g}
-                      onClick={() => selectGroup(g)}
-                      className={`shrink-0 rounded-full px-3 py-1.5 text-xs font-medium transition-colors duration-200 ${
-                        group === g
-                          ? "bg-[var(--accent-2)] text-white"
-                          : "border border-[var(--border)] bg-[var(--surface)] text-[var(--text-muted)] hover:text-[var(--text)]"
-                      }`}
-                    >
-                      {g}
-                    </button>
-                  ))}
-                </div>
-              </div>
-            )}
-          </aside>
+        {/* Categories + sub-categories (kept to the left, below the player) */}
+        <section className="flex flex-col gap-3 lg:w-2/3">
+          <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
+            <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
+              Categories
+            </h3>
+            <div data-lenis-prevent className="chip-row flex gap-1.5 overflow-x-auto pb-1">
+              {CATEGORIES.map(({ id, label, icon: Icon, count }) => (
+                <button
+                  key={id}
+                  onClick={() => selectCategory(id)}
+                  className={`flex shrink-0 items-center gap-2 whitespace-nowrap rounded-full border px-3 py-1.5 text-sm font-semibold transition-colors duration-200 ${
+                    categoryId === id
+                      ? "border-[var(--accent)] bg-[var(--accent)] text-white"
+                      : "border-[var(--border)] text-[var(--text-muted)] hover:bg-[var(--surface-2)] hover:text-[var(--text)]"
+                  }`}
+                >
+                  <Icon size={14} className="shrink-0" />
+                  {label}
+                  <span className="text-xs opacity-70">{count}</span>
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Sub-categories — always visible, even with a single group */}
+          <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
+            <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
+              Sub-categories
+            </h3>
+            <div data-lenis-prevent className="chip-row flex gap-2 overflow-x-auto px-1 pb-1">
+              {["All", ...groups].map((g) => (
+                <button
+                  key={g}
+                  onClick={() => selectGroup(g)}
+                  className={`shrink-0 rounded-full px-3 py-1.5 text-xs font-medium transition-colors duration-200 ${
+                    group === g
+                      ? "bg-[var(--accent-2)] text-white"
+                      : "border border-[var(--border)] bg-[var(--surface)] text-[var(--text-muted)] hover:text-[var(--text)]"
+                  }`}
+                >
+                  {g}
+                </button>
+              ))}
+            </div>
+          </div>
         </section>
 
         {/* Channel grid */}
         <section ref={gridRef}>
           {isLoadingCategory ? (
-            <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8">
+            <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-9">
               {Array.from({ length: pageSize }).map((_, i) => (
                 <div
                   key={i}
@@ -291,7 +340,7 @@ export default function App() {
             </div>
           ) : paged.length > 0 ? (
             <>
-              <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8">
+              <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-9">
                 {paged.map((channel) => (
                   <ChannelCard
                     key={channel.id}
