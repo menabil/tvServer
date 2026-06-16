@@ -68,7 +68,7 @@ export default function VideoPlayer({ channel }) {
   const togglePlay = () => {
     const video = videoRef.current;
     if (!video) return;
-    if (video.paused) video.play().catch(() => {});
+    if (video.paused) video.play().catch(() => { });
     else video.pause();
   };
 
@@ -211,9 +211,8 @@ export default function VideoPlayer({ channel }) {
                         selectQuality("auto");
                         setShowQualityMenu(false);
                       }}
-                      className={`flex w-full items-center justify-between px-3 py-1.5 hover:bg-white/10 ${
-                        activeQuality === "auto" ? "text-[var(--accent)]" : ""
-                      }`}
+                      className={`flex w-full items-center justify-between px-3 py-1.5 hover:bg-white/10 ${activeQuality === "auto" ? "text-[var(--accent)]" : ""
+                        }`}
                     >
                       Auto
                     </button>
@@ -224,9 +223,8 @@ export default function VideoPlayer({ channel }) {
                           selectQuality(h);
                           setShowQualityMenu(false);
                         }}
-                        className={`flex w-full items-center justify-between px-3 py-1.5 hover:bg-white/10 ${
-                          activeQuality === h ? "text-[var(--accent)]" : ""
-                        }`}
+                        className={`flex w-full items-center justify-between px-3 py-1.5 hover:bg-white/10 ${activeQuality === h ? "text-[var(--accent)]" : ""
+                          }`}
                       >
                         {h}p
                       </button>
