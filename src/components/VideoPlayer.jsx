@@ -116,7 +116,7 @@ export default function VideoPlayer({ channel }) {
   return (
     <div
       ref={containerRef}
-      className="group relative aspect-video w-full overflow-hidden rounded-2xl border border-[var(--border)] bg-black shadow-lg"
+      className="group relative aspect-video w-full overflow-hidden rounded-2xl border border-(--border)] bg-black shadow-lg"
     >
       <video
         ref={videoRef}
@@ -129,14 +129,14 @@ export default function VideoPlayer({ channel }) {
 
       {!channel && (
         <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-center text-sm text-zinc-400">
-          <PlayCircle className="text-[var(--accent)]" size={32} />
+          <PlayCircle className="text-(--accent)]" size={32} />
           <p>Select a channel to start watching</p>
         </div>
       )}
 
       {error && (
         <div className="absolute inset-0 flex flex-col items-center justify-center gap-3 bg-black/90 px-6 text-center text-sm text-zinc-300">
-          <AlertTriangle className="text-[var(--accent)]" size={28} />
+          <AlertTriangle className="text-(--accent)]" size={28} />
           <p className="max-w-xs">{error}</p>
         </div>
       )}
@@ -162,7 +162,7 @@ export default function VideoPlayer({ channel }) {
 
       {/* Custom control bar */}
       {channel && !error && (
-        <div className="absolute inset-x-0 bottom-0 flex items-center gap-2 bg-gradient-to-t from-black/80 to-transparent px-3 py-2">
+        <div className="absolute inset-x-0 bottom-0 flex items-center gap-2 bg-linear-to-t from-black/80 to-transparent px-3 py-2">
           <button
             onClick={togglePlay}
             aria-label={isPlaying ? "Pause" : "Play"}
@@ -186,7 +186,7 @@ export default function VideoPlayer({ channel }) {
             step="0.05"
             value={isMuted ? 0 : volume}
             onChange={handleVolume}
-            className="h-1 w-16 accent-[var(--accent)] sm:w-24"
+            className="h-1 w-16 accent-(--accent)] sm:w-24"
             aria-label="Volume"
           />
 
@@ -211,7 +211,7 @@ export default function VideoPlayer({ channel }) {
                         selectQuality("auto");
                         setShowQualityMenu(false);
                       }}
-                      className={`flex w-full items-center justify-between px-3 py-1.5 hover:bg-white/10 ${activeQuality === "auto" ? "text-[var(--accent)]" : ""
+                      className={`flex w-full items-center justify-between px-3 py-1.5 hover:bg-white/10 ${activeQuality === "auto" ? "text-(--accent)]" : ""
                         }`}
                     >
                       Auto
@@ -223,7 +223,7 @@ export default function VideoPlayer({ channel }) {
                           selectQuality(h);
                           setShowQualityMenu(false);
                         }}
-                        className={`flex w-full items-center justify-between px-3 py-1.5 hover:bg-white/10 ${activeQuality === h ? "text-[var(--accent)]" : ""
+                        className={`flex w-full items-center justify-between px-3 py-1.5 hover:bg-white/10 ${activeQuality === h ? "text-(--accent)]" : ""
                           }`}
                       >
                         {h}p
