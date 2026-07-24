@@ -31,16 +31,16 @@ export default function SuggestedChannels({ data, active, onSelect }) {
   );
 
   return (
-    <div className="flex h-full flex-col rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
+    <div className="flex h-full flex-col rounded-2xl border border-(--border)] bg-(--surface)] p-3">
       <div className="flex items-center justify-between px-1 pb-2">
-        <h3 className="text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
+        <h3 className="text-xs font-bold uppercase tracking-widest text-(--text-muted)]">
           Suggested for you
         </h3>
         <button
           onClick={() => setSeed((s) => s + 1)}
           aria-label="Shuffle suggestions"
           // ফিক্স ৪: কীবোর্ড ফোকাস স্টেট যুক্ত করা হলো
-          className="grid h-10 w-10 place-items-center rounded-full text-[var(--text-muted)] transition-all duration-200 hover:bg-[var(--surface-2)] hover:text-[var(--accent)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)]"
+          className="grid h-10 w-10 place-items-center rounded-full text-(--text-muted)] transition-all duration-200 hover:bg-(--surface-2)] hover:text-(--accent)] focus:outline-none focus-visible:ring-2 focus-visible:ring-(--accent)]"
         >
           <Shuffle size={17} aria-hidden="true" />
         </button>
@@ -48,7 +48,7 @@ export default function SuggestedChannels({ data, active, onSelect }) {
 
       <div className="flex flex-1 flex-col gap-2 overflow-y-auto">
         {suggestions.length === 0 ? (
-          <p className="px-1 text-sm italic text-[var(--text-muted)]">
+          <p className="px-1 text-sm italic text-(--text-muted)]">
             {data?.length === 0 ? "No suggestions available." : "Loading…"}
           </p>
         ) : (
@@ -79,9 +79,9 @@ function SuggestedItem({ channel, onSelect }) {
     <button
       onClick={() => onSelect(channel)}
       // ফিক্স ৪: ফোকাস স্টেট
-      className="group flex items-center gap-2.5 rounded-xl px-2 py-2 text-left transition-all duration-200 text-[var(--text)] hover:bg-[var(--surface-2)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--bg)]"
+      className="group flex items-center gap-2.5 rounded-xl px-2 py-2 text-left transition-all duration-200 text-(--text)] hover:bg-(--surface-2)] focus:outline-none focus-visible:ring-2 focus-visible:ring-(--accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-(--bg)]"
     >
-      <span className="relative grid h-14 w-14 shrink-0 place-items-center overflow-hidden rounded-lg bg-[var(--surface-2)]">
+      <span className="relative grid h-14 w-14 shrink-0 place-items-center overflow-hidden rounded-lg bg-(--surface-2)]">
         {imgStatus !== "broken" && channel?.logo ? (
           <img
             src={channel.logo}
@@ -96,7 +96,7 @@ function SuggestedItem({ channel, onSelect }) {
         ) : null}
 
         {(imgStatus === "broken" || !channel?.logo) && (
-          <Tv size={16} className="text-[var(--text-muted)]" />
+          <Tv size={16} className="text-(--text-muted)]" />
         )}
       </span>
 
