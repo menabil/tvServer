@@ -232,7 +232,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[var(--bg)] text-[var(--text)] transition-colors duration-300">
+    <div className="min-h-screen bg-(--bg)] text-(--text)] transition-colors duration-300">
       <Helmet>
         <title>
           {active ? `${active.name} · StreamTV` : "StreamTV — Live Channels"}
@@ -243,14 +243,14 @@ export default function App() {
         />
       </Helmet>
 
-      <header className="sticky top-0 z-30 border-b border-[var(--border)] bg-[var(--bg)]/90 backdrop-blur-md">
+      <header className="sticky top-0 z-30 border-b border-(--border)] bg-(--bg)]/90 backdrop-blur-md">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-4 py-3">
           <div className="flex items-center gap-2.5">
-            <span className="grid h-9 w-9 place-items-center rounded-xl bg-[var(--accent)] text-white">
+            <span className="grid h-9 w-9 place-items-center rounded-xl bg-(--accent)] text-white">
               <Tv size={18} />
             </span>
             <h1 className="font-display text-lg font-bold tracking-tight">
-              Stream<span className="text-[var(--accent)]">TV</span>
+              Stream<span className="text-(--accent)]">TV</span>
             </h1>
           </div>
 
@@ -261,7 +261,7 @@ export default function App() {
           >
             <Search
               size={16}
-              className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[var(--text-muted)]"
+              className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-(--text-muted)]"
             />
             <input
               type="text"
@@ -269,18 +269,18 @@ export default function App() {
               onChange={(e) => handleSearch(e.target.value)}
               onFocus={() => setSearchFocused(true)}
               placeholder={`Search ${category.label}...`}
-              className="w-full rounded-full border border-[var(--border)] bg-[var(--surface)] py-2 pl-9 pr-4 text-sm placeholder-[var(--text-muted)] focus:outline-none focus:ring-2 focus:ring-[var(--accent)]/40"
+              className="w-full rounded-full border border-(--border)] bg-(--surface)] py-2 pl-9 pr-4 text-sm placeholder-(--text-muted)] focus:outline-none focus:ring-2 focus:ring-(--accent)]/40"
             />
 
             {searchFocused && searchSuggestions.length > 0 && (
-              <div className="absolute right-0 top-full z-40 mt-2 w-full overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] py-1 shadow-xl sm:w-80">
+              <div className="absolute right-0 top-full z-40 mt-2 w-full overflow-hidden rounded-2xl border border-(--border)] bg-(--surface)] py-1 shadow-xl sm:w-80">
                 {searchSuggestions.map((ch) => (
                   <button
                     key={ch.id}
                     onClick={() => selectChannel(ch)}
-                    className="flex w-full items-center gap-2.5 px-3 py-2 text-left transition-colors hover:bg-[var(--surface-2)]"
+                    className="flex w-full items-center gap-2.5 px-3 py-2 text-left transition-colors hover:bg-(--surface-2)]"
                   >
-                    <span className="grid h-8 w-8 shrink-0 place-items-center overflow-hidden rounded-lg bg-[var(--surface-2)] relative">
+                    <span className="grid h-8 w-8 shrink-0 place-items-center overflow-hidden rounded-lg bg-(--surface-2)] relative">
                       {ch.logo ? (
                         <img
                           src={ch.logo}
@@ -296,7 +296,7 @@ export default function App() {
                       ) : null}
                       <Tv
                         size={14}
-                        className="text-[var(--text-muted)]"
+                        className="text-(--text-muted)]"
                         style={{ display: ch.logo ? "none" : "block" }}
                       />
                     </span>
@@ -321,9 +321,9 @@ export default function App() {
           <div className="lg:col-span-2">
             <VideoPlayer channel={active} />
 
-            <div className="mt-3 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-4">
-              <span className="inline-flex items-center gap-1.5 rounded-md bg-[var(--accent-soft)] px-2 py-1 text-[10px] font-bold uppercase tracking-widest text-[var(--accent)]">
-                <span className="live-dot h-1.5 w-1.5 rounded-full bg-[var(--accent)]" />
+            <div className="mt-3 rounded-2xl border border-(--border)] bg-(--surface)] p-4">
+              <span className="inline-flex items-center gap-1.5 rounded-md bg-(--accent-soft)] px-2 py-1 text-[10px] font-bold uppercase tracking-widest text-(--accent)]">
+                <span className="live-dot h-1.5 w-1.5 rounded-full bg-(--accent)" />
                 {active?.group || category.label}
               </span>
               <h2 className="mt-2 truncate font-display text-lg font-semibold">
@@ -342,8 +342,8 @@ export default function App() {
         </section>
 
         <section className="flex flex-col gap-3 lg:w-full">
-          <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
-            <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
+          <div className="rounded-2xl border border-(--border)] bg-(--surface)] p-3">
+            <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-(--text-muted)]">
               Categories
             </h3>
             <div
@@ -354,10 +354,11 @@ export default function App() {
                 <button
                   key={id}
                   onClick={() => selectCategory(id)}
-                  className={`flex shrink-0 items-center gap-2 whitespace-nowrap rounded-full border px-3 py-1.5 text-sm font-semibold transition-colors duration-200 ${categoryId === id
-                    ? "border-[var(--accent)] bg-[var(--accent)] text-white"
-                    : "border-[var(--border)] text-[var(--text-muted)] hover:bg-[var(--surface-2)] hover:text-[var(--text)]"
-                    }`}
+                  className={`flex shrink-0 items-center gap-2 whitespace-nowrap rounded-full border px-3 py-1.5 text-sm font-semibold transition-colors duration-200 ${
+                    categoryId === id
+                      ? "border-(--accent)] bg-(--accent)] text-white"
+                      : "border-(--border)] text-(--text-muted)] hover:bg-(--surface-2) hover:text-(--text)"
+                  }`}
                 >
                   <Icon size={14} className="shrink-0" />
                   {label}
@@ -367,8 +368,8 @@ export default function App() {
             </div>
           </div>
 
-          <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
-            <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-[var(--text-muted)]">
+          <div className="rounded-2xl border border-(--border) bg-(--surface) p-3">
+            <h3 className="px-1 pb-2 text-xs font-bold uppercase tracking-widest text-(--text-muted)">
               Sub-categories
             </h3>
             <div
@@ -379,10 +380,11 @@ export default function App() {
                 <button
                   key={g}
                   onClick={() => selectGroup(g)}
-                  className={`shrink-0 rounded-full px-3 py-1.5 text-xs font-medium transition-colors duration-200 ${group === g
-                    ? "bg-[var(--accent-2)] text-white"
-                    : "border border-[var(--border)] bg-[var(--surface)] text-[var(--text-muted)] hover:text-[var(--text)]"
-                    }`}
+                  className={`shrink-0 rounded-full px-3 py-1.5 text-xs font-medium transition-colors duration-200 ${
+                    group === g
+                      ? "bg-(--accent-2) text-white"
+                      : "border border-(--border) bg-(--surface) text-(--text-muted) hover:text-(--text)"
+                  }`}
                 >
                   {g}
                 </button>
@@ -397,10 +399,10 @@ export default function App() {
               {Array.from({ length: pageSize }).map((_, i) => (
                 <div
                   key={i}
-                  className="skeleton flex flex-col items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-3"
+                  className="skeleton flex flex-col items-center gap-2 rounded-xl border border-(--border) bg-(--surface) p-3"
                 >
-                  <span className="h-12 w-12 rounded-lg bg-[var(--surface-2)]" />
-                  <span className="h-3 w-3/4 rounded bg-[var(--surface-2)]" />
+                  <span className="h-12 w-12 rounded-lg bg-(--surface-2)" />
+                  <span className="h-3 w-3/4 rounded bg-(--surface-2)" />
                 </div>
               ))}
             </div>
@@ -423,26 +425,26 @@ export default function App() {
               />
             </>
           ) : (
-            <p className="py-12 text-center text-sm italic text-[var(--text-muted)]">
+            <p className="py-12 text-center text-sm italic text-(--text-muted)">
               No channels found.
             </p>
           )}
         </section>
       </main>
 
-      <footer className="border-t border-[var(--border)] bg-[var(--surface)]">
+      <footer className="border-t border-(--border) bg-(--surface)">
         <div className="mx-auto max-w-7xl px-4 py-8">
           <div className="flex flex-col gap-8 md:flex-row md:items-start md:justify-between">
             <div>
               <div className="flex items-center gap-2.5">
-                <span className="grid h-8 w-8 place-items-center rounded-lg bg-[var(--accent)] text-white">
+                <span className="grid h-8 w-8 place-items-center rounded-lg bg-(--accent) text-white">
                   <Tv size={16} />
                 </span>
                 <span className="font-display text-base font-bold">
-                  Stream<span className="text-[var(--accent)]">TV</span>
+                  Stream<span className="text-(--accent)">TV</span>
                 </span>
               </div>
-              <p className="mt-3 max-w-sm text-sm text-[var(--text-muted)]">
+              <p className="mt-3 max-w-sm text-sm text-(--text-muted)">
                 A simple live-channel hub for Bangla, sports, news, movies,
                 music and more — all in one place.
               </p>
@@ -455,7 +457,7 @@ export default function App() {
                     target="_blank"
                     rel="noreferrer noopener"
                     aria-label={label}
-                    className="grid h-9 w-9 place-items-center rounded-full border border-[var(--border)] text-[var(--text-muted)] transition-colors hover:border-[var(--accent)] hover:text-[var(--accent)]"
+                    className="grid h-9 w-9 place-items-center rounded-full border border-(--border) text-(--text-muted) transition-colors hover:border-(--accent) hover:text-(--accent)"
                   >
                     <Icon size={16} />
                   </a>
@@ -464,7 +466,7 @@ export default function App() {
             </div>
 
             <div className="md:max-w-md md:flex-1">
-              <h3 className="text-xs font-bold uppercase tracking-widest text-[var(--text-muted)] md:text-right">
+              <h3 className="text-xs font-bold uppercase tracking-widest text-(--text-muted) md:text-right">
                 Browse by category
               </h3>
               <div className="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-3">
@@ -475,7 +477,7 @@ export default function App() {
                       selectCategory(id);
                       scrollToTop();
                     }}
-                    className="flex items-center gap-2 rounded-xl border border-[var(--border)] px-3 py-2 text-left text-sm font-medium text-[var(--text-muted)] transition-colors hover:border-[var(--accent)] hover:text-[var(--text)]"
+                    className="flex items-center gap-2 rounded-xl border border-(--border) px-3 py-2 text-left text-sm font-medium text-(--text-muted) transition-colors hover:border-(--accent) hover:text-(--text)"
                   >
                     <Icon size={15} className="shrink-0" />
                     <span className="truncate">{label}</span>
@@ -486,7 +488,7 @@ export default function App() {
             </div>
           </div>
 
-          <div className="mt-8 flex flex-col gap-2 border-t border-[var(--border)] pt-4 text-xs text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between">
+          <div className="mt-8 flex flex-col gap-2 border-t border-(--border) pt-4 text-xs text-(--text-muted) sm:flex-row sm:items-center sm:justify-between">
             <p>
               © {new Date().getFullYear()} StreamTV. All streams belong to their
               respective broadcasters.
