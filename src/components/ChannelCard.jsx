@@ -12,10 +12,11 @@ export default function ChannelCard({ channel, active, onSelect }) {
     <button
       onClick={onSelect}
       aria-current={active ? "true" : undefined}
-      className={`group relative flex flex-col items-center gap-2 rounded-xl border p-3 text-center transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-(--accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-(--bg)] ${active
+      className={`group relative flex flex-col items-center gap-2 rounded-xl border p-3 text-center transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-(--accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-(--bg)] ${
+        active
           ? "border-(--accent)] bg-(--accent-soft)]"
           : "border-(--border)] bg-(--surface)] hover:border-(--accent)]/40"
-        }`}
+      }`}
     >
       {active && (
         <span className="live-dot absolute right-1.5 top-1.5 h-2.5 w-2.5 rounded-full bg-(--accent)]" />
@@ -33,8 +34,9 @@ export default function ChannelCard({ channel, active, onSelect }) {
             aria-hidden="true"
             loading="lazy"
             decoding="async"
-            className={`relative z-10 h-full w-full object-contain p-1 transition-opacity duration-300 ${status === "loaded" ? "opacity-100" : "opacity-0"
-              }`}
+            className={`relative z-10 h-full w-full object-contain p-1 transition-opacity duration-300 ${
+              status === "loaded" ? "opacity-100" : "opacity-0"
+            }`}
             onLoad={() => setStatus("loaded")}
             onError={() => setStatus("broken")}
           />
